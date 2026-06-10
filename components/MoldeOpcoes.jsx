@@ -1,137 +1,141 @@
-import { StyleSheet, Text, View, Image, Pressable } from 'react-native';
+import { StyleSheet, Text, View, Image, Pressable } from "react-native";
+import { Ionicons } from "@expo/vector-icons";
 
-export function AcessarCursos() {
+export function ContinueStudyCard({ onPress }) {
   return (
-    <View style={styles.opcao}>
-      <View style={styles.divAgrupa}>
-        <View style={styles.divImagem}>
-          <Image source={require("../assets/icones/livros.png")} style={styles.iconOpcao} />
-        </View>
-        <View style={styles.textos}>
-          <View style={styles.titulo}><Text style={styles.tituloText}>Acesar Cursos</Text></View>
-          <View style={styles.carregamento}>
-            <View style={styles.divDentro}>
-              <View style={styles.divFora}></View>
-            </View>
-            <View>
-              <Text style={styles.porcentagem}>45%</Text>
-            </View>
-          </View>
-          <View style={styles.obs}><Text style={styles.obsText}>Lições do Dia: Biologia e Matemática</Text></View>
+    <Pressable style={({ pressed }) => [styles.studyCard, pressed && styles.pressed]} onPress={onPress}>
+      <View style={styles.studyTop}>
+        <Image source={require("../assets/icones/livros.png")} style={styles.studyIcon} />
+        <View style={styles.studyText}>
+          <Text style={styles.eyebrow}>Próximo passo</Text>
+          <Text style={styles.studyTitle}>Continuar estudos</Text>
+          <Text style={styles.studyDescription}>Biologia e Matemática estão na sua fila de hoje.</Text>
         </View>
       </View>
-    </View>
+
+      <View style={styles.progressRow}>
+        <View style={styles.progressTrack}>
+          <View style={styles.progressFill} />
+        </View>
+        <Text style={styles.progressText}>45%</Text>
+      </View>
+    </Pressable>
   );
 }
 
-export function ModeloOpcoes({ url, titulo, topico1, topico2, topico3, onPress }) {
+export function HomeShortcut({ icon, title, description, onPress }) {
   return (
-    <Pressable onPress={onPress}>
-      <View style={styles.opcao}>
-        <View style={styles.divAgrupa}>
-          <View style={styles.divImagem}>
-            <Image source={url} style={styles.iconOpcao} />
-          </View>
-          <View style={styles.textos}>
-            <Text style={styles.tituloText}>{titulo}</Text>
-
-            <View style={styles.topico}>
-              <Text style={styles.bolinha}>•</Text>
-              <Text>{topico1}</Text>
-            </View>
-
-            <View style={styles.topico}>
-              <Text style={styles.bolinha}>•</Text>
-              <Text>{topico2}</Text>
-            </View>
-
-            <View style={styles.topico}>
-              <Text style={styles.bolinha}>•</Text>
-              <Text>{topico3}</Text>
-            </View>
-          </View>
-        </View>
+    <Pressable style={({ pressed }) => [styles.shortcut, pressed && styles.pressed]} onPress={onPress}>
+      <View style={styles.shortcutIcon}>
+        <Ionicons name={icon} size={28} color="#025d90" />
       </View>
+      <Text style={styles.shortcutTitle}>{title}</Text>
+      <Text style={styles.shortcutDescription}>{description}</Text>
     </Pressable>
-  )
+  );
+}
+
+export const AcessarCursos = ContinueStudyCard;
+
+export function ModeloOpcoes({ titulo, topico1, topico2, topico3, onPress }) {
+  return (
+    <HomeShortcut
+      icon="apps-outline"
+      title={titulo}
+      description={[topico1, topico2, topico3].filter(Boolean).join(" • ")}
+      onPress={onPress}
+    />
+  );
 }
 
 const styles = StyleSheet.create({
-  divMaster: {
-    flex: 1,
-    backgroundColor: "white"
+  studyCard: {
+    backgroundColor: "white",
+    borderRadius: 14,
+    borderWidth: 2,
+    padding: 16,
+    marginBottom: 14,
   },
-  divOpcoes: {
-    marginTop: 175,
-    backgroundColor: "#dff3ff",
-    flex: 1,
-    paddingTop: 10,
-    marginBottom: 100
+  pressed: {
+    opacity: 0.75,
   },
-  opcao: {
-    height: 150,
-    borderRadius: 15,
-    marginLeft: 5,
-    marginRight: 5,
-    marginBottom: 10,
+  studyTop: {
     flexDirection: "row",
-    justifyContent: "space-between",
     alignItems: "center",
-    borderWidth: 2
   },
-  divAgrupa: {
-    flexDirection: "row",
-    alignItems: "stretch",
-    marginLeft: 15,
-    marginRight: 15,
-    flex: 1
+  studyIcon: {
+    width: 74,
+    height: 74,
+    marginRight: 14,
   },
-  iconOpcao: {
-    width: 100,
-    height: 100,
-    marginRight: 20
+  studyText: {
+    flex: 1,
   },
-  textos: {
-    width: 200,
-    justifyContent: "space-between"
-  },
-  titulo: {
-  },
-  tituloText: {
-    fontSize: 20,
+  eyebrow: {
+    color: "#025d90",
+    fontSize: 13,
     fontWeight: "bold",
-    textAlign: "center"
+    marginBottom: 2,
   },
-  divDentro: {
+  studyTitle: {
+    color: "#111",
+    fontSize: 22,
+    fontWeight: "bold",
+  },
+  studyDescription: {
+    color: "#444",
+    fontSize: 14,
+    marginTop: 3,
+  },
+  progressRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginTop: 14,
+  },
+  progressTrack: {
     backgroundColor: "#ffe7c9",
-    width: "100%",
-    height: 15,
-    borderRadius: 50
+    flex: 1,
+    height: 14,
+    borderRadius: 50,
+    overflow: "hidden",
   },
-  divFora: {
+  progressFill: {
     backgroundColor: "#ff8c00",
     width: "45%",
-    height: 15,
-    borderRadius: 50
+    height: "100%",
   },
-  porcentagem: {
-    textAlign: "center"
-  },
-  obsText: {
-    fontSize: 10,
-    textAlign: "center"
-  },
-  carregamento: {
+  progressText: {
+    color: "#111",
+    fontWeight: "bold",
     marginLeft: 10,
-    marginRight: 10
   },
-  topico: {
-    flexDirection: "row",
+  shortcut: {
+    backgroundColor: "white",
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: "#b7d9eb",
+    padding: 14,
+    width: "48%",
+    minHeight: 150,
+  },
+  shortcutIcon: {
+    width: 46,
+    height: 46,
+    borderRadius: 23,
+    backgroundColor: "#e9f7ff",
     alignItems: "center",
+    justifyContent: "center",
+    marginBottom: 10,
   },
-
-  bolinha: {
-    marginRight: 8,
-    fontSize: 18
-  }
+  shortcutTitle: {
+    color: "#111",
+    fontSize: 16,
+    fontWeight: "bold",
+  },
+  shortcutDescription: {
+    color: "#555",
+    fontSize: 13,
+    lineHeight: 18,
+    marginTop: 5,
+  },
 });
