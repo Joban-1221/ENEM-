@@ -21,7 +21,6 @@ export default function ListarAulas() {
   }
 
   const listaAulas = aulas[materia].aulas || [];
-  console.log(listaAulas)
   const cor = aulas[materia].cor
 
   return (

@@ -3,6 +3,7 @@
     "name": "enem",
     "slug": "enem",
     "version": "1.0.0",
+    "scheme": "enem",
     "orientation": "portrait",
     "icon": "./assets/icones/user.png",
     "userInterfaceStyle": "light",
@@ -11,9 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },

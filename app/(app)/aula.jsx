@@ -6,7 +6,7 @@ import { useLocalSearchParams } from "expo-router";
 
 
 export default function VideoScreen() {
-  
+
   const { materia, index } = useLocalSearchParams();
   const listaAulas = aulas[materia].aulas || [];
   let cor = aulas[materia].cor
@@ -30,29 +30,24 @@ export default function VideoScreen() {
           videoId={aula.id}
         />
       </View>
-    </ScrollView>
-  );
-}
-
-/*
-<View style={styles.content}>
+      <View style={styles.content}>
         <Text style={styles.sectionTitle}>Sobre a aula</Text>
 
         <Text style={styles.texto}>
-          Nesta aula você aprenderá sobre as condições da Terra primitiva,
-          a formação da atmosfera inicial e os principais eventos que
-          possibilitaram o surgimento da vida no planeta.
+          {aula.descricao}
         </Text>
 
         <Text style={styles.sectionTitle}>Objetivos</Text>
 
         <Text style={styles.texto}>
-          • Compreender como era a Terra há bilhões de anos.
-          {"\n"}• Conhecer as hipóteses sobre a origem da vida.
-          {"\n"}• Identificar as características da atmosfera primitiva.
+          {"• " + aula.objetivos.join("\n• ")}
         </Text>
       </View>
-*/
+
+    </ScrollView>
+  );
+}
+
 
 const styles = StyleSheet.create({
   container: {
