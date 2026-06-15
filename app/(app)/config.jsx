@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Image, Pressable, ScrollView, Switch, View, Text, StyleSheet } from "react-native";
+import { Image, Pressable, ScrollView, Switch, View, Text, StyleSheet, useWindowDimensions } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
 import { useAuth } from "@/contexts/AuthContext";
@@ -39,6 +39,8 @@ export default function BasicScreen() {
   const router = useRouter();
   const { user, signOut } = useAuth();
   const [notificationsEnabled, setNotificationsEnabled] = useState(true);
+  const { width } = useWindowDimensions();
+  const contentWidth = Math.min(width - 28, 900);
 
   function handleSignOut() {
     signOut();
@@ -59,7 +61,7 @@ export default function BasicScreen() {
           </Pressable>
         </View>
 
-        <View style={styles.content}>
+        <View style={[styles.content, { maxWidth: contentWidth }]}>
           <View style={styles.notificationPanel}>
             <View style={styles.notificationText}>
               <Text style={styles.panelTitle}>Notificações</Text>
@@ -169,6 +171,8 @@ const styles = StyleSheet.create({
     marginLeft: 6,
   },
   content: {
+    alignSelf: "center",
+    width: "100%",
     padding: 14,
     paddingBottom: 24,
   },

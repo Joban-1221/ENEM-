@@ -1,4 +1,4 @@
-import { ScrollView, StyleSheet, View } from "react-native";
+import { ScrollView, StyleSheet, View, useWindowDimensions } from "react-native";
 import PageHeader from "@/components/PageHeader";
 import ContentCard from "@/components/ContentCard";
 
@@ -30,11 +30,18 @@ const eventos = [
 ];
 
 export default function Calendario() {
+  const { width } = useWindowDimensions();
+  const contentWidth = Math.min(width - 28, 900);
+
   return (
     <View style={styles.screen}>
       <PageHeader title="Calendário ENEM" subtitle="Datas importantes em um só lugar" />
 
-      <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
+      <ScrollView
+        style={styles.content}
+        contentContainerStyle={[styles.contentContainer, { maxWidth: contentWidth }]}
+        showsVerticalScrollIndicator={false}
+      >
         {eventos.map((evento) => (
           <ContentCard key={evento.title} {...evento} />
         ))}
@@ -51,5 +58,10 @@ const styles = StyleSheet.create({
   content: {
     flex: 1,
     padding: 14,
+  },
+  contentContainer: {
+    alignSelf: "center",
+    width: "100%",
+    paddingBottom: 28,
   },
 });

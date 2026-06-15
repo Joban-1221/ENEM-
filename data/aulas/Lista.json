@@ -483,7 +483,7 @@
         ]
       }
     ]
-},
+  },
   "Inglês": {
     "cor": "#9f63ff",
     "aulas": [
@@ -8324,315 +8324,939 @@
       },
       {
         "id": "wqRoZF9_J_g",
-        "titulo": "A globalização e seus fluxos ​- Geografia - Ensino Médio"
+        "titulo": "A globalização e seus fluxos ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de A globalização e seus fluxos - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A globalização e seus fluxos - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "QiSndqQ_xYo",
-        "titulo": "A internacionalização da economia ​​- Geografia - Ensino Médio"
+        "titulo": "A internacionalização da economia ​​- Geografia - Ensino Médio",
+        "descricao": "Estudo de A internacionalização da economia - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A internacionalização da economia - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "6WGzskzr1NI",
-        "titulo": "O outro lado da globalização​ ​- Geografia - Ensino Médio"
+        "titulo": "O outro lado da globalização​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de O outro lado da globalização - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a O outro lado da globalização - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "FyfkzNRDx9g",
-        "titulo": "Economia e geopolítica: G8, G20 e BRICS ​- Geografia - Ensino Médio"
+        "titulo": "Economia e geopolítica: G8, G20 e BRICS ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Economia e geopolítica: G8, G20 e BRICS - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Economia e geopolítica: G8, G20 e BRICS - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "5UYrk5Kv0OA",
-        "titulo": "Declaração dos direitos humanos e a declaração do milênio ​- Geografia - Ensino Médio"
+        "titulo": "Declaração dos direitos humanos e a declaração do milênio ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Declaração dos direitos humanos e a declaração do milênio - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Declaração dos direitos humanos e a declaração do milênio - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "nRxSXBIQkPA",
-        "titulo": "Pobreza e fome no mundo globalizado ​- Geografia - Ensino Médio"
+        "titulo": "Pobreza e fome no mundo globalizado ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Pobreza e fome no mundo globalizado - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Pobreza e fome no mundo globalizado - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "FezyS17O8S4",
-        "titulo": "Desigualdades e outros problemas no mundo não desenvolvido ​- Geografia - Ensino Médio"
+        "titulo": "Desigualdades e outros problemas no mundo não desenvolvido ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Desigualdades e outros problemas no mundo não desenvolvido - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Desigualdades e outros problemas no mundo não desenvolvido - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "iESfChe9MF4",
-        "titulo": "Desigualdade de gênero e etnia no mundo globalizado​ ​- Geografia - Ensino Médio"
+        "titulo": "Desigualdade de gênero e etnia no mundo globalizado​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Desigualdade de gênero e etnia no mundo globalizado - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Desigualdade de gênero e etnia no mundo globalizado - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "HdAZ_toqBTY",
-        "titulo": "A América latina e os desafios do mundo contemporâneo​ ​- Geografia - Ensino Médio"
+        "titulo": "A América latina e os desafios do mundo contemporâneo​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de A América latina e os desafios do mundo contemporâneo - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A América latina e os desafios do mundo contemporâneo - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "rkev7uy6jMo",
-        "titulo": "A África subsaariana e causas do subdesenvolvimento​ ​- Geografia - Ensino Médio"
+        "titulo": "A África subsaariana e causas do subdesenvolvimento​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de A África subsaariana e causas do subdesenvolvimento - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A África subsaariana e causas do subdesenvolvimento - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "BMS4-nQ0RDs",
-        "titulo": "Atividades primárias: a agropecuária​ ​- Geografia - Ensino Médio"
+        "titulo": "Atividades primárias: a agropecuária​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Atividades primárias: a agropecuária - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Atividades primárias: a agropecuária - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "wHmmTvTMP7Y",
-        "titulo": "Economia agrária e sistemas agrários​ ​- Geografia - Ensino Médio"
+        "titulo": "Economia agrária e sistemas agrários​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Economia agrária e sistemas agrários - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Economia agrária e sistemas agrários - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "QNNrk2S2Phk",
-        "titulo": "Os recursos minerais​ ​- Geografia - Ensino Médio"
+        "titulo": "Os recursos minerais​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Os recursos minerais - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Os recursos minerais - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "1gT_tJCyMtc",
-        "titulo": "As fontes de energia​ ​- Geografia - Ensino Médio"
+        "titulo": "As fontes de energia​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de As fontes de energia - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a As fontes de energia - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "24pL2fsBP5c",
-        "titulo": "A indústria: tipos de indústria e fatores locacionais​ ​- Geografia - Ensino Médio"
+        "titulo": "A indústria: tipos de indústria e fatores locacionais​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de A indústria: tipos de indústria e fatores locacionais - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A indústria: tipos de indústria e fatores locacionais - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "kHwIZk8qJ0U",
-        "titulo": "Sistemas de produção industrial​ ​- Geografia - Ensino Médio"
+        "titulo": "Sistemas de produção industrial​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Sistemas de produção industrial - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Sistemas de produção industrial - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "pq53gT_LyGw",
-        "titulo": "As revoluções industriais​ ​- Geografia - Ensino Médio"
+        "titulo": "As revoluções industriais​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de As revoluções industriais - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a As revoluções industriais - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "A1ne-7G3gAw",
-        "titulo": "Industrialização no Reino Unido e na França​ ​- Geografia - Ensino Médio"
+        "titulo": "Industrialização no Reino Unido e na França​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Industrialização no Reino Unido e na França - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Industrialização no Reino Unido e na França - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "HftGSAJNmrw",
-        "titulo": "Industrialização nos Estados Unidos​ ​- Geografia - Ensino Médio"
+        "titulo": "Industrialização nos Estados Unidos​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Industrialização nos Estados Unidos - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Industrialização nos Estados Unidos - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "vmQ-c7E5Zak",
-        "titulo": "Industrialização no Japão e na Alemanha​ ​- Geografia - Ensino Médio"
+        "titulo": "Industrialização no Japão e na Alemanha​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Industrialização no Japão e na Alemanha - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Industrialização no Japão e na Alemanha - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "hrrI_fcyDI0",
-        "titulo": "Industrialização russa: heranças do socialismo​ ​- Geografia - Ensino Médio"
+        "titulo": "Industrialização russa: heranças do socialismo​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Industrialização russa: heranças do socialismo - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Industrialização russa: heranças do socialismo - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "ncpiMT_joek",
-        "titulo": "Industrialização chinesa: um país, dois sistemas​ ​- Geografia - Ensino Médio"
+        "titulo": "Industrialização chinesa: um país, dois sistemas​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Industrialização chinesa: um país, dois sistemas - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Industrialização chinesa: um país, dois sistemas - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "pV2ZYN4L7WM",
-        "titulo": "Industrialização na Índia e o contexto global​ ​- Geografia - Ensino Médio"
+        "titulo": "Industrialização na Índia e o contexto global​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Industrialização na Índia e o contexto global - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Industrialização na Índia e o contexto global - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "c0qo5nf00jY",
-        "titulo": "Novos países industrializados​ ​- Geografia - Ensino Médio"
+        "titulo": "Novos países industrializados​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Novos países industrializados - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Novos países industrializados - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "DIFTWyqG9YI",
-        "titulo": "Os sistemas de transportes​ ​- Geografia - Ensino Médio"
+        "titulo": "Os sistemas de transportes​ ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Os sistemas de transportes - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Os sistemas de transportes - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "lHtab8NsdEs",
-        "titulo": "As redes de comunicação e informação​ - Geografia - Ensino Médio"
+        "titulo": "As redes de comunicação e informação​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de As redes de comunicação e informação - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a As redes de comunicação e informação - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "OEXp3ynkpqQ",
-        "titulo": "A atividade turística no mundo​ - Geografia - Ensino Médio"
+        "titulo": "A atividade turística no mundo​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de A atividade turística no mundo - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A atividade turística no mundo - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "J2BOiV5bSU0",
-        "titulo": "A Organização das Nações Unidas e seus mecanismos​ - Geografia - Ensino Médio"
+        "titulo": "A Organização das Nações Unidas e seus mecanismos​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de A Organização das Nações Unidas e seus mecanismos - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A Organização das Nações Unidas e seus mecanismos - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "yLWoCHDRKf8",
-        "titulo": "A Organização Mundial do Comércio: histórico e desafios atuais​ - Geografia - Ensino Médio"
+        "titulo": "A Organização Mundial do Comércio: histórico e desafios atuais​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de A Organização Mundial do Comércio: histórico e desafios atuais - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A Organização Mundial do Comércio: histórico e desafios atuais - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "3nNGJEtMZoM",
-        "titulo": "Blocos econômicos e suas modalidades​ - Geografia - Ensino Médio"
+        "titulo": "Blocos econômicos e suas modalidades​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Blocos econômicos e suas modalidades - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Blocos econômicos e suas modalidades - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "DYKKOGbcTr8",
-        "titulo": "União Europeia​ - Geografia - Ensino Médio"
+        "titulo": "União Europeia​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de União Europeia - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a União Europeia - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "U9qagvuYbYQ",
-        "titulo": "O Mercosul e o Nafta​ - Geografia - Ensino Médio"
+        "titulo": "O Mercosul e o Nafta​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de O Mercosul e o Nafta - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a O Mercosul e o Nafta - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "xL3BdDdEd8A",
-        "titulo": "Comunidade dos Estados Independentes​ - Geografia - Ensino Médio"
+        "titulo": "Comunidade dos Estados Independentes​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Comunidade dos Estados Independentes - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Comunidade dos Estados Independentes - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "0n2iSk4C4cg",
-        "titulo": "Organismos financeiros internacionais​ - Geografia - Ensino Médio"
+        "titulo": "Organismos financeiros internacionais​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Organismos financeiros internacionais - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Organismos financeiros internacionais - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "LzRKw0KyGUA",
-        "titulo": "As empresas transnacionais - Geografia - Ensino Médio"
+        "titulo": "As empresas transnacionais - Geografia - Ensino Médio",
+        "descricao": "Estudo de As empresas transnacionais - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a As empresas transnacionais - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "I_llIySJ85s",
-        "titulo": "As organizações não governamentais e o seu papel internacional​ - Geografia - Ensino Médio"
+        "titulo": "As organizações não governamentais e o seu papel internacional​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de As organizações não governamentais e o seu papel internacional - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a As organizações não governamentais e o seu papel internacional - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "z3MT5QcSZ2I",
-        "titulo": "Brasil: localização, extensão e pontos extremos​ - Geografia - Ensino Médio"
+        "titulo": "Brasil: localização, extensão e pontos extremos​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Brasil: localização, extensão e pontos extremos - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Brasil: localização, extensão e pontos extremos - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "beSBmhASOOs",
-        "titulo": "Brasil: territorialidade; soberania e segurança nacional​ - Geografia - Ensino Médio"
+        "titulo": "Brasil: territorialidade; soberania e segurança nacional​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Brasil: territorialidade; soberania e segurança nacional - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Brasil: territorialidade; soberania e segurança nacional - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "9Y0Lj2_kN4s",
-        "titulo": "Fronteiras terrestres e marítimas brasileiras​ - Geografia - Ensino Médio"
+        "titulo": "Fronteiras terrestres e marítimas brasileiras​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Fronteiras terrestres e marítimas brasileiras - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Fronteiras terrestres e marítimas brasileiras - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "2JphVXrxNTk",
-        "titulo": "Expansão territorial brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Expansão territorial brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Expansão territorial brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Expansão territorial brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "Xc0yecNQ1g4",
-        "titulo": "A divisão regional brasileira​ - Geografia - Ensino Médio"
+        "titulo": "A divisão regional brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de A divisão regional brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a A divisão regional brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "eWBk3Xjhg7I",
-        "titulo": "Classificações do relevo brasileiro ​- Geografia - Ensino Médio"
+        "titulo": "Classificações do relevo brasileiro ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Classificações do relevo brasileiro - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Classificações do relevo brasileiro - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "2DVnbdZ0qow",
-        "titulo": "Dinâmica interna e externa do relevo brasileiro​ - Geografia - Ensino Médio"
+        "titulo": "Dinâmica interna e externa do relevo brasileiro​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Dinâmica interna e externa do relevo brasileiro - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Dinâmica interna e externa do relevo brasileiro - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "qh_BKxe3oi0",
-        "titulo": "Estrutura geológica brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Estrutura geológica brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Estrutura geológica brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Estrutura geológica brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "-GrqM2y3rBQ",
-        "titulo": "Elementos e fatores climáticos brasileiros​ - Geografia - Ensino Médio"
+        "titulo": "Elementos e fatores climáticos brasileiros​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Elementos e fatores climáticos brasileiros - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Elementos e fatores climáticos brasileiros - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "Jz-k4wwNdds",
-        "titulo": "Características climáticas brasileiras​ - Geografia - Ensino Médio"
+        "titulo": "Características climáticas brasileiras​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Características climáticas brasileiras - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Características climáticas brasileiras - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "M-qYr4aOgs4",
-        "titulo": "Classificação climática brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Classificação climática brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Classificação climática brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Classificação climática brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "TO505l-mr4A",
-        "titulo": "Hidrografia brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Hidrografia brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Hidrografia brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Hidrografia brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "7jz4xB_lRPU",
-        "titulo": "Bacias hidrográficas brasileiras​ - Geografia - Ensino Médio"
+        "titulo": "Bacias hidrográficas brasileiras​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Bacias hidrográficas brasileiras - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Bacias hidrográficas brasileiras - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "X68Oz1k3Xow",
-        "titulo": "Gestão dos recursos hídricos brasileiros​ - Geografia - Ensino Médio"
+        "titulo": "Gestão dos recursos hídricos brasileiros​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Gestão dos recursos hídricos brasileiros - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Gestão dos recursos hídricos brasileiros - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "Jw_vVHDcNSQ",
-        "titulo": "Formações vegetais brasileiras​ - Geografia - Ensino Médio"
+        "titulo": "Formações vegetais brasileiras​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Formações vegetais brasileiras - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Formações vegetais brasileiras - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "OIC3Xm5DEAU",
-        "titulo": "Domínios morfoclimáticos brasileiros: amazônia, cerrado e caatinga​ - Geografia - Ensino Médio"
+        "titulo": "Domínios morfoclimáticos brasileiros: amazônia, cerrado e caatinga​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Domínios morfoclimáticos brasileiros: amazônia, cerrado e caatinga - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Domínios morfoclimáticos brasileiros: amazônia, cerrado e caatinga - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "0lgx-XuFmbQ",
-        "titulo": "Domínios morfoclimáticos: mares de morros, araucárias, pradarias e faixas transição - Geografia - EM"
+        "titulo": "Domínios morfoclimáticos: mares de morros, araucárias, pradarias e faixas transição - Geografia - EM",
+        "descricao": "Estudo de Domínios morfoclimáticos: mares de morros, araucárias, pradarias e faixas transição - Geografia, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Domínios morfoclimáticos: mares de morros, araucárias, pradarias e faixas transição - Geografia.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "JnrQjj-_-4g",
-        "titulo": "Biomas do Brasil ​- Geografia - Ensino Médio"
+        "titulo": "Biomas do Brasil ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Biomas do Brasil - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Biomas do Brasil - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "N6IMzylhkmA",
-        "titulo": "Histórico da política ambiental brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Histórico da política ambiental brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Histórico da política ambiental brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Histórico da política ambiental brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "Y8r0zFaa59Y",
-        "titulo": "Panorama demográfico do Brasil​ - Geografia - Ensino Médio"
+        "titulo": "Panorama demográfico do Brasil​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Panorama demográfico do Brasil - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Panorama demográfico do Brasil - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "tTWVnN5OMvE",
-        "titulo": "Evolução da estrutura etária brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Evolução da estrutura etária brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Evolução da estrutura etária brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Evolução da estrutura etária brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "5YWuBTo7P9g",
-        "titulo": "Distribuição populacional no território brasileiro​ - Geografia - Ensino Médio"
+        "titulo": "Distribuição populacional no território brasileiro​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Distribuição populacional no território brasileiro - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Distribuição populacional no território brasileiro - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "9Bm6SD28Rzw",
-        "titulo": "Condições de vida e desigualdade social brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Condições de vida e desigualdade social brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Condições de vida e desigualdade social brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Condições de vida e desigualdade social brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "EbOqa4j6_Bc",
-        "titulo": "Migrações internas no Brasil: panorama histórico​ - Geografia - Ensino Médio"
+        "titulo": "Migrações internas no Brasil: panorama histórico​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Migrações internas no Brasil: panorama histórico - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Migrações internas no Brasil: panorama histórico - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "N46g64mdBU0",
-        "titulo": "Histórico das migrações externas no Brasil ​- Geografia - Ensino Médio"
+        "titulo": "Histórico das migrações externas no Brasil ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Histórico das migrações externas no Brasil - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Histórico das migrações externas no Brasil - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "Gt3hkSupWKM",
-        "titulo": "Urbanização brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Urbanização brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Urbanização brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Urbanização brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "YPrPxfB9omM",
-        "titulo": "Regiões metropolitanas brasileiras​ - Geografia - Ensino Médio"
+        "titulo": "Regiões metropolitanas brasileiras​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Regiões metropolitanas brasileiras - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Regiões metropolitanas brasileiras - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "EYpp8T2zjWU",
-        "titulo": "Macrocefalia urbana e problemas sociais​ - Geografia - Ensino Médio"
+        "titulo": "Macrocefalia urbana e problemas sociais​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Macrocefalia urbana e problemas sociais - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Macrocefalia urbana e problemas sociais - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "y-67Z2KV2bQ",
-        "titulo": "Organização do espaço econômico brasileiro​ - Geografia - Ensino Médio"
+        "titulo": "Organização do espaço econômico brasileiro​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Organização do espaço econômico brasileiro - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Organização do espaço econômico brasileiro - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "-OWnEYq5Fsw",
-        "titulo": "Histórico da industrialização brasileira ​- Geografia - Ensino Médio"
+        "titulo": "Histórico da industrialização brasileira ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Histórico da industrialização brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Histórico da industrialização brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "EyEycmpfi7U",
-        "titulo": "Distribuição da indústria brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Distribuição da indústria brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Distribuição da indústria brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Distribuição da indústria brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "7fw3ZH8rUNs",
-        "titulo": "O espaço agropecuário brasileiro​ - Geografia - Ensino Médio"
+        "titulo": "O espaço agropecuário brasileiro​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de O espaço agropecuário brasileiro - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a O espaço agropecuário brasileiro - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "yWZOm4g5D_M",
-        "titulo": "Atividades e produtos agropecuários brasileiros​ - Geografia - Ensino Médio"
+        "titulo": "Atividades e produtos agropecuários brasileiros​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Atividades e produtos agropecuários brasileiros - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Atividades e produtos agropecuários brasileiros - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "uZR-BlpPDMA",
-        "titulo": "O agronegócio ​- Geografia - Ensino Médio"
+        "titulo": "O agronegócio ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de O agronegócio - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a O agronegócio - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "QMpbhPqIihk",
-        "titulo": "Fronteiras agropecuárias brasileiras​ - Geografia - Ensino Médio"
+        "titulo": "Fronteiras agropecuárias brasileiras​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Fronteiras agropecuárias brasileiras - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Fronteiras agropecuárias brasileiras - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "JR-qXYFeuDQ",
-        "titulo": "Estrutura fundiária brasileira e conflitos no campo​ - Geografia - Ensino Médio"
+        "titulo": "Estrutura fundiária brasileira e conflitos no campo​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Estrutura fundiária brasileira e conflitos no campo - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Estrutura fundiária brasileira e conflitos no campo - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "BXHw19XUe-M",
-        "titulo": "Recursos minerais brasileiros​ - Geografia - Ensino Médio"
+        "titulo": "Recursos minerais brasileiros​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Recursos minerais brasileiros - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Recursos minerais brasileiros - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "6cVmzpG_iqM",
-        "titulo": "Matriz energética brasileira​ - Geografia - Ensino Médio"
+        "titulo": "Matriz energética brasileira​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Matriz energética brasileira - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Matriz energética brasileira - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "9pvwdG0e2Nw",
-        "titulo": "Evolução do comércio exterior brasileiro​ - Geografia - Ensino Médio"
+        "titulo": "Evolução do comércio exterior brasileiro​ - Geografia - Ensino Médio",
+        "descricao": "Estudo de Evolução do comércio exterior brasileiro - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Evolução do comércio exterior brasileiro - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "4AMy1yNGZj4",
-        "titulo": "Corredores de exportação - Geografia - Ensino Médio"
+        "titulo": "Corredores de exportação - Geografia - Ensino Médio",
+        "descricao": "Estudo de Corredores de exportação - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Corredores de exportação - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "rziG29jYTX0",
-        "titulo": "Rede de transporte brasileiro ​- Geografia - Ensino Médio"
+        "titulo": "Rede de transporte brasileiro ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Rede de transporte brasileiro - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Rede de transporte brasileiro - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       },
       {
         "id": "mo-hvcQeGrM",
-        "titulo": "Telecomunicações no Brasil ​- Geografia - Ensino Médio"
+        "titulo": "Telecomunicações no Brasil ​- Geografia - Ensino Médio",
+        "descricao": "Estudo de Telecomunicações no Brasil - Geografia - Ensino Médio, relacionando conceitos geogr?ficos, processos hist?ricos, organiza??o do espa?o e impactos sociais, econ?micos e ambientais cobrados no ENEM.",
+        "objetivos": [
+          "Compreender os conceitos centrais relacionados a Telecomunicações no Brasil - Geografia - Ensino Médio.",
+          "Identificar causas, caracter?sticas e consequ?ncias do tema no espa?o geogr?fico.",
+          "Relacionar o conte?do a escalas local, regional, nacional e mundial quando pertinente.",
+          "Interpretar mapas, gr?ficos, dados e situa??es-problema ligados ao assunto.",
+          "Aplicar o tema em quest?es do ENEM envolvendo sociedade, economia e ambiente."
+        ]
       }
     ]
   },
@@ -8641,103 +9265,303 @@
     "aulas": [
       {
         "id": "J2jbxyXdi-U",
-        "titulo": "Por que sociologia?​ - Sociologia - Ensino Médio"
+        "titulo": "Por que sociologia?​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Por que sociologia? - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Por que sociologia? - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "JyoilD42gjg",
-        "titulo": "Durkheim e o estudo da modernidade​ - Sociologia - Ensino Médio"
+        "titulo": "Durkheim e o estudo da modernidade​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Durkheim e o estudo da modernidade - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Durkheim e o estudo da modernidade - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "3crNobfAb8s",
-        "titulo": "A teoria da modernidade em Max Weber​ - Sociologia - Ensino Médio"
+        "titulo": "A teoria da modernidade em Max Weber​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de A teoria da modernidade em Max Weber - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a A teoria da modernidade em Max Weber - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "EMctYPGDSi4",
-        "titulo": "Marx e a crítica ao capital​ - Sociologia - Ensino Médio"
+        "titulo": "Marx e a crítica ao capital​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Marx e a crítica ao capital - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Marx e a crítica ao capital - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "PCHrgahQYJQ",
-        "titulo": "O espetáculo e a indústria cultural​ - Sociologia - Ensino Médio"
+        "titulo": "O espetáculo e a indústria cultural​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de O espetáculo e a indústria cultural - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a O espetáculo e a indústria cultural - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "387whyGmYdg",
-        "titulo": "Bourdieu e a teoria dos capitais​ - Sociologia - Ensino Médio"
+        "titulo": "Bourdieu e a teoria dos capitais​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Bourdieu e a teoria dos capitais - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Bourdieu e a teoria dos capitais - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "NJ4P1d-aBgs",
-        "titulo": "Bauman e a vida  líquida contemporânea​ - Sociologia - Ensino Médio"
+        "titulo": "Bauman e a vida  líquida contemporânea​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Bauman e a vida líquida contemporânea - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Bauman e a vida líquida contemporânea - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "J2uUOUqfpyQ",
-        "titulo": "Introdução a análise sociológica no Brasil​ - Sociologia - Ensino Médio"
+        "titulo": "Introdução a análise sociológica no Brasil​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Introdução a análise sociológica no Brasil - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Introdução a análise sociológica no Brasil - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "M0pv3d7zX-I",
-        "titulo": "A democracia cultural em Gilberto Freyre ​- Sociologia - Ensino Médio"
+        "titulo": "A democracia cultural em Gilberto Freyre ​- Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de A democracia cultural em Gilberto Freyre - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a A democracia cultural em Gilberto Freyre - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "U95KUP7mgno",
-        "titulo": "As raízes do Brasil em Sérgio Buarque de Holanda​ - Sociologia - Ensino Médio"
+        "titulo": "As raízes do Brasil em Sérgio Buarque de Holanda​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de As raízes do Brasil em Sérgio Buarque de Holanda - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a As raízes do Brasil em Sérgio Buarque de Holanda - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "ZQrJVOzNgLw",
-        "titulo": "Desconstruindo a democracia racial em Florestan Fernandes​ - Sociologia - Ensino Médio"
+        "titulo": "Desconstruindo a democracia racial em Florestan Fernandes​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Desconstruindo a democracia racial em Florestan Fernandes - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Desconstruindo a democracia racial em Florestan Fernandes - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "3d3BFBaibds",
-        "titulo": "O povo brasileiro em Darcy Ribeiro​ - Sociologia - Ensino Médio"
+        "titulo": "O povo brasileiro em Darcy Ribeiro​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de O povo brasileiro em Darcy Ribeiro - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a O povo brasileiro em Darcy Ribeiro - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "0Z5OjLhdZoc",
-        "titulo": "As expressões sociais do trabalho​ - Sociologia - Ensino Médio"
+        "titulo": "As expressões sociais do trabalho​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de As expressões sociais do trabalho - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a As expressões sociais do trabalho - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "Iw4h88BY3A4",
-        "titulo": "A Pobreza e a desigualdade social - Sociologia - Ensino Médio"
+        "titulo": "A Pobreza e a desigualdade social - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de A Pobreza e a desigualdade social - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a A Pobreza e a desigualdade social - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "qILchOAqqlY",
-        "titulo": "O que são estratificações sociais?​ - Sociologia - Ensino Médio"
+        "titulo": "O que são estratificações sociais?​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de O que são estratificações sociais? - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a O que são estratificações sociais? - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "pMchZ3S7EI0",
-        "titulo": "Tolerar é o bastante?​ - Sociologia - Ensino Médio"
+        "titulo": "Tolerar é o bastante?​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Tolerar é o bastante? - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Tolerar é o bastante? - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "CF-AFcwVGo4",
-        "titulo": "Cultura e suas diversidades​ - Sociologia - Ensino Médio"
+        "titulo": "Cultura e suas diversidades​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Cultura e suas diversidades - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Cultura e suas diversidades - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "BkVUoOLpBNc",
-        "titulo": "Vamos falar sobre gênero?​ - Sociologia - Ensino Médio"
+        "titulo": "Vamos falar sobre gênero?​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Vamos falar sobre gênero? - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Vamos falar sobre gênero? - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "COn81JcEbd8",
-        "titulo": "Os desafios do estado-nação no mundo contemporâneo​ - Sociologia - Ensino Médio"
+        "titulo": "Os desafios do estado-nação no mundo contemporâneo​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Os desafios do estado-nação no mundo contemporâneo - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Os desafios do estado-nação no mundo contemporâneo - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "7ch02C-ITcY",
-        "titulo": "O que são direitos civis, políticos e sociais?​ - Sociologia - Ensino Médio"
+        "titulo": "O que são direitos civis, políticos e sociais?​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de O que são direitos civis, políticos e sociais? - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a O que são direitos civis, políticos e sociais? - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "vSR5hPwLx4Q",
-        "titulo": "A teoria dos movimentos sociais​ - Sociologia - Ensino Médio"
+        "titulo": "A teoria dos movimentos sociais​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de A teoria dos movimentos sociais - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a A teoria dos movimentos sociais - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "W53OCEksLsY",
-        "titulo": "Regimes políticos: entre democracias e autoritarismos​ - Sociologia - Ensino Médio"
+        "titulo": "Regimes políticos: entre democracias e autoritarismos​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Regimes políticos: entre democracias e autoritarismos - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Regimes políticos: entre democracias e autoritarismos - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "ZduOZL4SvNQ",
-        "titulo": "Política e o conceito de poder​ - Sociologia - Ensino Médio"
+        "titulo": "Política e o conceito de poder​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Política e o conceito de poder - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Política e o conceito de poder - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "U88AiZu8Y_U",
-        "titulo": "O mundo globalizado e seus paradoxos​ - Sociologia - Ensino Médio"
+        "titulo": "O mundo globalizado e seus paradoxos​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de O mundo globalizado e seus paradoxos - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a O mundo globalizado e seus paradoxos - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       },
       {
         "id": "dgwdRbtBvgM",
-        "titulo": "Antropologia: alteridade e o convívio social​ - Sociologia - Ensino Médio"
+        "titulo": "Antropologia: alteridade e o convívio social​ - Sociologia - Ensino Médio",
+        "descricao": "An?lise sociol?gica de Antropologia: alteridade e o convívio social - Sociologia - Ensino Médio, conectando autores, conceitos, institui??es e pr?ticas sociais ? interpreta??o cr?tica da sociedade contempor?nea.",
+        "objetivos": [
+          "Compreender os conceitos sociol?gicos centrais relacionados a Antropologia: alteridade e o convívio social - Sociologia - Ensino Médio.",
+          "Identificar autores, categorias e debates associados ao assunto.",
+          "Relacionar o tema a institui??es, cultura, trabalho, poder e desigualdades sociais.",
+          "Analisar situa??es cotidianas e textos a partir de uma perspectiva sociol?gica.",
+          "Aplicar o conte?do na interpreta??o de quest?es do ENEM."
+        ]
       }
     ]
   },
@@ -8746,103 +9570,303 @@
     "aulas": [
       {
         "id": "gXaLBGQTkrw",
-        "titulo": "Origem da filosofia​ - Filosofia - Ensino Médio"
+        "titulo": "Origem da filosofia​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Origem da filosofia - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Origem da filosofia - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "Iaua3T8rK-Q",
-        "titulo": "Democracia ateniense​ - Filosofia - Ensino Médio"
+        "titulo": "Democracia ateniense​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Democracia ateniense - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Democracia ateniense - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "0V1Kun46_Qs",
-        "titulo": "Platão e o mundo das ideias​ - Filosofia - Ensino Médio"
+        "titulo": "Platão e o mundo das ideias​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Platão e o mundo das ideias - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Platão e o mundo das ideias - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "qCGre0mZIg0",
-        "titulo": "Aristóteles e a metafísica​ - Filosofia - Ensino Médio"
+        "titulo": "Aristóteles e a metafísica​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Aristóteles e a metafísica - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Aristóteles e a metafísica - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "appQOmYewVY",
-        "titulo": "Helenismo​ - Filosofia - Ensino Médio"
+        "titulo": "Helenismo​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Helenismo - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Helenismo - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "95PNyg4v_fU",
-        "titulo": "Filosofia na idade média​ - Filosofia - Ensino Médio"
+        "titulo": "Filosofia na idade média​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Filosofia na idade média - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Filosofia na idade média - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "ZH9Sgik6noc",
-        "titulo": "Maquiavel e a teoria política​ - Filosofia - Ensino Médio"
+        "titulo": "Maquiavel e a teoria política​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Maquiavel e a teoria política - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Maquiavel e a teoria política - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "-OdJueprsgU",
-        "titulo": "Etienne de La Boétie​ - Filosofia - Ensino Médio"
+        "titulo": "Etienne de La Boétie​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Etienne de La Boétie - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Etienne de La Boétie - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "noLczRNLWcs",
-        "titulo": "Racionalismo e empirismo​ - Filosofia - Ensino Médio"
+        "titulo": "Racionalismo e empirismo​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Racionalismo e empirismo - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Racionalismo e empirismo - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "5Guk7xTuyb8",
-        "titulo": "Contratualismo​ - Filosofia - Ensino Médio"
+        "titulo": "Contratualismo​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Contratualismo - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Contratualismo - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "lP7VUDspN5o",
-        "titulo": "Edmund Burke​ - Filosofia - Ensino Médio"
+        "titulo": "Edmund Burke​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Edmund Burke - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Edmund Burke - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "bdH9s2jVwU4",
-        "titulo": "Immanuel Kant​ - Filosofia - Ensino Médio"
+        "titulo": "Immanuel Kant​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Immanuel Kant - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Immanuel Kant - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "fdr9cuDJrZM",
-        "titulo": "Dialética​ - Filosofia - Ensino Médio"
+        "titulo": "Dialética​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Dialética - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Dialética - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "yyDhFZKkvgo",
-        "titulo": "Liberalismo inglês​ - Filosofia - Ensino Médio"
+        "titulo": "Liberalismo inglês​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Liberalismo inglês - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Liberalismo inglês - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "6rsUAgzcjyM",
-        "titulo": "Nietzsche e o niilismo​ - Filosofia - Ensino Médio"
+        "titulo": "Nietzsche e o niilismo​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Nietzsche e o niilismo - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Nietzsche e o niilismo - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "FoYPsVnVgbo",
-        "titulo": "Pensamento conservador​ - Filosofia - Ensino Médio"
+        "titulo": "Pensamento conservador​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Pensamento conservador - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Pensamento conservador - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "dLiXNsRPuKI",
-        "titulo": "Rosa Luxemburgo​ - Filosofia - Ensino Médio"
+        "titulo": "Rosa Luxemburgo​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Rosa Luxemburgo - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Rosa Luxemburgo - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "V4uMX_64Zs8",
-        "titulo": "Teoria crítica​ - Filosofia - Ensino Médio"
+        "titulo": "Teoria crítica​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Teoria crítica - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Teoria crítica - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "PunYgkcerbg",
-        "titulo": "Antonio Gramsci​ - Filosofia - Ensino Médio"
+        "titulo": "Antonio Gramsci​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Antonio Gramsci - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Antonio Gramsci - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "7qwlJRPF560",
-        "titulo": "Hannah Arendt​ - Filosofia - Ensino Médio"
+        "titulo": "Hannah Arendt​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Hannah Arendt - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Hannah Arendt - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "ysk56XJduLM",
-        "titulo": "Jean-Paul Sartre​ - Filosofia - Ensino Médio"
+        "titulo": "Jean-Paul Sartre​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Jean-Paul Sartre - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Jean-Paul Sartre - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "V2klrd_POik",
-        "titulo": "Michel Foucault​ - Filosofia - Ensino Médio"
+        "titulo": "Michel Foucault​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Michel Foucault - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Michel Foucault - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "4ocPQCmyNEg",
-        "titulo": "Jessé Souza​ - Filosofia - Ensino Médio"
+        "titulo": "Jessé Souza​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Jessé Souza - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Jessé Souza - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "kyLlMeoXi7I",
-        "titulo": "Joseph-Achille Mbembe​ - Filosofia - Ensino Médio"
+        "titulo": "Joseph-Achille Mbembe​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Joseph-Achille Mbembe - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Joseph-Achille Mbembe - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       },
       {
         "id": "06IteYkeOmk",
-        "titulo": "Simone Beauvoir​ - Filosofia - Ensino Médio"
+        "titulo": "Simone Beauvoir​ - Filosofia - Ensino Médio",
+        "descricao": "Estudo filos?fico de Simone Beauvoir - Filosofia - Ensino Médio, destacando contexto hist?rico, conceitos centrais, argumentos dos pensadores e rela??es com problemas ?ticos, pol?ticos e culturais.",
+        "objetivos": [
+          "Compreender os conceitos filos?ficos centrais relacionados a Simone Beauvoir - Filosofia - Ensino Médio.",
+          "Identificar o contexto hist?rico e os principais argumentos envolvidos no tema.",
+          "Comparar ideias, correntes e pensadores associados ao assunto.",
+          "Analisar problemas ?ticos, pol?ticos, epistemol?gicos ou culturais ligados ao conte?do.",
+          "Aplicar o repert?rio filos?fico na leitura de textos e quest?es do ENEM."
+        ]
       }
     ]
   }

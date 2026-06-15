@@ -23,9 +23,9 @@ export function ContinueStudyCard({ onPress }) {
   );
 }
 
-export function HomeShortcut({ icon, title, description, onPress }) {
+export function HomeShortcut({ icon, title, description, onPress, style }) {
   return (
-    <Pressable style={({ pressed }) => [styles.shortcut, pressed && styles.pressed]} onPress={onPress}>
+    <Pressable style={({ pressed }) => [styles.shortcut, style, pressed && styles.pressed]} onPress={onPress}>
       <View style={styles.shortcutIcon}>
         <Ionicons name={icon} size={28} color="#025d90" />
       </View>
@@ -115,7 +115,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: "#b7d9eb",
     padding: 14,
-    width: "48%",
+    flexGrow: 1,
+    flexBasis: "48%",
     minHeight: 150,
   },
   shortcutIcon: {

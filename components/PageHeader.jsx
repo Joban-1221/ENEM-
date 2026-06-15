@@ -5,9 +5,18 @@ import { useRouter } from "expo-router";
 export default function PageHeader({ title, subtitle }) {
   const router = useRouter();
 
+  function handleBack() {
+    if (router.canGoBack()) {
+      router.back();
+      return;
+    }
+
+    router.replace("/");
+  }
+
   return (
     <View style={styles.header}>
-      <Pressable style={styles.backButton} onPress={() => router.replace("/")}>
+      <Pressable style={styles.backButton} onPress={handleBack}>
         <Ionicons name="chevron-back" size={26} color="#025d90" />
       </Pressable>
 
@@ -45,10 +54,12 @@ const styles = StyleSheet.create({
     color: "#111",
     fontSize: 26,
     fontWeight: "bold",
+    flexShrink: 1,
   },
   subtitle: {
     color: "#555",
     fontSize: 14,
     marginTop: 2,
+    lineHeight: 19,
   },
 });

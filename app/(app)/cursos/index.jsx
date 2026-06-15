@@ -1,6 +1,7 @@
-import { ScrollView, StyleSheet, View, Text } from "react-native";
+import { ScrollView, StyleSheet, View, Text, useWindowDimensions } from "react-native";
 import PageHeader from "@/components/PageHeader";
 import ContentCard from "@/components/ContentCard";
+import aulas from "../../../data/aulas/Lista.json";
 
 const cursos = [
   {
@@ -81,12 +82,17 @@ const cursos = [
 ];
 
 export default function Cursos() {
+  const { width } = useWindowDimensions();
+  const isWide = width >= 760;
+  const contentWidth = Math.min(width - 28, 980);
+
   return (
     <View style={styles.screen}>
       <PageHeader title="Cursos" subtitle="Continue seus estudos por área" />
 
       <ScrollView
         style={styles.content}
+        contentContainerStyle={[styles.contentContainer, { maxWidth: contentWidth }]}
         showsVerticalScrollIndicator={false}
       >
         {cursos.map((grupo) => (
@@ -95,12 +101,22 @@ export default function Cursos() {
               {grupo.area}
             </Text>
 
-            {grupo.materias.map((materia) => (
-              <ContentCard
-                key={materia.title}
-                {...materia}
-              />
-            ))}
+            <View style={styles.subjectGrid}>
+              {grupo.materias.map((materia) => {
+                const totalAulas = aulas[materia.title]?.aulas?.length || 0;
+
+                return (
+                  <ContentCard
+                    key={materia.title}
+                    {...materia}
+                    meta={`${totalAulas} aulas`}
+                    route="/cursos/listarAulas"
+                    params={{ materia: materia.title }}
+                    style={isWide ? styles.subjectCardWide : styles.subjectCard}
+                  />
+                );
+              })}
+            </View>
           </View>
         ))}
       </ScrollView>
@@ -118,6 +134,11 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 14,
   },
+  contentContainer: {
+    alignSelf: "center",
+    width: "100%",
+    paddingBottom: 28,
+  },
 
   section: {
     marginBottom: 24,
@@ -129,5 +150,17 @@ const styles = StyleSheet.create({
     color: "#003049",
     marginBottom: 10,
     marginLeft: 4,
+  },
+  subjectGrid: {
+    flexDirection: "row",
+    flexWrap: "wrap",
+    columnGap: 12,
+  },
+  subjectCard: {
+    width: "100%",
+  },
+  subjectCardWide: {
+    flexBasis: "48%",
+    flexGrow: 1,
   },
 });

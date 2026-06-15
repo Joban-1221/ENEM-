@@ -12,17 +12,20 @@ export default function AulaCard({
   id,
 }){
   const router = useRouter();
+  const numeroFormatado = String(numero).padStart(2, "0");
+
   return (
     
-    <Pressable style={styles.card} 
-      onPress={() => router.push({pathname: "/aula", params: {materia: materia, index: index}})}
+    <Pressable
+      style={({ pressed }) => [styles.card, pressed && styles.pressed]}
+      onPress={() => router.push({ pathname: "/cursos/aula", params: { materia, index } })}
     >
       <View style={[styles.numeroBox, { backgroundColor: cor }]}>
-        <Text style={styles.numero}>{numero}</Text>
+        <Text style={styles.numero}>{numeroFormatado}</Text>
       </View>
 
       <View style={styles.content}>
-        <Text style={styles.titulo} numberOfLines={2}>
+        <Text style={styles.titulo} numberOfLines={3}>
           {titulo}
         </Text>
 
@@ -52,24 +55,26 @@ export default function AulaCard({
 const styles = StyleSheet.create({
   card: {
     backgroundColor: "#fff",
-    borderRadius: 16,
+    borderRadius: 12,
     padding: 14,
     marginBottom: 12,
     flexDirection: "row",
-    alignItems: "center",
+    alignItems: "flex-start",
     borderWidth: 1,
     borderColor: "#e5e7eb",
     elevation: 2,
   },
+  pressed: {
+    opacity: 0.75,
+  },
 
   numeroBox: {
-    width: 54,
-    height: 54,
-    borderRadius: 14,
+    width: 52,
+    height: 52,
+    borderRadius: 8,
     justifyContent: "center",
     alignItems: "center",
     marginRight: 14,
-    borderRadius: 5
   },
 
   numero: {
@@ -93,6 +98,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
+    gap: 8,
   },
 
   materiaBadge: {
@@ -104,5 +110,6 @@ const styles = StyleSheet.create({
   materia: {
     fontSize: 12,
     fontWeight: "600",
+    flexShrink: 1,
   },
 });

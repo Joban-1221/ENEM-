@@ -1,5 +1,5 @@
 import React from "react";
-import { ScrollView, View, Text, StyleSheet } from "react-native";
+import { ScrollView, View, Text, StyleSheet, useWindowDimensions } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 
 const notificacoes = [
@@ -30,6 +30,9 @@ const notificacoes = [
 ];
 
 export default function Bell() {
+  const { width } = useWindowDimensions();
+  const contentWidth = Math.min(width - 28, 900);
+
   return (
     <View style={styles.screen}>
       <View style={styles.header}>
@@ -37,7 +40,10 @@ export default function Bell() {
         <Text style={styles.subtitle}>Alertas importantes para sua preparação</Text>
       </View>
 
-      <ScrollView contentContainerStyle={styles.content} showsVerticalScrollIndicator={false}>
+      <ScrollView
+        contentContainerStyle={[styles.content, { maxWidth: contentWidth }]}
+        showsVerticalScrollIndicator={false}
+      >
         <View style={styles.summaryCard}>
           <View style={styles.summaryIcon}>
             <Ionicons name="notifications-outline" size={30} color="#025d90" />
@@ -107,6 +113,8 @@ const styles = StyleSheet.create({
     marginTop: 4,
   },
   content: {
+    alignSelf: "center",
+    width: "100%",
     padding: 14,
     paddingBottom: 24,
   },

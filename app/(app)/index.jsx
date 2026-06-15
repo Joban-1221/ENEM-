@@ -1,4 +1,4 @@
-import { StyleSheet, View, ScrollView, Text } from "react-native";
+import { StyleSheet, View, ScrollView, Text, useWindowDimensions } from "react-native";
 import { useRouter } from "expo-router";
 import { BarraSuperior1 } from "@/components/BarraSuperior";
 import { ContinueStudyCard, HomeShortcut } from "@/components/MoldeOpcoes";
@@ -32,14 +32,17 @@ const shortcuts = [
 
 export default function App() {
   const router = useRouter();
+  const { width } = useWindowDimensions();
+  const isCompact = width < 380;
+  const contentWidth = Math.min(width - 28, 900);
 
   return (
     <View style={styles.divMaster}>
       <BarraSuperior1 />
 
       <ScrollView
-        contentContainerStyle={styles.content}
         style={styles.divOpcoes}
+        contentContainerStyle={[styles.content, { maxWidth: contentWidth }]}
         showsVerticalScrollIndicator={false}
       >
         <ContinueStudyCard onPress={() => router.push("/cursos")} />
@@ -57,6 +60,7 @@ export default function App() {
               title={shortcut.title}
               description={shortcut.description}
               onPress={() => router.push(shortcut.route)}
+              style={isCompact ? styles.shortcutFull : styles.shortcutDefault}
             />
           ))}
         </View>
@@ -74,6 +78,8 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   content: {
+    alignSelf: "center",
+    width: "100%",
     padding: 14,
     paddingBottom: 24,
   },
@@ -93,7 +99,13 @@ const styles = StyleSheet.create({
   shortcutsGrid: {
     flexDirection: "row",
     flexWrap: "wrap",
-    justifyContent: "space-between",
+    columnGap: 12,
     rowGap: 12,
+  },
+  shortcutDefault: {
+    flexBasis: "48%",
+  },
+  shortcutFull: {
+    flexBasis: "100%",
   },
 });
