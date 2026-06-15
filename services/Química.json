@@ -1,0 +1,331 @@
+{
+  "Química": {
+    "cor": "rgb(73, 179, 255)",
+    "aulas": [
+      {
+        "id": "3Mgw1v2VWO8",
+        "titulo": "Matéria e energia: propriedades gerais da matéria - Química - Ensino Médio"
+      },
+      {
+        "id": "xXBjE_B_D-g",
+        "titulo": "Matéria e energia: prop. funcionais, específicas e estados de agregação da matéria - Química - E.M."
+      },
+      {
+        "id": "f-q9evRMAmk",
+        "titulo": "Matéria e energia: sistemas homogêneos, heterogêneos e substâncias puras - Química - Ensino Médio"
+      },
+      {
+        "id": "pYnqCMQC0x0",
+        "titulo": "Matéria e energia: comportamenteo térmico dos materiais - Química - Ensino Médio"
+      },
+      {
+        "id": "3326unYTXUo",
+        "titulo": "Matéria e energia: Alotropia, conceito e propriedades - Química - Ensino Médio"
+      },
+      {
+        "id": "fDK2N-FvwI0",
+        "titulo": "Separação de misturas heterogêneas - Química - Ensino Médio"
+      },
+      {
+        "id": "qBZ2tngUQGk",
+        "titulo": "Separação de misturas homogêneas: destilação simples e fracionada - Química - Ensino Médio"
+      },
+      {
+        "id": "IJHlrxY26qg",
+        "titulo": "Evolução atômica: modelo Grego, Dalton e Thompson - Química - Ensino Médio"
+      },
+      {
+        "id": "jH2c1FDt5WI",
+        "titulo": "Evolução atômica: Rutherford, Bohr e Sommerfeld - Química - Ensino Médio"
+      },
+      {
+        "id": "b3oDUQnQUa4",
+        "titulo": "Evolução atômica: modelo atômico atual"
+      },
+      {
+        "id": "M6ZsSpWVtwQ",
+        "titulo": "Evolução atômica: estudo da eletrosfera - Química - Ensino Médio"
+      },
+      {
+        "id": "clEQ2KZFcuU",
+        "titulo": "Números quânticos - Química - Ensino Médio"
+      },
+      {
+        "id": "-cEEld_3uwU",
+        "titulo": "Química nuclear: estabilidade nuclear e principais particulas - Química - Ensino Médio"
+      },
+      {
+        "id": "QcV-PNtfWt0",
+        "titulo": "Química nuclear: análise do cinturão de estabilidade - Química - Ensino Médio"
+      },
+      {
+        "id": "SSsBuodmYtc",
+        "titulo": "Química nuclear: transmutações naturais e artificiais, leis de Soddy - Química - Ensino Médio"
+      },
+      {
+        "id": "uQ1bqwiGWTg",
+        "titulo": "Química nuclear: cinética das emissões radioativas - Química - Ensino Médio"
+      },
+      {
+        "id": "wOspRbtDiX4",
+        "titulo": "Química nuclear: fissão nuclear e fusão nuclear - Química - Ensino Médio"
+      },
+      {
+        "id": "hu_s5qSZsNo",
+        "titulo": "Tabela periódica: visão geral (Mendeleev e Moselev) - Química - Ensino Médio"
+      },
+      {
+        "id": "TQvtdPxh3kQ",
+        "titulo": "Tabela periódica: análise dos elementos representativos e de transição - Química - Ensino Médio"
+      },
+      {
+        "id": "Tf3w9Qs_FEo",
+        "titulo": "Tabela periódica: propriedades periódicas dos elementos - Química - Ensino Médio"
+      },
+      {
+        "id": "07bCWPVqNUc",
+        "titulo": "Ligações químicas iônicas regra do octeto - Química - Ensino Médio"
+      },
+      {
+        "id": "gG9zQ-mr9yA",
+        "titulo": "Ligações químicas metálicas - Química - Ensino Médio"
+      },
+      {
+        "id": "8rjdtyCWQcY",
+        "titulo": "Ligações químicas covalentes - Química - Ensino Médio"
+      },
+      {
+        "id": "-LfJtK365jI",
+        "titulo": "Geometria molecular e polaridade das moléculas - Química - Ensino Médio"
+      },
+      {
+        "id": "l8ZTd5wBarw",
+        "titulo": "Ligações intermoleculares - Química - Ensino Médio"
+      },
+      {
+        "id": "-RnSqjzVDZI",
+        "titulo": "Teoria de Arrhenius - ionização x dissociação - Química - Ensino Médio"
+      },
+      {
+        "id": "LGPlqu45NNY",
+        "titulo": "Ácidos de Arrhenius - Química - Ensino Médio"
+      },
+      {
+        "id": "wOtgxDIaRpk",
+        "titulo": "As bases de Arrhenius - Química - Ensino Médio"
+      },
+      {
+        "id": "ECn-qrQhMh0",
+        "titulo": "Os sais de Arrhenius - Química - Ensino Médio"
+      },
+      {
+        "id": "-6mE2pbFrKQ",
+        "titulo": "Os óxidos de Arrhenius - Química - Ensino Médio"
+      },
+      {
+        "id": "wB15bMXVPHg",
+        "titulo": "Evidências de uma reação química - Química - Ensino Médio"
+      },
+      {
+        "id": "w2ZPiIDtje8",
+        "titulo": "Número de oxidação: NOX - Química - Ensino Médio"
+      },
+      {
+        "id": "g6iegqXmFRs",
+        "titulo": "Balanceamento das reações de oxirredução - Química - Ensino Médio"
+      },
+      {
+        "id": "Cll20rwlfE8",
+        "titulo": "Noções de metalurgia - Química - Ensino Médio"
+      },
+      {
+        "id": "5fI05AgLOF0",
+        "titulo": "Leis das reações químicas - Química - Ensino Médio"
+      },
+      {
+        "id": "JkyjYmKExu4",
+        "titulo": "Grandezas químicas - Química - Ensino Médio"
+      },
+      {
+        "id": "xwUeoPTIHRs",
+        "titulo": "Cálculo de fórmulas - Química - Ensino Médio"
+      },
+      {
+        "id": "23grnvIKB70",
+        "titulo": "Estudo físico dos gases - Química - Ensino Médio"
+      },
+      {
+        "id": "I0H1BqcsLaQ",
+        "titulo": "Cálculos estequiométricos: casos gerais - Química - Ensino Médio"
+      },
+      {
+        "id": "QcL4l8T51_E",
+        "titulo": "Cálculos estequiométricos: grau de pureza e excesso de reagente - Química - Ensino Médio"
+      },
+      {
+        "id": "emrcwHUGEv8",
+        "titulo": "Cálculos estequiométricos: rendimentos e reações consecutivas - Química - Ensino Médio"
+      },
+      {
+        "id": "Wqylgl8sSSY",
+        "titulo": "Classificação das soluções ​- Química - Ensino Médio"
+      },
+      {
+        "id": "yU70WTXKyrc",
+        "titulo": "Concentração das soluções​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "SeMuEykaYRc",
+        "titulo": "Diluição das soluções​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "jsQujb1VRr4",
+        "titulo": "Mistura de soluções​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "6LPx5hQtE9I",
+        "titulo": "Propriedades coligativas​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "hWe0yxaGkYQ",
+        "titulo": "Tonoscopia e ebulioscopia​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "zc0waqHzbpQ",
+        "titulo": "Crioscopia e osmose​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "Phr3DSKLLhA",
+        "titulo": "Termoquímica​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "g2IyunzmNyY",
+        "titulo": "Variação de entalpia associada às mudanças de estado físico ​​- Química - Ensino Médio"
+      },
+      {
+        "id": "La7K0WnYyIA",
+        "titulo": "Calor ​- Química - Ensino Médio"
+      },
+      {
+        "id": "jPWruzZ5DIs",
+        "titulo": "Cálculos teóricos de ΔH​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "R9hSfUSNj6o",
+        "titulo": "Teoria das colisões e fatores que influenciam a velocidade de uma reação​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "Dbn7OCxnwbc",
+        "titulo": "Cinética química: Lei da ação das massas​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "iVn5MDvd6QE",
+        "titulo": "As constantes de equilíbrio: Kc e Kp​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "WkrYucQi0o4",
+        "titulo": "Deslocamento de equilíbrio: Le Chatelier​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "EG4EXKzUhoE",
+        "titulo": "Autoionizacão da água: pH e pOH​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "pRSOjMKNEb8",
+        "titulo": "Hidrólise salina​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "G2_pY7EIboo",
+        "titulo": "Equilíbrio de solubilidade​ - Química - Ensino Médio"
+      },
+      {
+        "id": "yIORlUkKHcg",
+        "titulo": "Processos eletroquímicos: Pilhas​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "gh-aO85EzI8",
+        "titulo": "Espontaneidade de reações em processos eletroquímicos​ - Química - Ensino Médio"
+      },
+      {
+        "id": "GbmXRcNPyVw",
+        "titulo": "Processos eletroquímicos: eletrólise​ - Química - Ensino Médio"
+      },
+      {
+        "id": "xEd2WnbN1Ys",
+        "titulo": "Classificação de cadeias carbônicas​ - Química - Ensino Médio"
+      },
+      {
+        "id": "vne9aM_naQE",
+        "titulo": "Hidrocarbonetos - Química - Ensino Médio"
+      },
+      {
+        "id": "pJaqsfic7Tw",
+        "titulo": "Petróleo​ - Química - Ensino Médio"
+      },
+      {
+        "id": "vKJ7dbCG86c",
+        "titulo": "Compostos aromáticos​ - Química - Ensino Médio"
+      },
+      {
+        "id": "ZyoGoLlzSZ4",
+        "titulo": "Funções oxigenadas: álcool, aldeído, cetona, éter e fenol ​- Química - Ensino Médio"
+      },
+      {
+        "id": "wWATNsUJ0EE",
+        "titulo": "Funções oxigenadas: ácido carboxílico, sais orgânicos, éster e anidrido​ - Química - Ensino Médio"
+      },
+      {
+        "id": "0Zykkn3e9Dw",
+        "titulo": "Funções nitrogenadas: amidas e aminas​ - Química - Ensino Médio"
+      },
+      {
+        "id": "bP8RWooChdc",
+        "titulo": "Funções mistas​ - Química - Ensino Médio"
+      },
+      {
+        "id": "2aXkzoJjBHA",
+        "titulo": "Isomeria plana​ - Química - Ensino Médio"
+      },
+      {
+        "id": "JicqrLWfHmM",
+        "titulo": "Isomeria geométrica​ - Química - Ensino Médio"
+      },
+      {
+        "id": "7A18mhRgpPg",
+        "titulo": "Isomeria óptica​ - Química - Ensino Médio"
+      },
+      {
+        "id": "m1JyXxpwm-0",
+        "titulo": "Reações orgânicas: Uma visão geral​ - Química - Ensino Médio"
+      },
+      {
+        "id": "o3lU7Nm53GY",
+        "titulo": "Reações de adição​ - Química - Ensino Médio"
+      },
+      {
+        "id": "WOVNXFoHDmo",
+        "titulo": "Reações de eliminação​ - Química - Ensino Médio"
+      },
+      {
+        "id": "QgwLVC2-BrU",
+        "titulo": "Reações de substituição​ - Química - Ensino Médio"
+      },
+      {
+        "id": "TA6WiC4aMHE",
+        "titulo": "Reações de oxidação e redução ​- Química - Ensino Médio"
+      },
+      {
+        "id": "dkEyQQQMQRw",
+        "titulo": "Polímeros: Uma visão geral​ - Química - Ensino Médio"
+      },
+      {
+        "id": "nb1YutqAK5I",
+        "titulo": "Polímeros de adição - Química - Ensino Médio"
+      },
+      {
+        "id": "J1f4RjnAP5w",
+        "titulo": "Polímeros de condensação​ - Química - Ensino Médio"
+      }
+    ]
+  }
+}

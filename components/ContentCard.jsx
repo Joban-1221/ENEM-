@@ -1,19 +1,24 @@
-import { StyleSheet, Text, View } from "react-native";
+import { Pressable, StyleSheet, Text, View } from "react-native";
+import { useRouter } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 
-export default function ContentCard({ icon, title, description, meta }) {
-  return (
-    <View style={styles.card}>
-      <View style={styles.iconBox}>
-        <Ionicons name={icon} size={28} color="#025d90" />
-      </View>
+export default function ContentCard({ icon, title, description, meta, id }) {
+  const router = useRouter();
 
-      <View style={styles.content}>
-        <Text style={styles.title}>{title}</Text>
-        <Text style={styles.description}>{description}</Text>
-        {meta ? <Text style={styles.meta}>{meta}</Text> : null}
+  return (
+    <Pressable onPress={() => router.push({pathname: "/listarAulas", params: {materia: title}})}>
+      <View style={styles.card}>
+        <View style={styles.iconBox}>
+          <Ionicons name={icon} size={28} color="#025d90" />
+        </View>
+
+        <View style={styles.content}>
+          <Text style={styles.title}>{title}</Text>
+          <Text style={styles.description}>{description}</Text>
+          {meta ? <Text style={styles.meta}>{meta}</Text> : null}
+        </View>
       </View>
-    </View>
+    </Pressable>
   );
 }
 

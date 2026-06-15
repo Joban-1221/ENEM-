@@ -5,11 +5,11 @@ import { useAuth } from "@/contexts/AuthContext";
 
 export default function Layout() {
   const insets = useSafeAreaInsets();
-  const { isAuthenticated } = useAuth();
-
-  if (!isAuthenticated) {
-    return <Redirect href="/login" />;
-  }
+  //const { isAuthenticated } = useAuth();
+  //
+  //if (!isAuthenticated) {
+  //  return <Redirect href="/login" />;
+  //}
 
   return (
     <Tabs
@@ -74,9 +74,12 @@ export default function Layout() {
       />
 
       <Tabs.Screen name="cursos" options={{ href: null }} />
+      <Tabs.Screen name="aula" options={{ href: null }} />
       <Tabs.Screen name="questoes" options={{ href: null }} />
       <Tabs.Screen name="calendario" options={{ href: null }} />
       <Tabs.Screen name="informacoes" options={{ href: null }} />
+      <Tabs.Screen name="listarAulas" options={{ href: null }} />
+      <Tabs.Screen name="telaAula" options={{ href: null }} />
     </Tabs>
   );
 }

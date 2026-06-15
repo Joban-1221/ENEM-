@@ -1,0 +1,579 @@
+{
+  "Geografia": {
+    "cor": "rgb(0, 137, 25)",
+    "aulas": [
+      {
+        "id": "ExJO6rncnwg",
+        "titulo": "Conceitos de espaço geográfico, região, lugar, território e paisagem​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "uw3ltpWkwT4",
+        "titulo": "Elementos da paisagem geográfica​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Q58ro7_jnVU",
+        "titulo": "Espaço, paisagem e tempo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "ZxV26l5pyR4",
+        "titulo": "Orientação e localização no espaço​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "BWOSbD1e1oQ",
+        "titulo": "Fusos horários no mundo e no Brasil​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "7mpuNLc_gWU",
+        "titulo": "Cartografia – arte e ciência ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "5cy1lM_W3W0",
+        "titulo": "Tipos e elementos de um mapa​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "PStB6p4oMSc",
+        "titulo": "Legendas e isolinhas - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Y3t9QhGKbwA",
+        "titulo": "Projeções cartográficas​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "BhYcZJixbjs",
+        "titulo": "Escalas cartográficas ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "_c-4pMHOfdE",
+        "titulo": "Classificação do tempo geológico ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "GvK6-UiOJC0",
+        "titulo": "Origem, formação e camadas da terra ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "3Xx-gbdXOZU",
+        "titulo": "A Teoria da deriva continental e placas tectônicas​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Apqt0oVSDpc",
+        "titulo": "Tipos e ciclo das rochas ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "PoDnEZvhi3A",
+        "titulo": "Formas e estruturas de relevo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "SyC_9dPh7Oo",
+        "titulo": "Agentes internos de modificação do relevo (tectonismo, vulcanismo e falhamentos) - Geografia - E.M."
+      },
+      {
+        "id": "Q6wAL-BUwl4",
+        "titulo": "Agentes externos de modificação do relevo (intemperismo, erosão e sedimentação) - Geografia - E.M."
+      },
+      {
+        "id": "p4Eku0Jag-Q",
+        "titulo": "Solo: horizontes e principais tipos de solo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "XCc3W7dLFdo",
+        "titulo": "Erosão dos solos e suas consequências​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "TigFX0ph0OE",
+        "titulo": "Contaminação dos solos - Geografia - Ensino Médio"
+      },
+      {
+        "id": "nAmmUBAoTE0",
+        "titulo": "Estruturas e camadas da atmosfera ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "KytsNKy2Cn4",
+        "titulo": "Tempo e clima​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "YpSMcf6mSxw",
+        "titulo": "Elementos do clima ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "vxUUUX5puuQ",
+        "titulo": "Fatores climáticos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "sksq5nlmDj8",
+        "titulo": "Leitura de climogramas ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "hcW28myWIcI",
+        "titulo": "Tipos climáticos no mundo - Geografia - Ensino Médio"
+      },
+      {
+        "id": "-uoeK93A5JA",
+        "titulo": "Impactos climáticos: poluição do ar, ef. estufa, aquec. e destr. camada de ozônio - Geografia - E.M."
+      },
+      {
+        "id": "seG1vjMrlPY",
+        "titulo": "Impactos climáticos: chuva ácida, smog, inversão térmica e ilhas de calor - Geografia - E.M."
+      },
+      {
+        "id": "TloI87RANKk",
+        "titulo": "El niño e la niña ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "r6kU8nB_UWE",
+        "titulo": "Hidrosfera: distribuição dos recursos hídricos pelo mundo - Geografia - Ensino Médio"
+      },
+      {
+        "id": "YODdgTIqtMw",
+        "titulo": "Hidrografia, elementos e ciclo hidrológico ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "kjhaX3AhWAU",
+        "titulo": "Águas subterrâneas e aquíferos: uso, desperdício e poluição​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "knhCcexr1Bw",
+        "titulo": "Bacias hidrográficas: elementos e seus tipos ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "xbqBt2xWW1E",
+        "titulo": "Oceanos e mares: dinâmicas e poluição​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "5IQ5UF-_SPo",
+        "titulo": "A Biosfera e o ser humano​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "36ZKS7qxrJs",
+        "titulo": "Biomas do mundo: regiões frias e temperadas​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "xSSf_xmuBwU",
+        "titulo": "Biomas do mundo: regiões tropicais, de montanhas e de Desertos - Geografia - Ensino Médio"
+      },
+      {
+        "id": "qmi1QtLqxkE",
+        "titulo": "A População mundial: conceitos demográficos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "xTQ8H2ISqNQ",
+        "titulo": "Estrutura etária da população ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "1p-BgY6zkds",
+        "titulo": "A Distribuição da população mundial e seus Fatores​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "5BacQ7k5q98",
+        "titulo": "Teorias e transição demográfica ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "Sab8ceZKok0",
+        "titulo": "Movimentos migratórios: causas e consequências​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "ybmloQuzDg0",
+        "titulo": "A urbanização mundial: o fenômeno urbano - Geografia - Ensino Médio"
+      },
+      {
+        "id": "1Q3nD7muVcU",
+        "titulo": "Cidades: conceitos, funções e sítio urbano​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "o9GGlhnnA1A",
+        "titulo": "Hierarquia e rede urbana ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "PbgNsHbv-GE",
+        "titulo": "Problemas sociais e ambientais urbanos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "_LLukJ5WmAE",
+        "titulo": "Recursos naturais e desenvolvimento sustentável ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "i4WsG7MpH58",
+        "titulo": "Conferências mundiais para o meio ambiente​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "B4YijkqG0ms",
+        "titulo": "País, estado-nação e nação ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "jOEjd2Ln61o",
+        "titulo": "Território, limites e fronteiras pelo mundo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "UuIUvU4dfWw",
+        "titulo": "Relações internacionais ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "-GoyWyWEP8U",
+        "titulo": "Conflitos do século XXI e suas motivações​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "xyBjJIpCmGM",
+        "titulo": "Áreas de tensão pelo mundo ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "9X-n7srz8A0",
+        "titulo": "Oriente médio: posição estratégica e petróleo​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "AmC9LwmBUMI",
+        "titulo": "Fundamentalismos e extremismos no oriente médio ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "7hYHano5dFc",
+        "titulo": "Conflitos no Oriente Médio ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "d4esFSycuSM",
+        "titulo": "O capitalismo: conceitos e fase pré-capitalista ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "Kh2OnvcZ5kc",
+        "titulo": "O capitalismo industrial​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "2cjuIujL-j0",
+        "titulo": "O capitalismo financeiro monopolista ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "E1lL4bCyTZo",
+        "titulo": "O capitalismo informacional​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "WvXuVzduWSA",
+        "titulo": "Crises do capitalismo na globalização ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "6Q7vEtkJCXw",
+        "titulo": "Capitalismo x socialismo​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "tabLMflgUwo",
+        "titulo": "Origens do mundo bipolar: a ordem geopolítica da guerra fria ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "5sdRkUE4Nk4",
+        "titulo": "O Mundo bipolar: corrida espacial, armamentista e crise socialista​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "sZtNyXlEG7c",
+        "titulo": "A nova ordem mundial: unipolaridade e multipolaridade ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "wqRoZF9_J_g",
+        "titulo": "A globalização e seus fluxos ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "QiSndqQ_xYo",
+        "titulo": "A internacionalização da economia ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "6WGzskzr1NI",
+        "titulo": "O outro lado da globalização​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "FyfkzNRDx9g",
+        "titulo": "Economia e geopolítica: G8, G20 e BRICS ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "5UYrk5Kv0OA",
+        "titulo": "Declaração dos direitos humanos e a declaração do milênio ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "nRxSXBIQkPA",
+        "titulo": "Pobreza e fome no mundo globalizado ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "FezyS17O8S4",
+        "titulo": "Desigualdades e outros problemas no mundo não desenvolvido ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "iESfChe9MF4",
+        "titulo": "Desigualdade de gênero e etnia no mundo globalizado​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "HdAZ_toqBTY",
+        "titulo": "A América latina e os desafios do mundo contemporâneo​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "rkev7uy6jMo",
+        "titulo": "A África subsaariana e causas do subdesenvolvimento​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "BMS4-nQ0RDs",
+        "titulo": "Atividades primárias: a agropecuária​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "wHmmTvTMP7Y",
+        "titulo": "Economia agrária e sistemas agrários​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "QNNrk2S2Phk",
+        "titulo": "Os recursos minerais​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "1gT_tJCyMtc",
+        "titulo": "As fontes de energia​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "24pL2fsBP5c",
+        "titulo": "A indústria: tipos de indústria e fatores locacionais​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "kHwIZk8qJ0U",
+        "titulo": "Sistemas de produção industrial​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "pq53gT_LyGw",
+        "titulo": "As revoluções industriais​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "A1ne-7G3gAw",
+        "titulo": "Industrialização no Reino Unido e na França​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "HftGSAJNmrw",
+        "titulo": "Industrialização nos Estados Unidos​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "vmQ-c7E5Zak",
+        "titulo": "Industrialização no Japão e na Alemanha​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "hrrI_fcyDI0",
+        "titulo": "Industrialização russa: heranças do socialismo​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "ncpiMT_joek",
+        "titulo": "Industrialização chinesa: um país, dois sistemas​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "pV2ZYN4L7WM",
+        "titulo": "Industrialização na Índia e o contexto global​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "c0qo5nf00jY",
+        "titulo": "Novos países industrializados​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "DIFTWyqG9YI",
+        "titulo": "Os sistemas de transportes​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "lHtab8NsdEs",
+        "titulo": "As redes de comunicação e informação​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "OEXp3ynkpqQ",
+        "titulo": "A atividade turística no mundo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "J2BOiV5bSU0",
+        "titulo": "A Organização das Nações Unidas e seus mecanismos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "yLWoCHDRKf8",
+        "titulo": "A Organização Mundial do Comércio: histórico e desafios atuais​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "3nNGJEtMZoM",
+        "titulo": "Blocos econômicos e suas modalidades​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "DYKKOGbcTr8",
+        "titulo": "União Europeia​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "U9qagvuYbYQ",
+        "titulo": "O Mercosul e o Nafta​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "xL3BdDdEd8A",
+        "titulo": "Comunidade dos Estados Independentes​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "0n2iSk4C4cg",
+        "titulo": "Organismos financeiros internacionais​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "LzRKw0KyGUA",
+        "titulo": "As empresas transnacionais - Geografia - Ensino Médio"
+      },
+      {
+        "id": "I_llIySJ85s",
+        "titulo": "As organizações não governamentais e o seu papel internacional​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "z3MT5QcSZ2I",
+        "titulo": "Brasil: localização, extensão e pontos extremos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "beSBmhASOOs",
+        "titulo": "Brasil: territorialidade; soberania e segurança nacional​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "9Y0Lj2_kN4s",
+        "titulo": "Fronteiras terrestres e marítimas brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "2JphVXrxNTk",
+        "titulo": "Expansão territorial brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Xc0yecNQ1g4",
+        "titulo": "A divisão regional brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "eWBk3Xjhg7I",
+        "titulo": "Classificações do relevo brasileiro ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "2DVnbdZ0qow",
+        "titulo": "Dinâmica interna e externa do relevo brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "qh_BKxe3oi0",
+        "titulo": "Estrutura geológica brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "-GrqM2y3rBQ",
+        "titulo": "Elementos e fatores climáticos brasileiros​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Jz-k4wwNdds",
+        "titulo": "Características climáticas brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "M-qYr4aOgs4",
+        "titulo": "Classificação climática brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "TO505l-mr4A",
+        "titulo": "Hidrografia brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "7jz4xB_lRPU",
+        "titulo": "Bacias hidrográficas brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "X68Oz1k3Xow",
+        "titulo": "Gestão dos recursos hídricos brasileiros​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Jw_vVHDcNSQ",
+        "titulo": "Formações vegetais brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "OIC3Xm5DEAU",
+        "titulo": "Domínios morfoclimáticos brasileiros: amazônia, cerrado e caatinga​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "0lgx-XuFmbQ",
+        "titulo": "Domínios morfoclimáticos: mares de morros, araucárias, pradarias e faixas transição - Geografia - EM"
+      },
+      {
+        "id": "JnrQjj-_-4g",
+        "titulo": "Biomas do Brasil ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "N6IMzylhkmA",
+        "titulo": "Histórico da política ambiental brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Y8r0zFaa59Y",
+        "titulo": "Panorama demográfico do Brasil​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "tTWVnN5OMvE",
+        "titulo": "Evolução da estrutura etária brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "5YWuBTo7P9g",
+        "titulo": "Distribuição populacional no território brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "9Bm6SD28Rzw",
+        "titulo": "Condições de vida e desigualdade social brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "EbOqa4j6_Bc",
+        "titulo": "Migrações internas no Brasil: panorama histórico​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "N46g64mdBU0",
+        "titulo": "Histórico das migrações externas no Brasil ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "Gt3hkSupWKM",
+        "titulo": "Urbanização brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "YPrPxfB9omM",
+        "titulo": "Regiões metropolitanas brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "EYpp8T2zjWU",
+        "titulo": "Macrocefalia urbana e problemas sociais​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "y-67Z2KV2bQ",
+        "titulo": "Organização do espaço econômico brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "-OWnEYq5Fsw",
+        "titulo": "Histórico da industrialização brasileira ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "EyEycmpfi7U",
+        "titulo": "Distribuição da indústria brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "7fw3ZH8rUNs",
+        "titulo": "O espaço agropecuário brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "yWZOm4g5D_M",
+        "titulo": "Atividades e produtos agropecuários brasileiros​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "uZR-BlpPDMA",
+        "titulo": "O agronegócio ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "QMpbhPqIihk",
+        "titulo": "Fronteiras agropecuárias brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "JR-qXYFeuDQ",
+        "titulo": "Estrutura fundiária brasileira e conflitos no campo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "BXHw19XUe-M",
+        "titulo": "Recursos minerais brasileiros​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "6cVmzpG_iqM",
+        "titulo": "Matriz energética brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "9pvwdG0e2Nw",
+        "titulo": "Evolução do comércio exterior brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "4AMy1yNGZj4",
+        "titulo": "Corredores de exportação - Geografia - Ensino Médio"
+      },
+      {
+        "id": "rziG29jYTX0",
+        "titulo": "Rede de transporte brasileiro ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "mo-hvcQeGrM",
+        "titulo": "Telecomunicações no Brasil ​- Geografia - Ensino Médio"
+      }
+    ]
+  }
+}

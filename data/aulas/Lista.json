@@ -1,0 +1,3328 @@
+{
+  "Português": {
+    "cor": "#cf8621",
+    "aulas": [
+      {
+        "id": "qbe7QzZogjY",
+        "titulo": "Linguagem, língua e gramática - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "Osf0nqvWGkY",
+        "titulo": "Fonema, letra e seus encontros - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "vW8SsQ6ecs0",
+        "titulo": "Tonicidade e acentuação - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "xs7jQN8HHis",
+        "titulo": "Elementos mórficos e estrutura de palavras - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "Oo9Z4AKd948",
+        "titulo": "Palavras em formação - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "BJhe06AjOcw",
+        "titulo": "Morfossintaxe: classes gramaticais e funções sintáticas - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "6IjReY03lL8",
+        "titulo": "Substantivo e Adjetivo - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "KKUu_fa5rjI",
+        "titulo": "Artigo e Numeral - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "NdAAGnP6n4M",
+        "titulo": "Pronomes - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "dal2QKCsdtE",
+        "titulo": "Tempo e modo verbal e as formas nominais - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "NxQ36YUeRMk",
+        "titulo": "Vozes verbais e aspecto verbal - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "OfCYgDB9i-Y",
+        "titulo": "Sujeito e Predicado - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "mep7KevTpsA",
+        "titulo": "Complemento Nominal e Adjunto Adnominal - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "ivbBjziZojY",
+        "titulo": "Advérbio e Adjunto Adverbial - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "NU96bRxGtvA",
+        "titulo": "Transitividade verbal e verbos de ligação - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "OIPA9hP0fBs",
+        "titulo": "Usos da vírgula - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "taUXK4Upc4w",
+        "titulo": "Escrita, oralidade e variações linguísticas - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "6s4_urslYIo",
+        "titulo": "Mecanismos de coesão textual - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "yqLq1Oi3vXg",
+        "titulo": "Regência verbal e nominal - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "P4WkW64Jhh0",
+        "titulo": "Frase, oração e período - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "QcyAuN35bVw",
+        "titulo": "Período composto por coordenação - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "EWZ2YD03M88",
+        "titulo": "Concordância nominal - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "VXB4nTEszYw",
+        "titulo": "Concordância verbal - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "_klccHBeT9s",
+        "titulo": "Período composto por subordinação - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "eGVIejrii04",
+        "titulo": "Pronomes Relativos e Orações Adjetivas - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "An65yRSunIo",
+        "titulo": "Orações Substantivas - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "0V71AF4JLgI",
+        "titulo": "Orações Adverbiais - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "jpkvm6S9ISo",
+        "titulo": "Figuras de linguagem, de sintaxe, de som e de palavra - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "8RpG82G0e-Y",
+        "titulo": "Língua, linguagem e funções da linguagem - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "6RVN4u4j6No",
+        "titulo": "Fonética e Fonologia - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "B0dQa6UpT_k",
+        "titulo": "Estrutura e processo de formação de palavras - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "GFBqNd8QbE0",
+        "titulo": "Substantivo, Adjetivo, Artigo e Numeral - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "JWC3zCbJXh0",
+        "titulo": "Pronomes e colocação pronominal - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "eMDzHo5IgCQ",
+        "titulo": "Verbo - noções gerais - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "ElUnyNhXihQ",
+        "titulo": "Termos essenciais da oração - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "Yq4Ss940Kmo",
+        "titulo": "Termos integrantes da oração - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "norK657dMms",
+        "titulo": "Termos acessórios da oração - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "5lReJ5x-kSU",
+        "titulo": "A palavra QUE e a palavra SE - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "hYK0wgJ3zaA",
+        "titulo": "A crase e seu uso - Língua Portuguesa - Ensino Médio"
+      },
+      {
+        "id": "eY6MaioekTs",
+        "titulo": "Conjunção coordenativa e Conjunção subordinativa - Língua Portuguesa - Ensino Médio"
+      }
+    ]
+  },
+  "Inglês": {
+    "cor": "#9f63ff",
+    "aulas": [
+      {
+        "id": "mvMpXKc58qE",
+        "titulo": "Verb be and pronouns - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "PHkdp07nXi8",
+        "titulo": "Question words - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "bsHl8f3_m2U",
+        "titulo": "Simple present and frequency adverbs - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "ZS7mJfSXPi0",
+        "titulo": "Simple present - negative and interrogative - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "aQPwRScauhg",
+        "titulo": "Present continuous - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "cIDf6MfUF_s",
+        "titulo": "Object pronouns - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "hWOgzCSorQc",
+        "titulo": "Simple past and past continuous - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "xXJNn5Yb394",
+        "titulo": "Simple past - negative and interrrogative - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "noaqDr2Axus",
+        "titulo": "Relative pronouns - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "Ef1Dy--uMZc",
+        "titulo": "Modal verbs - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "JSpHQtPj194",
+        "titulo": "Present perfect - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "VoFzy2CQMRc",
+        "titulo": "Present perfect - time up to now - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "caWehrpe5vI",
+        "titulo": "Present perfect continuous - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "7rVpNd1XQAI",
+        "titulo": "Simple past x present perfect x simple present - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "uwqPlLKh_p8",
+        "titulo": "Comparative and superlative - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "xmniPVpV9I0",
+        "titulo": "Used to - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "oBMh9Zv7OYo",
+        "titulo": "Future - going to - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "atZidFPuZWg",
+        "titulo": "Future - will - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "aVOch7yKsrk",
+        "titulo": "Some, any and no - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "Dy7rTH08k5Q",
+        "titulo": "Passive voice - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "sXv5Xc2HYOQ",
+        "titulo": "Past perfect - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "ObnoktLbt7o",
+        "titulo": "Reported speech - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "xP4ChL4UoCI",
+        "titulo": "Subject and object questions - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "9QXf45DFPlA",
+        "titulo": "First conditional and second conditional - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "DQBxFIqJ2fU",
+        "titulo": "Third conditional - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "L4N0ptz_Y48",
+        "titulo": "Verb patterns - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "isheOPMlacQ",
+        "titulo": "Phrasal verbs - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "5aD03LPO2c8",
+        "titulo": "Idioms and collocations - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "9RAdZhRk8xM",
+        "titulo": "Connectors - Língua Inglesa - Ensino Médio"
+      },
+      {
+        "id": "-E_ni244q4k",
+        "titulo": "Tag questions - Língua Inglesa - Ensino Médio"
+      }
+    ]
+  },
+  "Espanhol":{
+    "cor": "#e37d4d",
+    "aulas":  [
+    {
+      "id": "aN4I_TXGvQY",
+      "titulo": "Diferencias de la lengua - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "clO-WUdDmwY",
+      "titulo": "Heterogenéricas y heterosemánticas - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "WXWe1bAyYeI",
+      "titulo": "Reglas de acentuación - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "KZdxm7NYl1I",
+      "titulo": "Dar y pedir información personal - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "-wHmzxAEFM0",
+      "titulo": "Género y plural - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "B_elzJUY2S8",
+      "titulo": "Presente indicativo: regulares - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "1GlP53nIqwg",
+      "titulo": "Familia y posesivos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "LA4haTBq82E",
+      "titulo": "Adjetivos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "mazdW_cXe6A",
+      "titulo": "Presente indicativo: irregulares totales - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "9jVMRWYDEKI",
+      "titulo": "Presente indicativo: verbos de cambio vocálico - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "WyiAhDZBXAo",
+      "titulo": "Casa y artículos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "Z1UbP7PWLDI",
+      "titulo": "Ciudad y adverbios de lugar - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "VUvybrWKRf0",
+      "titulo": "Reflexivos y la hora - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "A4DtW-MSQV4",
+      "titulo": "Números y días de la semana - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "evlH5HcJwPU",
+      "titulo": "Comida y demostrativos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "3RJSWw5xLKI",
+      "titulo": "Imperativo - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "2b_i859c9H4",
+      "titulo": "Ropas y complementos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "HeoCLHnUy-4",
+      "titulo": "Colocación pronominal - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "0M--Sd-oqCw",
+      "titulo": "Gustar y similares - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "jji5RVHO7CQ",
+      "titulo": "Perífrasis - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "J3bhptsgy80",
+      "titulo": "Adverbios - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "1rqVqqeN01s",
+      "titulo": "Pretérito perfecto compuesto - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "MFVHYw2Knts",
+      "titulo": "Pretérito imperfecto - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "dmY0eAS_sNs",
+      "titulo": "Comparativos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "eRHgoi9RmLA",
+      "titulo": "Pretérito perfecto simple - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "XzpUUjDL9MM",
+      "titulo": "Pronombres relativos, interrogativos y exclamativos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "vryHr_g7nho",
+      "titulo": "Contraste de pretéritos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "1uU-yIkSPXw",
+      "titulo": "Futuro simple - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "KHHBdemflmQ",
+      "titulo": "Presente de subjuntivo - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "ppSfM3S1B1w",
+      "titulo": "Condicional simple - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "6VYmFwrObU0",
+      "titulo": "Estilo directo e indirecto - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "QG75nFx2feQ",
+      "titulo": "Marcadores del discurso - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "5Y8yz1zROik",
+      "titulo": "Imperfecto de subjuntivo - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "19TstjxyIBQ",
+      "titulo": "Subjuntivo: tiempos compuestos - Língua Espanhola - Ensino Médio"
+    },
+    {
+      "id": "ZhS9BudP85k",
+      "titulo": "Pluscuamperfecto - Língua Espanhola - Ensino Médio"
+    }
+  ]},
+  "Matemática": {
+    "cor": "#c20000",
+    "aulas": [
+      {
+        "id": "cfKeJhvPDLU",
+        "titulo": "Conjuntos - Matemática - Ensino Médio"
+      },
+      {
+        "id": "SKZeAJhphro",
+        "titulo": "Conjunto unitário, vazio e universo - Matemática - Ensino Médio"
+      },
+      {
+        "id": "IJfPV0Sr-EU",
+        "titulo": "Subconjuntos - Matemática - Ensino Médio"
+      },
+      {
+        "id": "d5CehFUezyQ",
+        "titulo": "União e intersecção de conjuntos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "p0wg3lmbJKI",
+        "titulo": "Conjunto diferença​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "2vwqv4wJQ-s",
+        "titulo": "Problema envolvendo conjuntos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "uwglut8TVKw",
+        "titulo": "Plano cartesiano​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "g48NHyfhL-E",
+        "titulo": "Produto cartesiano​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "8lx6uPlwKZY",
+        "titulo": "Gráfico de um produto cartesiano​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "bG4qZp-k08o",
+        "titulo": "Domínio e imagem de uma relação - Matemática - Ensino Médio"
+      },
+      {
+        "id": "mvRYUYdxXig",
+        "titulo": "Função do 1º grau - Matemática - Ensino Médio"
+      },
+      {
+        "id": "KgWuj4HKaaQ",
+        "titulo": "Definição de função por diagrama​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "2Ci5ocYjSqc",
+        "titulo": "Valor numérico de uma função​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "SGvCRsQsOtQ",
+        "titulo": "Domínio, contradomínio e imagem de uma função​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "rywe0O1SHs0",
+        "titulo": "Gráfico de uma função - Matemática - Ensino Médio"
+      },
+      {
+        "id": "MMtoMfzl1TM",
+        "titulo": "Função do 1º grau a partir do gráfico​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "rNQMza6MBt8",
+        "titulo": "Zero da função do 1º grau​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "_M6u0Z1qlrQ",
+        "titulo": "Aplicação prática da função do 1º grau​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "PD8Mi4HfOqQ",
+        "titulo": "Inequação do 1º grau​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "1cJ5sYEngMk",
+        "titulo": "Função do 2º grau​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "99nzfGHiNe4",
+        "titulo": "Vértice da parábola​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "7DxxAeXr2C4",
+        "titulo": "Relação entre raízes e coeficientes de uma função quadrática​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "76fw_Rg5JQk",
+        "titulo": "Valor máximo e valor mínimo de uma função quadrática​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "NPb3V6oqcnw",
+        "titulo": "Inequação do 2º grau​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "Y2aeOyUEP5I",
+        "titulo": "Composição de funções​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "QxwcHEaw5Sw",
+        "titulo": "Funções:  injetora, sobrejetora e bijetora​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "CJlJQ4ZfHTM",
+        "titulo": "Função inversa​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "FN63yx_N1QU",
+        "titulo": "Obtenção da função inversa - Matemática - Ensino Médio"
+      },
+      {
+        "id": "WOyAjzEmi3Y",
+        "titulo": "Módulo de um número real - Matemática - Ensino Médio"
+      },
+      {
+        "id": "-72kA68goV0",
+        "titulo": "Função modular​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "sKKhS35X_ZU",
+        "titulo": "Equações modulares​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "5wNKKk51eSc",
+        "titulo": "Potência com expoentes reais​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "BfNzhKmJ_RI",
+        "titulo": "Função exponencial​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "4BbMjLZnevg",
+        "titulo": "Equação exponencial​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "diLoeT1P2Uo",
+        "titulo": "Sistemas de equações exponenciais​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "cwmrOlefS70",
+        "titulo": "Definição e propriedades do logaritmo​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "G3V8I9UOELE",
+        "titulo": "Propriedades do logaritmo - Matemática - Ensino Médio"
+      },
+      {
+        "id": "OZdWes9L0Jk",
+        "titulo": "Mudança de base - Matemática - Ensino Médio"
+      },
+      {
+        "id": "pTLmddDbeQI",
+        "titulo": "Arco de circunferência - Matemática - Ensino Médio"
+      },
+      {
+        "id": "6B4cc6HePxU",
+        "titulo": "Comprimento de um arco de cincurferência - Matemática - Ensino Médio"
+      },
+      {
+        "id": "jjocflXsaGI",
+        "titulo": "Ciclo trigonométrico​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "wFbs14AQeCs",
+        "titulo": "Arcos trigonométricos côngruos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "hSN5bS1UKuY",
+        "titulo": "Função seno​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "cqkFjq0oaAQ",
+        "titulo": "Função cosseno​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "NUjTuEhWkJg",
+        "titulo": "Função tangente​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "o-7jUNCHny0",
+        "titulo": "Função cotangente​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "f3zt3Hox8RI",
+        "titulo": "Outras funções trigonométricas​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "8hJ6Otc4qwY",
+        "titulo": "Sequências numéricas - Matemática - Ensino Médio"
+      },
+      {
+        "id": "9Tk69wWyUTk",
+        "titulo": "Progressão aritmética - Matemática - Ensino Médio"
+      },
+      {
+        "id": "KbBvksCmKEQ",
+        "titulo": "Termo geral da PA - Matemática - Ensino Médio"
+      },
+      {
+        "id": "QgLrZaXRE6U",
+        "titulo": "Interpolação aritmética - Matemática - Ensino Médio"
+      },
+      {
+        "id": "zh-C7uvh2QA",
+        "titulo": "Soma dos termos da PA. - Matemática - Ensino Médio"
+      },
+      {
+        "id": "DaDz9BLayvI",
+        "titulo": "Progressão geométrica - Matemática - Ensino Médio"
+      },
+      {
+        "id": "qZ-f-5yhw-c",
+        "titulo": "Termo geral da P.G. - Matemática - Ensino Médio"
+      },
+      {
+        "id": "wWjHycfwCJU",
+        "titulo": "Interpolação geométrica - Matemática - Ensino Médio"
+      },
+      {
+        "id": "5weXz0aPPIw",
+        "titulo": "Soma dos termos da PG finita - Matemática - Ensino Médio"
+      },
+      {
+        "id": "P0zdDwyflTg",
+        "titulo": "Soma dos termos da PG infinita - Matemática - Ensino Médio"
+      },
+      {
+        "id": "kkEqUBI_2TA",
+        "titulo": "Representação de uma matriz - Matemática - Ensino Médio"
+      },
+      {
+        "id": "1qMyLZdJ-is",
+        "titulo": "Matrizes particulares - Matemática - Ensino Médio"
+      },
+      {
+        "id": "stdiFC20ZRk",
+        "titulo": "Matriz transposta - Matemática - Ensino Médio"
+      },
+      {
+        "id": "e8Kv3_ggcMg",
+        "titulo": "Igualdade entre matrizes - Matemática - Ensino Médio"
+      },
+      {
+        "id": "14IfK9Nt8U8",
+        "titulo": "Adição e subtração de Matrizes - Matemática - Ensino Médio"
+      },
+      {
+        "id": "KahPzfa9JlI",
+        "titulo": "Multiplicação de Matrizes - Matemática - Ensino Médio"
+      },
+      {
+        "id": "GaB6ffZMY28",
+        "titulo": "Determinantes - Matemática - Ensino Médio"
+      },
+      {
+        "id": "ExX9myMKNs0",
+        "titulo": "Propriedades dos determinantes - Matemática - Ensino Médio"
+      },
+      {
+        "id": "6xzSCMHK5qI",
+        "titulo": "Menor complementar - Matemática - Ensino Médio"
+      },
+      {
+        "id": "VwihZPnAUXA",
+        "titulo": "Teorema de Laplace - Matemática - Ensino Médio"
+      },
+      {
+        "id": "PFrPxR1CwBA",
+        "titulo": "Sistemas lineares equivalentes - Matemática - Ensino Médio"
+      },
+      {
+        "id": "vO2dJdIMl60",
+        "titulo": "Sistemas lineares homogêneos - Matemática - Ensino Médio"
+      },
+      {
+        "id": "CjFh0H3NbnU",
+        "titulo": "Classificação dos sistemas Lineares - Matemática - Ensino Médio"
+      },
+      {
+        "id": "Xcki5NAR00A",
+        "titulo": "Escalonamento - Matemática - Ensino Médio"
+      },
+      {
+        "id": "OI9OsHAD_QY",
+        "titulo": "Introdução à análise combinatória - Matemática - Ensino Médio"
+      },
+      {
+        "id": "LpOMJCQUz10",
+        "titulo": "Princípio fundamental da contagem - Matemática - Ensino Médio"
+      },
+      {
+        "id": "U_iPG5URz-U",
+        "titulo": "Fatorial de um número - Matemática - Ensino Médio"
+      },
+      {
+        "id": "1PaT6PUi8qE",
+        "titulo": "Arranjos simples - Matemática - Ensino Médio"
+      },
+      {
+        "id": "LT2azyGwd_s",
+        "titulo": "Permutação simples - Matemática - Ensino Médio"
+      },
+      {
+        "id": "zdcAvHXOQSs",
+        "titulo": "Permutação circular - Matemática - Ensino Médio"
+      },
+      {
+        "id": "u2wxbS8OLts",
+        "titulo": "Combinações simples - Matemática - Ensino Médio"
+      },
+      {
+        "id": "DbV2SOSwcD8",
+        "titulo": "Agrupamentos com repetição - Matemática - Ensino Médio"
+      },
+      {
+        "id": "AVge7_aG1Ow",
+        "titulo": "Números binomiais - Matemática - Ensino Médio"
+      },
+      {
+        "id": "DLyoCyt8nCA",
+        "titulo": "Triângulo de Pascal - Matemática - Ensino Médio"
+      },
+      {
+        "id": "q6j1MI3phvQ",
+        "titulo": "Fórmula do binômio de Newton - Matemática - Ensino Médio"
+      },
+      {
+        "id": "gPK3zRsUML4",
+        "titulo": "Termo geral do binômio de Newton - Matemática - Ensino Médio"
+      },
+      {
+        "id": "KnXK3i448xg",
+        "titulo": "Experimentos determinísticos e aleatórios - Matemática - Ensino Médio"
+      },
+      {
+        "id": "_XnHykgjGsU",
+        "titulo": "Espaço amostral e evento - Matemática - Ensino Médio"
+      },
+      {
+        "id": "HdOInqYuPnM",
+        "titulo": "Probabilidade de eventos - Matemática - Ensino Médio"
+      },
+      {
+        "id": "t_S9oaYvTUE",
+        "titulo": "Probabilidade da união de dois eventos - Matemática - Ensino Médio"
+      },
+      {
+        "id": "PdNYlgtsfcI",
+        "titulo": "Probabilidade do evento complementar - Matemática - Ensino Médio"
+      },
+      {
+        "id": "B92zt_uPH0M",
+        "titulo": "Probabilidade condicional - Matemática - Ensino Médio"
+      },
+      {
+        "id": "U4QMZSudM1U",
+        "titulo": "Eventos independentes - Matemática - Ensino Médio"
+      },
+      {
+        "id": "ObcLtDdhvs4",
+        "titulo": "Ponto, reta e plano - Matemática - Ensino Médio"
+      },
+      {
+        "id": "dsybzmls94k",
+        "titulo": "Postulados da reta e do plano - Matemática - Ensino Médio"
+      },
+      {
+        "id": "6Ze54nXArmE",
+        "titulo": "Posições relativas de duas retas no espaço - Matemática - Ensino Médio"
+      },
+      {
+        "id": "e1asKYZ7Fyk",
+        "titulo": "Determinação de planos - Matemática - Ensino Médio"
+      },
+      {
+        "id": "keHWUkJYOc0",
+        "titulo": "Posições relativas entre uma reta e um plano - Matemática - Ensino Médio"
+      },
+      {
+        "id": "ytEcK8yaCXQ",
+        "titulo": "Perpendicularismo - Matemática - Ensino Médio"
+      },
+      {
+        "id": "DKyZV1Xp0Xg",
+        "titulo": "Projeção ortogonal - Matemática - Ensino Médio"
+      },
+      {
+        "id": "0h_RtH4r9ak",
+        "titulo": "Poliedros convexos - Matemática - Ensino Médio"
+      },
+      {
+        "id": "5yDiv4hofL8",
+        "titulo": "Poliedros de Platão - Matemática - Ensino Médio"
+      },
+      {
+        "id": "iADXLMAt0yU",
+        "titulo": "Poliedros regulares - Matemática - Ensino Médio"
+      },
+      {
+        "id": "crwFvU86b8I",
+        "titulo": "Definição e classificação de um prisma - Matemática - Ensino Médio"
+      },
+      {
+        "id": "b0xnAwDlRIo",
+        "titulo": "Áreas das faces de um prisma​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "3Ke3qWUVMqk",
+        "titulo": "Paralelepípedo e cubo​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "6q8uxtLumyo",
+        "titulo": "Volume de um prisma - Matemática - Ensino Médio"
+      },
+      {
+        "id": "smsWqwNrGtk",
+        "titulo": "Pirâmide​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "LcQk4qAR76w",
+        "titulo": "Pirâmide regular​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "WTd4hX6IO8Y",
+        "titulo": "Áreas das faces de uma pirâmide​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "qXTj7b69P7I",
+        "titulo": "Volume de uma pirâmide - Matemática - Ensino Médio"
+      },
+      {
+        "id": "aUWToHbEK8Q",
+        "titulo": "Elementos e classificação do cilindro​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "HRVa4e-JwsI",
+        "titulo": "Secção meridiana de um cilindro​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "yZ4F8_rHm1w",
+        "titulo": "Áreas do cilindro​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "XaY-K13Eu48",
+        "titulo": "Volume do cilindro​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "esYVL4K8J00",
+        "titulo": "Elementos e classificação do cone​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "7egb03gkmkY",
+        "titulo": "Secção no cone​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "zZoT4Yc3ua4",
+        "titulo": "Áreas do cone​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "GadCwdteoL4",
+        "titulo": "Volume do cone - Matemática - Ensino Médio"
+      },
+      {
+        "id": "I1AQP-4coQU",
+        "titulo": "Secção de uma esfera​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "HVg21uFEnSk",
+        "titulo": "Cunha esférica e fuso esférico​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "E5RQm0-RBIg",
+        "titulo": "Área da esfera​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "m5cMZQVvdyQ",
+        "titulo": "Volume da esfera​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "oHfhgk59Ulk",
+        "titulo": "Distância entre dois pontos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "CKGdYQt_9OQ",
+        "titulo": "Razão de secção de um segmento​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "D06EVW4n6AM",
+        "titulo": "Ponto médio​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "abhe7ae_7vo",
+        "titulo": "Baricentro de um triângulo​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "qcuOY8ubsAI",
+        "titulo": "Condição de alinhamento​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "7gL9J8HHEQ8",
+        "titulo": "Equação geral de uma reta​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "pZVcqZpdnGo",
+        "titulo": "Coeficiente angular e linear​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "Vv_3gOYOye4",
+        "titulo": "Equação reduzida da reta​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "SLJrgUL9nxA",
+        "titulo": "Equação segmentária da reta​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "7VkZ8H9Z46k",
+        "titulo": "Equação paramétrica da reta​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "Jc_HvyE3Tm8",
+        "titulo": "Posições relativas de duas retas​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "u2a_H8b2ecM",
+        "titulo": "Distância de um ponto a uma reta​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "iMvDClQtLXI",
+        "titulo": "Distância entre duas retas​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "Fc3_Lks0WdE",
+        "titulo": "Área de um triângulo​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "FSWAXaktXSY",
+        "titulo": "Definição de circunferência​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "1mzU2y48T7g",
+        "titulo": "Equação reduzida da circunferência​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "buNTiH4TiWI",
+        "titulo": "Equação geral da circunferência​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "4hFIKGSrjUM",
+        "titulo": "Reconhecendo uma circunferência​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "6edpuy4Kiew",
+        "titulo": "Ponto e circunferência​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "UIQk5aQ327M",
+        "titulo": "Reta e circunferência​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "jNOtIYdkhAY",
+        "titulo": "Duas circunferências ​- Matemática - Ensino Médio"
+      },
+      {
+        "id": "fAmP2INECIQ",
+        "titulo": "Elipse: Definição e elementos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "5XwBgJbM7Ac",
+        "titulo": "Equação da elipse​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "LXluM3fI4Xo",
+        "titulo": "Hipérbole: Definição e elementos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "yQKZgfD69eg",
+        "titulo": "Equação da hipérbole​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "3H5Upk2K7lc",
+        "titulo": "Parábola: Definição e elementos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "RfYsAmOgNWo",
+        "titulo": "Equação da parábola​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "msbTwcRQrWU",
+        "titulo": "Unidade imaginária​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "-wG8V7-H740",
+        "titulo": "Potências de i = √(−1) - Matemática - Ensino Médio"
+      },
+      {
+        "id": "2CWupj16Tis",
+        "titulo": "Adição e subtração de complexos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "CiIQTxJuP3Y",
+        "titulo": "Multiplicação de números complexos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "YamgcRMVLQM",
+        "titulo": "Divisão de números complexos - Matemática - Ensino Médio"
+      },
+      {
+        "id": "HY4GtX9ZPH8",
+        "titulo": "Valor numérico de um polinômio​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "Na3Z4mBgLvg",
+        "titulo": "Grau de um polinômio - Matemática - Ensino Médio"
+      },
+      {
+        "id": "yF9dVQoj7oU",
+        "titulo": "Fração polinomial​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "Ch0nLNpbGQ4",
+        "titulo": "Adição e subtração de polinômios​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "L__sbvfghs8",
+        "titulo": "Multiplicação de polinômios​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "210cun-sGpQ",
+        "titulo": "Divisão entre polinômios​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "v0WUfsUSLf4",
+        "titulo": "Teorema do resto​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "MYj08j5Dez0",
+        "titulo": "Dispositivo de Briot-Ruffini​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "LULkSdZuy5E",
+        "titulo": "Equação algébrica​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "3LH93WN1LWg",
+        "titulo": "Multiplicidade de uma raiz​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "OVMBX7oeTJ0",
+        "titulo": "Raízes racionais​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "PiKwsSRwtxs",
+        "titulo": "Relações de Girard​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "AoQvim2aqM0",
+        "titulo": "Conceitos estatísticos​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "0vk7xeyxrzA",
+        "titulo": "Distribuição de frequência​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "t4tkr4naou0",
+        "titulo": "Histograma​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "cAV5H1vDwFE",
+        "titulo": "Moda e mediana​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "DwmEqYhefSU",
+        "titulo": "Médias​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "-DupvWP0cs8",
+        "titulo": "Variância​ - Matemática - Ensino Médio"
+      },
+      {
+        "id": "OSNugTkDj9M",
+        "titulo": "Desvio padrão​ - Matemática - Ensino Médio"
+      }
+    ]
+  },
+  "Biologia": {
+    "cor": "rgb(0, 136, 68)",
+    "aulas": [
+      {
+        "id": "srf-FQLPVnE",
+        "titulo": "Terra primitiva  e a evolução química​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "E-daidfRIBA",
+        "titulo": "Evolução do metabolismo​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "i8gP4dCCwWA",
+        "titulo": "Água: a molécula que sustenta toda a vida - Biologia - Ensino Médio"
+      },
+      {
+        "id": "zuASkUismMg",
+        "titulo": "Sais minerais - Biologia - Ensino Médio"
+      },
+      {
+        "id": "U4UfSpqY524",
+        "titulo": "Carboidratos ou glicídios - Biologia - Ensino Médio"
+      },
+      {
+        "id": "7ntyZKX-L5E",
+        "titulo": "Carboidratos: metabolismo e controle hormonal - Biologia - Ensino Médio"
+      },
+      {
+        "id": "MqQQhsQSUiI",
+        "titulo": "Lipídios - Biologia - Ensino Médio"
+      },
+      {
+        "id": "dPcXbc3UFw0",
+        "titulo": "Proteínas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "Z_GSYeDpAlI",
+        "titulo": "Enzimas: catalisadores biológicos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "0vfxvRNrnQs",
+        "titulo": "Vitaminas hidrossolúveis - Biologia - Ensino Médio"
+      },
+      {
+        "id": "kHOxDoWYqoc",
+        "titulo": "Vitaminas lipossolúveis - Biologia - Ensino Médio"
+      },
+      {
+        "id": "XxpRohqKvek",
+        "titulo": "DNA - Biologia - Ensino Médio"
+      },
+      {
+        "id": "r8G3LEi0LX0",
+        "titulo": "RNA - Biologia  - Ensino Médio"
+      },
+      {
+        "id": "x__Xedkuyss",
+        "titulo": "Replicação do DNA - Biologia - Ensino Médio"
+      },
+      {
+        "id": "gwR0AjS_0fU",
+        "titulo": "Transcrição do RNA - Biologia - Ensino Médio"
+      },
+      {
+        "id": "9DgxF29N6uk",
+        "titulo": "Tradução ou síntese proteica - Biologia - Ensino Médio"
+      },
+      {
+        "id": "DC1uBdvFG3k",
+        "titulo": "Citologia: o estudo das células - Biologia - Ensino Médio"
+      },
+      {
+        "id": "CeA3w5NaSyw",
+        "titulo": "Membrana plasmática - Biologia - Ensino Médio"
+      },
+      {
+        "id": "x3bd1WClvJc",
+        "titulo": "Transportes pela membrana plasmática - Biologia - Ensino Médio"
+      },
+      {
+        "id": "ZR91Bg6aCBU",
+        "titulo": "Especializações da membrana plasmática - Biologia - Ensino Médio"
+      },
+      {
+        "id": "PCmkX4iMBAg",
+        "titulo": "Citoplasma - Biologia - Ensino Médio"
+      },
+      {
+        "id": "eYaG6BNwDJI",
+        "titulo": "Organelas citoplasmáticas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "ExWGXWL592Q",
+        "titulo": "Inclusões citoplasmáticas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "con8ohrlxZ4",
+        "titulo": "Citoesqueleto - Biologia  - Ensino Médio"
+      },
+      {
+        "id": "W1Qg8eBuMj4",
+        "titulo": "Núcleo celular - Biologia - Ensino Médio"
+      },
+      {
+        "id": "3hIYbc4AqWo",
+        "titulo": "Cromossomo - Biologia - Ensino Médio"
+      },
+      {
+        "id": "gAikprrKpK4",
+        "titulo": "Divisão celular: mitose - Biologia - Ensino Médio"
+      },
+      {
+        "id": "5qUZAAy25l0",
+        "titulo": "Divisão celular: meiose - Biologia - Ensino Médio"
+      },
+      {
+        "id": "FLvauLMZZT8",
+        "titulo": "Espermatogênese - Biologia - Ensino Médio"
+      },
+      {
+        "id": "86MtbSmc4JI",
+        "titulo": "Ovogênese - Biologia - Ensino Médio"
+      },
+      {
+        "id": "xQzKSo-as1U",
+        "titulo": "Ciclo menstrual - Biologia - Ensino Médio"
+      },
+      {
+        "id": "AsvTr2eCxpI",
+        "titulo": "Ciclo ovariano - Biologia - Ensino Médio"
+      },
+      {
+        "id": "Vw07DleCGP0",
+        "titulo": "Tipos de zigotos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "ZGPaxuKC03Q",
+        "titulo": "Tipos de clivagens - Biologia - Ensino Médio"
+      },
+      {
+        "id": "qhKmHPgUAKE",
+        "titulo": "Blastulação  - Biologia - Ensino Médio"
+      },
+      {
+        "id": "D7RxrFQ9DYw",
+        "titulo": "Gastrulação - Biologia - Ensino Médio"
+      },
+      {
+        "id": "CoRHpKdM7FE",
+        "titulo": "Neurulação - Biologia - Ensino Médio"
+      },
+      {
+        "id": "m6sXVIwEa0w",
+        "titulo": "Folhetos embrionários e organogênese - Biologia - Ensino Médio"
+      },
+      {
+        "id": "7reUycwbvd8",
+        "titulo": "Anexos embrionários - Biologia - Ensino Médio"
+      },
+      {
+        "id": "CcfB4FwaHWE",
+        "titulo": "Processos endotérmicos e exotérmicos​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "SzYbzqL99Ig",
+        "titulo": "Respiração celular aeróbia​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "mrrETo-37CE",
+        "titulo": "Fermentação​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "zSOE1uRloZg",
+        "titulo": "Fotossíntese​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "-lHTIE2fCbQ",
+        "titulo": "Quimiossíntese​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "HQL_A5wV2mw",
+        "titulo": "Introdução e classificação dos tecidos animais - Biologia - Ensino Médio"
+      },
+      {
+        "id": "tTH887nss4Y",
+        "titulo": "Características e funções do tecido epitelial​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "gxKu93LCgWs",
+        "titulo": "Classificação do tecido epitelial​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "o37kQpbs4A4",
+        "titulo": "Tecidos conjuntivos propriamente ditos (TCPD)​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "TDKjXuiEJZI",
+        "titulo": "Tecido adiposo - Biologia - Ensino Médio"
+      },
+      {
+        "id": "XhQqcQki6oY",
+        "titulo": "Tecido cartilaginoso - Biologia - Ensino Médio"
+      },
+      {
+        "id": "TnlIkEbzHwM",
+        "titulo": "Tecido ósseo - Biologia - Ensino Médio  Aula 52"
+      },
+      {
+        "id": "sFSup5ddlow",
+        "titulo": "Tecidos hematopoiético e sanguíneo​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "WWPPZ-ZN1gY",
+        "titulo": "Tecido muscular - Biologia - Ensino Médio"
+      },
+      {
+        "id": "piPs7vmS8EI",
+        "titulo": "Tecido nervoso - Biologia - Ensino Médio"
+      },
+      {
+        "id": "76UC3I3_v80",
+        "titulo": "Sistemática e taxonomia de Lineu - Biologia - Ensino Médio"
+      },
+      {
+        "id": "O1HU-gOAuM0",
+        "titulo": "Árvores filogenéticas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "4Gol-IOFieo",
+        "titulo": "Sistema de classificação dos seres vivos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "g4Iuyx2zmbQ",
+        "titulo": "Características e composição dos vírus - Biologia - Ensino Médio"
+      },
+      {
+        "id": "LiabZG5xNxs",
+        "titulo": "Reprodução e classificação dos vírus - Biologia - Ensino Médio"
+      },
+      {
+        "id": "rsTOXEqK9Hk",
+        "titulo": "Viroses - Biologia - Ensino Médio"
+      },
+      {
+        "id": "fMx06NQq6Rk",
+        "titulo": "Características e estruturas das bactérias - Biologia - Ensino Médio"
+      },
+      {
+        "id": "ZC5OQFn_l98",
+        "titulo": "Reprodução e classificação das bactérias - Biologia - Ensino Médio"
+      },
+      {
+        "id": "WNYo3_snOnA",
+        "titulo": "Bacterioses - Biologia - Ensino Médio"
+      },
+      {
+        "id": "04hnYC0wDR8",
+        "titulo": "Características e estrutura dos protozoários - Biologia - Ensino Médio"
+      },
+      {
+        "id": "HyELiRb0bj0",
+        "titulo": "Reprodução e classificação dos protozoários - Biologia - Ensino Médio"
+      },
+      {
+        "id": "BIB7ecMYrZw",
+        "titulo": "Protozooses - Biologia - Ensino Médio"
+      },
+      {
+        "id": "Q-pwzplo8_Y",
+        "titulo": "Característica e estrutura dos fungos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "FD5OpUO_VJY",
+        "titulo": "Reprodução e classificação dos fungos​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "8ANJqEuX0fE",
+        "titulo": "Características e classificação das plantas​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "Qj4mIJdt3uw",
+        "titulo": "Características e ciclo reprodutivo das briófitas​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "1Ve2GIpHGBs",
+        "titulo": "Características e ciclo reprodutivo das pteridófitas​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "64l54Z952Ug",
+        "titulo": "Características e ciclo reprodutivo das gimnospermas​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "MgemqEqTzGA",
+        "titulo": "Características e classificação das angiospermas​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "PKKXCBaDucc",
+        "titulo": "Reprodução das angiospermas​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "qum4HMxjiXc",
+        "titulo": "Tecidos meristemáticos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "O7z_iUw3lSU",
+        "titulo": "Parênquimas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "YTbs3DxD9PQ",
+        "titulo": "Tecidos de sustentação e condução​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "zPBsD8zeYPk",
+        "titulo": "Raiz e tipos de raízes ​- Biologia - Ensino Médio"
+      },
+      {
+        "id": "5SvVdhrmhbw",
+        "titulo": "Caule e tipos de caules ​- Biologia - Ensino Médio"
+      },
+      {
+        "id": "WOS8viMu6b0",
+        "titulo": "Folha e tipos de folhas ​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "pYrMn4KdBYU",
+        "titulo": "Fruto, semente e tipos de frutos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "CX7tKU9LZlM",
+        "titulo": "Transporte de seivas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "4PTczZriE30",
+        "titulo": "Transpiração vegetal - Biologia  - Ensino Médio"
+      },
+      {
+        "id": "2lSc9TvkTHA",
+        "titulo": "Fatores da fotossíntese - Biologia - Ensino Médio"
+      },
+      {
+        "id": "qEcb6fm4p4Q",
+        "titulo": "Hormônios vegetais - Biologia  - Ensino Médio"
+      },
+      {
+        "id": "n6w35jpVe-o",
+        "titulo": "Reino animalia - Biologia - Ensino Médio"
+      },
+      {
+        "id": "yLSdlW-CNgg",
+        "titulo": "Filo porifera​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "oB_6SzX1Mmg",
+        "titulo": "Filo cnidária - Biologia - Ensino Médio"
+      },
+      {
+        "id": "OwmsO2mVQKM",
+        "titulo": "Filo platyhelminthes​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "o05NGSyQU1s",
+        "titulo": "Filo nematoda​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "jhT8q4FYaYA",
+        "titulo": "Verminoses​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "_Znjeg8PCUQ",
+        "titulo": "Filo mollusca​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "JQa5RJajIso",
+        "titulo": "Filo annelida​ - Biologia Ensino Médio"
+      },
+      {
+        "id": "EliRJ-Yo87g",
+        "titulo": "Filo arthropoda​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "yvPiezNFrWE",
+        "titulo": "Filo echinodermata​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "QjRKldKvkwg",
+        "titulo": "Filo chordata​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "zKo_36znNfs",
+        "titulo": "Peixes - Biologia - Ensino Médio"
+      },
+      {
+        "id": "L893-jyEirU",
+        "titulo": "Anfíbios​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "pF9teRXskdw",
+        "titulo": "Répteis - Biologia - Ensino Médio"
+      },
+      {
+        "id": "uCKYVO8dYoI",
+        "titulo": "Aves - Biologia - Ensino Médio"
+      },
+      {
+        "id": "I9nS-NNGfwM",
+        "titulo": "Características gerais dos mamíferos​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "VtF2KDctp24",
+        "titulo": "Classificação dos mamíferos​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "pFTTyLrA5Hw",
+        "titulo": "Conceitos de bioeletrogênese ​- Biologia - Ensino Médio"
+      },
+      {
+        "id": "8Ahmh0zdBHI",
+        "titulo": "Sistema nervoso central (SNC)​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "AKZN-JPkCQI",
+        "titulo": "Sistema nervoso periférico (SNP)​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "jujbglBfSaM",
+        "titulo": "Sistemas nervosos autônomos e somáticos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "ZFMaEk4yMQk",
+        "titulo": "Tato e visão - Biologia - Ensino Médio"
+      },
+      {
+        "id": "VxwGiD6Tb5M",
+        "titulo": "Olfato e paladar - Biologia - Ensino Médio"
+      },
+      {
+        "id": "4b4HH30xnvE",
+        "titulo": "Glândula hipófise, tireoide e  paratireoide - Biologia - Ensino Médio"
+      },
+      {
+        "id": "bshRNoY8hwU",
+        "titulo": "Glândulas supra renais, pâncreas e gônadas ​- Biologia - Ensino Médio"
+      },
+      {
+        "id": "grN_EOwSfqI",
+        "titulo": "Digestão na boca, faringe e esôfago​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "Ek-wvVXWDe0",
+        "titulo": "Digestão no estômago​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "72Pwj2m9C0w",
+        "titulo": "Digestão nos intestinos​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "F6YwnFGIG6Y",
+        "titulo": "Órgãos respiratórios ​- Biologia - Ensino Médio"
+      },
+      {
+        "id": "e6asOMWjhK4",
+        "titulo": "Movimentos respiratórios​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "4K8cU--sxBw",
+        "titulo": "Sangue - Biologia - Ensino Médio"
+      },
+      {
+        "id": "lLcdmWNuajk",
+        "titulo": "Vasos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "1XM4x-yzPy8",
+        "titulo": "Coração - Biologia - Ensino Médio"
+      },
+      {
+        "id": "lgcyMcHRDFo",
+        "titulo": "Sistema imunológico​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "NayrRvNv4NY",
+        "titulo": "Sistema excretor​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "smmp3w4tEcY",
+        "titulo": "Funcionamento dos néfrons - Biologia - Ensino Médio"
+      },
+      {
+        "id": "qlS2E6Y-bWs",
+        "titulo": "Sistema reprodutor masculino ​- Biologia - Ensino Médio"
+      },
+      {
+        "id": "-lKLMiqNtBI",
+        "titulo": "Sistema reprodutor feminino ​- Biologia - Ensino Médio"
+      },
+      {
+        "id": "C1O3x6hcLnk",
+        "titulo": "Conceitos básicos de genética ​- Biologia - Ensino Médio"
+      },
+      {
+        "id": "m9a9jbvedfU",
+        "titulo": "Primeira lei de Mendel - Biologia - Ensino Médio"
+      },
+      {
+        "id": "KiEj5afv8oc",
+        "titulo": "Tipos de dominâncias - Biologia - Ensino Médio"
+      },
+      {
+        "id": "--5NcnnMqB4",
+        "titulo": "Genes letais (Lucien Cuenot) - Biologia - Ensino Médio"
+      },
+      {
+        "id": "34Yow_rwifM",
+        "titulo": "Polialelia - Biologia - Ensino Médio"
+      },
+      {
+        "id": "pxB0jUaMiwA",
+        "titulo": "Sistema ABO​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "SQ04-rTONiY",
+        "titulo": "Sistema Rh - Biologia - Ensino Médio"
+      },
+      {
+        "id": "QNB8glrTUp0",
+        "titulo": "Heranças sexuais - Biologia - Ensino Médio"
+      },
+      {
+        "id": "L9RhoZHdYfo",
+        "titulo": "Segunda lei de Mendel - Biologia - Ensino Médio"
+      },
+      {
+        "id": "f-wesHgsrEg",
+        "titulo": "Interação gênica - Biologia - Ensino Médio"
+      },
+      {
+        "id": "c4rItc-LoX0",
+        "titulo": "Linkage - Biologia - Ensino Médio"
+      },
+      {
+        "id": "_xyBlD_-oM0",
+        "titulo": "Genética das populações (Teorema de Hardy-Weinberg) - Biologia - Ensino Médio"
+      },
+      {
+        "id": "RfRjh6Ecga4",
+        "titulo": "DNA recombinante e transgênicos - Biologia - Ensino Médio"
+      },
+      {
+        "id": "g3IraNzYLp0",
+        "titulo": "Clonagem - Biologia - Ensino Médio"
+      },
+      {
+        "id": "teUgetmSk9s",
+        "titulo": "Células-tronco - Biologia - Ensino Médio"
+      },
+      {
+        "id": "4s1fSp9kln4",
+        "titulo": "Evidências evolutivas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "8zrbP2jz-U4",
+        "titulo": "Teorias evolutivas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "Y03754YDe58",
+        "titulo": "Neodarwinismo - Biologia - Ensino Médio"
+      },
+      {
+        "id": "nEADO7iDJjE",
+        "titulo": "Especiação - Biologia - Ensino Médio"
+      },
+      {
+        "id": "tAfmWBG-qWw",
+        "titulo": "Conceitos básicos de ecologia​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "3sNwuVQUr5U",
+        "titulo": "Fatores do ecossistema - Biologia - Ensino Médio"
+      },
+      {
+        "id": "wmVhZQN8-m4",
+        "titulo": "Cadeia alimentar e teia alimentar​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "YxtnJE0m_wc",
+        "titulo": "Pirâmides ecológicas​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "0W6QF4qVqck",
+        "titulo": "Biosfera - Biologia - Ensino Médio"
+      },
+      {
+        "id": "2xbKKfMIAPs",
+        "titulo": "Comunidades aquáticas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "Cwi8GngnMLI",
+        "titulo": "Sucessão ecológica​ - Biologia - Ensino Médio"
+      },
+      {
+        "id": "Esuj70_CoEw",
+        "titulo": "Relações ecológicas - Biologia - Ensino Médio"
+      },
+      {
+        "id": "JnSUv6fBkig",
+        "titulo": "Ciclo da água e ciclo do carbono - Biologia - Ensino Médio"
+      },
+      {
+        "id": "2tV_U1WTAd0",
+        "titulo": "Ciclo do oxigênio e ciclo do nitrogênio - Biologia - Ensino Médio"
+      }
+    ]
+  },
+  "Química": {
+    "cor": "rgb(73, 179, 255)",
+    "aulas": [
+      {
+        "id": "3Mgw1v2VWO8",
+        "titulo": "Matéria e energia: propriedades gerais da matéria - Química - Ensino Médio"
+      },
+      {
+        "id": "xXBjE_B_D-g",
+        "titulo": "Matéria e energia: prop. funcionais, específicas e estados de agregação da matéria - Química - E.M."
+      },
+      {
+        "id": "f-q9evRMAmk",
+        "titulo": "Matéria e energia: sistemas homogêneos, heterogêneos e substâncias puras - Química - Ensino Médio"
+      },
+      {
+        "id": "pYnqCMQC0x0",
+        "titulo": "Matéria e energia: comportamenteo térmico dos materiais - Química - Ensino Médio"
+      },
+      {
+        "id": "3326unYTXUo",
+        "titulo": "Matéria e energia: Alotropia, conceito e propriedades - Química - Ensino Médio"
+      },
+      {
+        "id": "fDK2N-FvwI0",
+        "titulo": "Separação de misturas heterogêneas - Química - Ensino Médio"
+      },
+      {
+        "id": "qBZ2tngUQGk",
+        "titulo": "Separação de misturas homogêneas: destilação simples e fracionada - Química - Ensino Médio"
+      },
+      {
+        "id": "IJHlrxY26qg",
+        "titulo": "Evolução atômica: modelo Grego, Dalton e Thompson - Química - Ensino Médio"
+      },
+      {
+        "id": "jH2c1FDt5WI",
+        "titulo": "Evolução atômica: Rutherford, Bohr e Sommerfeld - Química - Ensino Médio"
+      },
+      {
+        "id": "b3oDUQnQUa4",
+        "titulo": "Evolução atômica: modelo atômico atual"
+      },
+      {
+        "id": "M6ZsSpWVtwQ",
+        "titulo": "Evolução atômica: estudo da eletrosfera - Química - Ensino Médio"
+      },
+      {
+        "id": "clEQ2KZFcuU",
+        "titulo": "Números quânticos - Química - Ensino Médio"
+      },
+      {
+        "id": "-cEEld_3uwU",
+        "titulo": "Química nuclear: estabilidade nuclear e principais particulas - Química - Ensino Médio"
+      },
+      {
+        "id": "QcV-PNtfWt0",
+        "titulo": "Química nuclear: análise do cinturão de estabilidade - Química - Ensino Médio"
+      },
+      {
+        "id": "SSsBuodmYtc",
+        "titulo": "Química nuclear: transmutações naturais e artificiais, leis de Soddy - Química - Ensino Médio"
+      },
+      {
+        "id": "uQ1bqwiGWTg",
+        "titulo": "Química nuclear: cinética das emissões radioativas - Química - Ensino Médio"
+      },
+      {
+        "id": "wOspRbtDiX4",
+        "titulo": "Química nuclear: fissão nuclear e fusão nuclear - Química - Ensino Médio"
+      },
+      {
+        "id": "hu_s5qSZsNo",
+        "titulo": "Tabela periódica: visão geral (Mendeleev e Moselev) - Química - Ensino Médio"
+      },
+      {
+        "id": "TQvtdPxh3kQ",
+        "titulo": "Tabela periódica: análise dos elementos representativos e de transição - Química - Ensino Médio"
+      },
+      {
+        "id": "Tf3w9Qs_FEo",
+        "titulo": "Tabela periódica: propriedades periódicas dos elementos - Química - Ensino Médio"
+      },
+      {
+        "id": "07bCWPVqNUc",
+        "titulo": "Ligações químicas iônicas regra do octeto - Química - Ensino Médio"
+      },
+      {
+        "id": "gG9zQ-mr9yA",
+        "titulo": "Ligações químicas metálicas - Química - Ensino Médio"
+      },
+      {
+        "id": "8rjdtyCWQcY",
+        "titulo": "Ligações químicas covalentes - Química - Ensino Médio"
+      },
+      {
+        "id": "-LfJtK365jI",
+        "titulo": "Geometria molecular e polaridade das moléculas - Química - Ensino Médio"
+      },
+      {
+        "id": "l8ZTd5wBarw",
+        "titulo": "Ligações intermoleculares - Química - Ensino Médio"
+      },
+      {
+        "id": "-RnSqjzVDZI",
+        "titulo": "Teoria de Arrhenius - ionização x dissociação - Química - Ensino Médio"
+      },
+      {
+        "id": "LGPlqu45NNY",
+        "titulo": "Ácidos de Arrhenius - Química - Ensino Médio"
+      },
+      {
+        "id": "wOtgxDIaRpk",
+        "titulo": "As bases de Arrhenius - Química - Ensino Médio"
+      },
+      {
+        "id": "ECn-qrQhMh0",
+        "titulo": "Os sais de Arrhenius - Química - Ensino Médio"
+      },
+      {
+        "id": "-6mE2pbFrKQ",
+        "titulo": "Os óxidos de Arrhenius - Química - Ensino Médio"
+      },
+      {
+        "id": "wB15bMXVPHg",
+        "titulo": "Evidências de uma reação química - Química - Ensino Médio"
+      },
+      {
+        "id": "w2ZPiIDtje8",
+        "titulo": "Número de oxidação: NOX - Química - Ensino Médio"
+      },
+      {
+        "id": "g6iegqXmFRs",
+        "titulo": "Balanceamento das reações de oxirredução - Química - Ensino Médio"
+      },
+      {
+        "id": "Cll20rwlfE8",
+        "titulo": "Noções de metalurgia - Química - Ensino Médio"
+      },
+      {
+        "id": "5fI05AgLOF0",
+        "titulo": "Leis das reações químicas - Química - Ensino Médio"
+      },
+      {
+        "id": "JkyjYmKExu4",
+        "titulo": "Grandezas químicas - Química - Ensino Médio"
+      },
+      {
+        "id": "xwUeoPTIHRs",
+        "titulo": "Cálculo de fórmulas - Química - Ensino Médio"
+      },
+      {
+        "id": "23grnvIKB70",
+        "titulo": "Estudo físico dos gases - Química - Ensino Médio"
+      },
+      {
+        "id": "I0H1BqcsLaQ",
+        "titulo": "Cálculos estequiométricos: casos gerais - Química - Ensino Médio"
+      },
+      {
+        "id": "QcL4l8T51_E",
+        "titulo": "Cálculos estequiométricos: grau de pureza e excesso de reagente - Química - Ensino Médio"
+      },
+      {
+        "id": "emrcwHUGEv8",
+        "titulo": "Cálculos estequiométricos: rendimentos e reações consecutivas - Química - Ensino Médio"
+      },
+      {
+        "id": "Wqylgl8sSSY",
+        "titulo": "Classificação das soluções ​- Química - Ensino Médio"
+      },
+      {
+        "id": "yU70WTXKyrc",
+        "titulo": "Concentração das soluções​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "SeMuEykaYRc",
+        "titulo": "Diluição das soluções​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "jsQujb1VRr4",
+        "titulo": "Mistura de soluções​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "6LPx5hQtE9I",
+        "titulo": "Propriedades coligativas​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "hWe0yxaGkYQ",
+        "titulo": "Tonoscopia e ebulioscopia​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "zc0waqHzbpQ",
+        "titulo": "Crioscopia e osmose​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "Phr3DSKLLhA",
+        "titulo": "Termoquímica​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "g2IyunzmNyY",
+        "titulo": "Variação de entalpia associada às mudanças de estado físico ​​- Química - Ensino Médio"
+      },
+      {
+        "id": "La7K0WnYyIA",
+        "titulo": "Calor ​- Química - Ensino Médio"
+      },
+      {
+        "id": "jPWruzZ5DIs",
+        "titulo": "Cálculos teóricos de ΔH​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "R9hSfUSNj6o",
+        "titulo": "Teoria das colisões e fatores que influenciam a velocidade de uma reação​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "Dbn7OCxnwbc",
+        "titulo": "Cinética química: Lei da ação das massas​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "iVn5MDvd6QE",
+        "titulo": "As constantes de equilíbrio: Kc e Kp​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "WkrYucQi0o4",
+        "titulo": "Deslocamento de equilíbrio: Le Chatelier​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "EG4EXKzUhoE",
+        "titulo": "Autoionizacão da água: pH e pOH​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "pRSOjMKNEb8",
+        "titulo": "Hidrólise salina​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "G2_pY7EIboo",
+        "titulo": "Equilíbrio de solubilidade​ - Química - Ensino Médio"
+      },
+      {
+        "id": "yIORlUkKHcg",
+        "titulo": "Processos eletroquímicos: Pilhas​ ​- Química - Ensino Médio"
+      },
+      {
+        "id": "gh-aO85EzI8",
+        "titulo": "Espontaneidade de reações em processos eletroquímicos​ - Química - Ensino Médio"
+      },
+      {
+        "id": "GbmXRcNPyVw",
+        "titulo": "Processos eletroquímicos: eletrólise​ - Química - Ensino Médio"
+      },
+      {
+        "id": "xEd2WnbN1Ys",
+        "titulo": "Classificação de cadeias carbônicas​ - Química - Ensino Médio"
+      },
+      {
+        "id": "vne9aM_naQE",
+        "titulo": "Hidrocarbonetos - Química - Ensino Médio"
+      },
+      {
+        "id": "pJaqsfic7Tw",
+        "titulo": "Petróleo​ - Química - Ensino Médio"
+      },
+      {
+        "id": "vKJ7dbCG86c",
+        "titulo": "Compostos aromáticos​ - Química - Ensino Médio"
+      },
+      {
+        "id": "ZyoGoLlzSZ4",
+        "titulo": "Funções oxigenadas: álcool, aldeído, cetona, éter e fenol ​- Química - Ensino Médio"
+      },
+      {
+        "id": "wWATNsUJ0EE",
+        "titulo": "Funções oxigenadas: ácido carboxílico, sais orgânicos, éster e anidrido​ - Química - Ensino Médio"
+      },
+      {
+        "id": "0Zykkn3e9Dw",
+        "titulo": "Funções nitrogenadas: amidas e aminas​ - Química - Ensino Médio"
+      },
+      {
+        "id": "bP8RWooChdc",
+        "titulo": "Funções mistas​ - Química - Ensino Médio"
+      },
+      {
+        "id": "2aXkzoJjBHA",
+        "titulo": "Isomeria plana​ - Química - Ensino Médio"
+      },
+      {
+        "id": "JicqrLWfHmM",
+        "titulo": "Isomeria geométrica​ - Química - Ensino Médio"
+      },
+      {
+        "id": "7A18mhRgpPg",
+        "titulo": "Isomeria óptica​ - Química - Ensino Médio"
+      },
+      {
+        "id": "m1JyXxpwm-0",
+        "titulo": "Reações orgânicas: Uma visão geral​ - Química - Ensino Médio"
+      },
+      {
+        "id": "o3lU7Nm53GY",
+        "titulo": "Reações de adição​ - Química - Ensino Médio"
+      },
+      {
+        "id": "WOVNXFoHDmo",
+        "titulo": "Reações de eliminação​ - Química - Ensino Médio"
+      },
+      {
+        "id": "QgwLVC2-BrU",
+        "titulo": "Reações de substituição​ - Química - Ensino Médio"
+      },
+      {
+        "id": "TA6WiC4aMHE",
+        "titulo": "Reações de oxidação e redução ​- Química - Ensino Médio"
+      },
+      {
+        "id": "dkEyQQQMQRw",
+        "titulo": "Polímeros: Uma visão geral​ - Química - Ensino Médio"
+      },
+      {
+        "id": "nb1YutqAK5I",
+        "titulo": "Polímeros de adição - Química - Ensino Médio"
+      },
+      {
+        "id": "J1f4RjnAP5w",
+        "titulo": "Polímeros de condensação​ - Química - Ensino Médio"
+      }
+    ]
+  },
+  "Física": {
+    "cor": "rgb(0, 76, 184)",
+    "aulas": [
+      {
+        "id": "lFcfMaBkYvM",
+        "titulo": "Módulo, direção e sentido - Física - Ensino Médio"
+      },
+      {
+        "id": "Tk_RMQ2q9Mk",
+        "titulo": "Para onde eu vou? - Física - Ensino Médio"
+      },
+      {
+        "id": "qrAhdrtNI0g",
+        "titulo": "Correndo com velocidade constante - Física - Ensino Médio"
+      },
+      {
+        "id": "amK_I6bg5s4",
+        "titulo": "Como a velocidade muda? - Física - Ensino Médio"
+      },
+      {
+        "id": "j1wENxVzPpE",
+        "titulo": "Pulando de paraquedas - Física - Ensino Médio"
+      },
+      {
+        "id": "dhJx1lRkXT0",
+        "titulo": "Andando em círculo - Física - Ensino Médio.."
+      },
+      {
+        "id": "O8Q2jzf002g",
+        "titulo": "As leis de Newton - Física - Ensino Médio"
+      },
+      {
+        "id": "NCsI2Tij6nU",
+        "titulo": "Trocando os móveis de lugar - Física - Ensino Médio"
+      },
+      {
+        "id": "mmxicJGbkh4",
+        "titulo": "É uma questão de equilíbrio - Física - Ensino Médio"
+      },
+      {
+        "id": "D0fH6tH76M8",
+        "titulo": "O trabalho no dia a dia - Física - Ensino Médio"
+      },
+      {
+        "id": "gq4897eRFS8",
+        "titulo": "Haja energia - Física - Ensino Médio"
+      },
+      {
+        "id": "BvoyxL2sEjk",
+        "titulo": "Os corpos se atraem - Física - Ensino Médio"
+      },
+      {
+        "id": "nt_IFzHRTq8",
+        "titulo": "Todos sob pressão - Física - Ensino Médio"
+      },
+      {
+        "id": "f6iZouuE9ZQ",
+        "titulo": "Suspendendo um carro - Física - Ensino Médio"
+      },
+      {
+        "id": "RSmXfBd1WbQ",
+        "titulo": "Como um navio flutua - Física - Ensino Médio"
+      },
+      {
+        "id": "X_ovNgNxlgs",
+        "titulo": "Um dia na praia - Física - Ensino Médio"
+      },
+      {
+        "id": "Z8ULd-b7D8c",
+        "titulo": "Contornando obstáculos - Física - Ensino Médio"
+      },
+      {
+        "id": "DzX7J2E-TSg",
+        "titulo": "Um concerto de Rock - Física - Ensino Médio"
+      },
+      {
+        "id": "pAWppW8TW64",
+        "titulo": "Cancelando ruídos - Física - Ensino Médio"
+      },
+      {
+        "id": "9SjC8bsQK2Y",
+        "titulo": "A beleza de Narciso - Física - Ensino Médio"
+      },
+      {
+        "id": "x6YoeoWm7VU",
+        "titulo": "O espelho incendiário - Física - Ensino Médio"
+      },
+      {
+        "id": "Q0rBw7SUxTA",
+        "titulo": "O prisma de Newton - Física - Ensino Médio"
+      },
+      {
+        "id": "UQyakWw010M",
+        "titulo": "As fibras ópticas - Física - Ensino Médio"
+      },
+      {
+        "id": "a7L2F7Em8GA",
+        "titulo": "O mundo através das lentes - Física - Ensino Médio"
+      },
+      {
+        "id": "kaGY5q5eanc",
+        "titulo": "Enxergando com o cérebro - Física - Ensino Médio"
+      },
+      {
+        "id": "P4VaOd3uLyY",
+        "titulo": "Quente ou frio? - Física - Ensino Médio"
+      },
+      {
+        "id": "MZ38GAsV1ek",
+        "titulo": "Aquecendo e dilatando - Física - Ensino Médio"
+      },
+      {
+        "id": "VuLfCpjCMZY",
+        "titulo": "Trocando calor - Física - Ensino Médio"
+      },
+      {
+        "id": "StvTWptg9Z0",
+        "titulo": "A grande inércia da água - Física - Ensino Médio"
+      },
+      {
+        "id": "ww5w6a92AR0",
+        "titulo": "Cozinhando sob pressão - Física - Ensino Médio"
+      },
+      {
+        "id": "X-mMEiv_h34",
+        "titulo": "Dominando o fogo - Física - Ensino Médio"
+      },
+      {
+        "id": "X41PZaLD7QM",
+        "titulo": "Eletricidade Estática - Física - Ensino Médio"
+      },
+      {
+        "id": "SnXY7uZFa8I",
+        "titulo": "Máscaras faciais elétricas - Física - Ensino Médio"
+      },
+      {
+        "id": "NwcBbqjq7-E",
+        "titulo": "Descargas elétricas - Física - Ensino Médio"
+      },
+      {
+        "id": "rnZkdOc2v0w",
+        "titulo": "Contando os elétrons - Física - Ensino Médio"
+      },
+      {
+        "id": "kYOLW2V0cqk",
+        "titulo": "Gastando eletricidade - Física - Ensino Médio"
+      },
+      {
+        "id": "AoJ1u4gK6HU",
+        "titulo": "Eletricidade gerando calor - Física - Ensino Médio"
+      },
+      {
+        "id": "e-tE3qW9CAQ",
+        "titulo": "Associando resistores - Física - Ensino Médio"
+      },
+      {
+        "id": "ktjChtHVDWg",
+        "titulo": "Gerando e consumindo - Física - Ensino Médio"
+      },
+      {
+        "id": "ZvqF1XIJE7I",
+        "titulo": "Percorrendo um circuito - Física - Ensino Médio"
+      },
+      {
+        "id": "ZTNyOW6UCnc",
+        "titulo": "Navegar é preciso - Física - Ensino Médio"
+      },
+      {
+        "id": "n6bgp0fSngY",
+        "titulo": "O início do eletromagnetismo - Física - Ensino Médio"
+      },
+      {
+        "id": "2heELCLJoig",
+        "titulo": "A beleza das auroras - Física - Ensino Médio"
+      },
+      {
+        "id": "P82Jb10eSSM",
+        "titulo": "Fabricando eletricidade - Física - Ensino Médio"
+      }
+    ]
+  },
+  "História": {
+    "cor": "rgb(137, 71, 0)",
+    "aulas": [
+      {
+        "id": "_4bgkEOEPH0",
+        "titulo": "Antiguidade oriental - História - Ensino Médio"
+      },
+      {
+        "id": "DED0adLtej0",
+        "titulo": "Grécia antiga - História - Ensino Médio"
+      },
+      {
+        "id": "Uz_AE5aLPAo",
+        "titulo": "Roma antiga - História - Ensino Médio"
+      },
+      {
+        "id": "aavmynZHkTo",
+        "titulo": "Idade Média: trevas? - História - Ensino Médio"
+      },
+      {
+        "id": "mys0TNPcZSw",
+        "titulo": "Feudalismo - História - Ensino Médio"
+      },
+      {
+        "id": "Ahuei_Cl5bY",
+        "titulo": "A crise do mundo medieval - História - Ensino Médio"
+      },
+      {
+        "id": "ASWVvAyLy74",
+        "titulo": "O Estado Moderno - História - Ensino Médio"
+      },
+      {
+        "id": "67k_fGYQ0p4",
+        "titulo": "Renascimento - História - Ensino Médio"
+      },
+      {
+        "id": "7G_n_8QGnG0",
+        "titulo": "Reformas religiosas - História - Ensino Médio"
+      },
+      {
+        "id": "LGGccUh5xng",
+        "titulo": "Expansão marítima - História - Ensino Médio"
+      },
+      {
+        "id": "zoWIzkfW2DY",
+        "titulo": "Povos indígenas - História - Ensino Médio"
+      },
+      {
+        "id": "i4ifMc-FUSU",
+        "titulo": "A  conquista da América - História - Ensino Médio"
+      },
+      {
+        "id": "nKkjmm5Hiwg",
+        "titulo": "Revolução inglesa - História - Ensino Médio"
+      },
+      {
+        "id": "Yq75DMurZj8",
+        "titulo": "Revolução industrial - História - Ensino Médio"
+      },
+      {
+        "id": "v4KnjVDiqhk",
+        "titulo": "Iluminismo - História - Ensino Médio"
+      },
+      {
+        "id": "lAM9sVE3zoA",
+        "titulo": "Revolução americana - História - Ensino Médio"
+      },
+      {
+        "id": "9FuMCplPhH0",
+        "titulo": "Revolução francesa - História - Ensino Médio"
+      },
+      {
+        "id": "iBrUWkOWzp8",
+        "titulo": "Era Napoleônica - História - Ensino Médio"
+      },
+      {
+        "id": "g_Erg6FYYnI",
+        "titulo": "Independência da América Latina - História - Ensino Médio"
+      },
+      {
+        "id": "HsKGZNVFV7M",
+        "titulo": "2ª Revolução Industrial - História - Ensino Médio"
+      },
+      {
+        "id": "Xqs0EtpAeoI",
+        "titulo": "Ideias políticas do século XIX - História - Ensino Médio"
+      },
+      {
+        "id": "nwXUPqzzDzU",
+        "titulo": "Socialismo: crítica ao capitalismo - História - Ensino Médio"
+      },
+      {
+        "id": "4CNMTReEak8",
+        "titulo": "Positivismo - História - Ensino Médio"
+      },
+      {
+        "id": "ejuWvLf8wcY",
+        "titulo": "Imperialismo - História - Ensino Médio"
+      },
+      {
+        "id": "5b19VuS0muQ",
+        "titulo": "Nacionalismo - História - Ensino Médio"
+      },
+      {
+        "id": "ZisfDCeeTZ4",
+        "titulo": "Primeira Guerra (1914-1918) - História - Ensino Médio"
+      },
+      {
+        "id": "lVE8E1R_W14",
+        "titulo": "Revolução Russa (1917) - História - Ensino Médio"
+      },
+      {
+        "id": "KbmbGoepd8s",
+        "titulo": "Crise no capitalismo (1929) - História - Ensino Médio"
+      },
+      {
+        "id": "Y8NQYHO816Q",
+        "titulo": "Nazifacismo - História - Ensino Médio"
+      },
+      {
+        "id": "nwTmnzhQ1rY",
+        "titulo": "2ª Guerra Mundial - História - Ensino Médio"
+      },
+      {
+        "id": "mlk3LQcbhgY",
+        "titulo": "Guerra Fria (1947-1991) - História - Ensino Médio"
+      },
+      {
+        "id": "7eHSKGKS4Xo",
+        "titulo": "América contemporânea - História - Ensino Médio"
+      },
+      {
+        "id": "4PhN6tmLKfo",
+        "titulo": "Conflitos da guerra fria - História - Ensino Médio"
+      },
+      {
+        "id": "aqS6x2PaOnA",
+        "titulo": "Descolonização da Ásia e África - História - Ensino Médio"
+      },
+      {
+        "id": "p41lRbShi3I",
+        "titulo": "Nova ordem mundial - História - Ensino Médio"
+      },
+      {
+        "id": "V1WO1Ml4MRE",
+        "titulo": "Correntes historiográficas - História - Ensino Médio"
+      },
+      {
+        "id": "oWqVL4GdEDU",
+        "titulo": "Pré-história e a dispersão da humanidade​ - História - Ensino Médio"
+      },
+      {
+        "id": "9KFRzN5PpsM",
+        "titulo": "A ciência histórica e seus documentos​ - História - Ensino Médio"
+      },
+      {
+        "id": "n3Dvth2zR5c",
+        "titulo": "África pré-colonial: diáspora e o multiculturalismo​ - História - Ensino Médio"
+      },
+      {
+        "id": "finwZla55Jk",
+        "titulo": "África e a expansão marítima europeia (XV XVI)​ - História - Ensino Médio"
+      },
+      {
+        "id": "r5kF0HUkuug",
+        "titulo": "Escravidão no Brasil​ - História - Ensino Médio"
+      },
+      {
+        "id": "yodHTH_gqes",
+        "titulo": "O tripé: trabalho escravo, monocultura de exportação e latifúndio​ - História - Ensino Médio"
+      },
+      {
+        "id": "qQ97upm1h3Y",
+        "titulo": "Resistência negra em perspectiva: luta por liberdade é a palavra de ordem​ - História - Ensino Médio"
+      },
+      {
+        "id": "Iv34i2LeG1s",
+        "titulo": "Racismo: uma perspectiva histórica - História - Ensino Médio"
+      },
+      {
+        "id": "gBhQtqdvF5M",
+        "titulo": "Jesuítas no Brasil: a catequização indígena x teorias racialistas​ - História - Ensino Médio"
+      },
+      {
+        "id": "0G_1GdQ92-0",
+        "titulo": "Brasil colônia: economia e sociedade​ - História - Ensino Médio"
+      },
+      {
+        "id": "vMzds62PmmU",
+        "titulo": "Brasil: politica administrativa - História - Ensino Médio"
+      },
+      {
+        "id": "1GTfemzcYtk",
+        "titulo": "O processo de independência política do Brasil​ - História - Ensino Médio"
+      },
+      {
+        "id": "RC-Vx1eYIVw",
+        "titulo": "Monarquia sufocada: poder moderador e constituição da mandioca - História - Ensino Médio"
+      },
+      {
+        "id": "qNafBtncApA",
+        "titulo": "Brasil regencial - História - Ensino Médio"
+      },
+      {
+        "id": "DQ4Mleb-DWs",
+        "titulo": "Brasil império II: politico e administrativo​ - História - Ensino Médio"
+      },
+      {
+        "id": "oM72e5UE39I",
+        "titulo": "O processo de abolição da escravatura ​- História - Ensino Médio"
+      },
+      {
+        "id": "JJZYQl2Q3RM",
+        "titulo": "Racismo estrutural na sociedade brasileira - História - Ensino Médio"
+      },
+      {
+        "id": "BFlQfeuBSVY",
+        "titulo": "A republica no Brasil: dos primeiros ideais a proclamação - História - Ensino Médio"
+      },
+      {
+        "id": "_l204ihRL8s",
+        "titulo": "A primeira republica no Brasil (1889-1930) – As Revoltas​ - História - Ensino Médio"
+      },
+      {
+        "id": "57A2qoCFEYY",
+        "titulo": "Primeira republica: conflitos e contestações - História - Ensino Médio"
+      },
+      {
+        "id": "1dRPqBRgd_w",
+        "titulo": "A Revolução de 30 até a constituinte​ - História - Ensino Médio"
+      },
+      {
+        "id": "c60FeGQh6QU",
+        "titulo": "Era Vargas e o estado novo​ - História - Ensino Médio"
+      },
+      {
+        "id": "5_KUXMOQ-Fg",
+        "titulo": "A democracia após estado novo e o “Novo Getúlio” - História - Ensino Médio"
+      },
+      {
+        "id": "sCr3H-RJH2w",
+        "titulo": "JK: 50 anos em 5​ - História - Ensino Médio"
+      },
+      {
+        "id": "AQ1EgHS4VUc",
+        "titulo": "De Jânio Quadros ao golpe de 1964 - História - Ensino Médio"
+      },
+      {
+        "id": "GqFiQthqDpU",
+        "titulo": "Ditadura civil e militar ​- História - Ensino Médio"
+      },
+      {
+        "id": "hCryfG0twn0",
+        "titulo": "A redemocratização e o Brasil de hoje - História - Ensino Médio"
+      },
+      {
+        "id": "Jq4lU1nzsTA",
+        "titulo": "Uma república liberal ​- História - Ensino Médio"
+      },
+      {
+        "id": "0BiBUGLpCvQ",
+        "titulo": "As desigualdades de gênero e as lutas feministas ​- História - Ensino Médio"
+      },
+      {
+        "id": "jSZgTqumxaY",
+        "titulo": "As desigualdades raciais e o movimento negro ​- História - Ensino Médio"
+      },
+      {
+        "id": "cLeRy3CGGp8",
+        "titulo": "\"O preço\" de ser diferente​ - História - Ensino Médio"
+      },
+      {
+        "id": "BXTwZGZzTvk",
+        "titulo": "Resistir para existir: a luta indígena no Brasil - História - Ensino Médio"
+      },
+      {
+        "id": "Mqlmpbi_l8c",
+        "titulo": "Revoluções no mundo e os reflexos no Brasil​ - História - Ensino Médio"
+      },
+      {
+        "id": "fYlh2nc2PA4",
+        "titulo": "Greves como resposta à desigualdade​ - História - Ensino Médio"
+      },
+      {
+        "id": "xT2wf0OUTkU",
+        "titulo": "Ideário liberal e pautas identitárias - História - Ensino Médio"
+      },
+      {
+        "id": "VvpW3R72KqM",
+        "titulo": "Lugar de fala e a necessidade de falarmos sobre isso - História - Ensino Médio"
+      }
+    ]
+  },
+  "Geografia": {
+    "cor": "rgb(0, 137, 25)",
+    "aulas": [
+      {
+        "id": "ExJO6rncnwg",
+        "titulo": "Conceitos de espaço geográfico, região, lugar, território e paisagem​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "uw3ltpWkwT4",
+        "titulo": "Elementos da paisagem geográfica​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Q58ro7_jnVU",
+        "titulo": "Espaço, paisagem e tempo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "ZxV26l5pyR4",
+        "titulo": "Orientação e localização no espaço​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "BWOSbD1e1oQ",
+        "titulo": "Fusos horários no mundo e no Brasil​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "7mpuNLc_gWU",
+        "titulo": "Cartografia – arte e ciência ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "5cy1lM_W3W0",
+        "titulo": "Tipos e elementos de um mapa​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "PStB6p4oMSc",
+        "titulo": "Legendas e isolinhas - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Y3t9QhGKbwA",
+        "titulo": "Projeções cartográficas​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "BhYcZJixbjs",
+        "titulo": "Escalas cartográficas ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "_c-4pMHOfdE",
+        "titulo": "Classificação do tempo geológico ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "GvK6-UiOJC0",
+        "titulo": "Origem, formação e camadas da terra ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "3Xx-gbdXOZU",
+        "titulo": "A Teoria da deriva continental e placas tectônicas​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Apqt0oVSDpc",
+        "titulo": "Tipos e ciclo das rochas ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "PoDnEZvhi3A",
+        "titulo": "Formas e estruturas de relevo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "SyC_9dPh7Oo",
+        "titulo": "Agentes internos de modificação do relevo (tectonismo, vulcanismo e falhamentos) - Geografia - E.M."
+      },
+      {
+        "id": "Q6wAL-BUwl4",
+        "titulo": "Agentes externos de modificação do relevo (intemperismo, erosão e sedimentação) - Geografia - E.M."
+      },
+      {
+        "id": "p4Eku0Jag-Q",
+        "titulo": "Solo: horizontes e principais tipos de solo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "XCc3W7dLFdo",
+        "titulo": "Erosão dos solos e suas consequências​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "TigFX0ph0OE",
+        "titulo": "Contaminação dos solos - Geografia - Ensino Médio"
+      },
+      {
+        "id": "nAmmUBAoTE0",
+        "titulo": "Estruturas e camadas da atmosfera ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "KytsNKy2Cn4",
+        "titulo": "Tempo e clima​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "YpSMcf6mSxw",
+        "titulo": "Elementos do clima ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "vxUUUX5puuQ",
+        "titulo": "Fatores climáticos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "sksq5nlmDj8",
+        "titulo": "Leitura de climogramas ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "hcW28myWIcI",
+        "titulo": "Tipos climáticos no mundo - Geografia - Ensino Médio"
+      },
+      {
+        "id": "-uoeK93A5JA",
+        "titulo": "Impactos climáticos: poluição do ar, ef. estufa, aquec. e destr. camada de ozônio - Geografia - E.M."
+      },
+      {
+        "id": "seG1vjMrlPY",
+        "titulo": "Impactos climáticos: chuva ácida, smog, inversão térmica e ilhas de calor - Geografia - E.M."
+      },
+      {
+        "id": "TloI87RANKk",
+        "titulo": "El niño e la niña ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "r6kU8nB_UWE",
+        "titulo": "Hidrosfera: distribuição dos recursos hídricos pelo mundo - Geografia - Ensino Médio"
+      },
+      {
+        "id": "YODdgTIqtMw",
+        "titulo": "Hidrografia, elementos e ciclo hidrológico ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "kjhaX3AhWAU",
+        "titulo": "Águas subterrâneas e aquíferos: uso, desperdício e poluição​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "knhCcexr1Bw",
+        "titulo": "Bacias hidrográficas: elementos e seus tipos ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "xbqBt2xWW1E",
+        "titulo": "Oceanos e mares: dinâmicas e poluição​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "5IQ5UF-_SPo",
+        "titulo": "A Biosfera e o ser humano​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "36ZKS7qxrJs",
+        "titulo": "Biomas do mundo: regiões frias e temperadas​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "xSSf_xmuBwU",
+        "titulo": "Biomas do mundo: regiões tropicais, de montanhas e de Desertos - Geografia - Ensino Médio"
+      },
+      {
+        "id": "qmi1QtLqxkE",
+        "titulo": "A População mundial: conceitos demográficos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "xTQ8H2ISqNQ",
+        "titulo": "Estrutura etária da população ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "1p-BgY6zkds",
+        "titulo": "A Distribuição da população mundial e seus Fatores​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "5BacQ7k5q98",
+        "titulo": "Teorias e transição demográfica ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "Sab8ceZKok0",
+        "titulo": "Movimentos migratórios: causas e consequências​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "ybmloQuzDg0",
+        "titulo": "A urbanização mundial: o fenômeno urbano - Geografia - Ensino Médio"
+      },
+      {
+        "id": "1Q3nD7muVcU",
+        "titulo": "Cidades: conceitos, funções e sítio urbano​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "o9GGlhnnA1A",
+        "titulo": "Hierarquia e rede urbana ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "PbgNsHbv-GE",
+        "titulo": "Problemas sociais e ambientais urbanos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "_LLukJ5WmAE",
+        "titulo": "Recursos naturais e desenvolvimento sustentável ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "i4WsG7MpH58",
+        "titulo": "Conferências mundiais para o meio ambiente​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "B4YijkqG0ms",
+        "titulo": "País, estado-nação e nação ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "jOEjd2Ln61o",
+        "titulo": "Território, limites e fronteiras pelo mundo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "UuIUvU4dfWw",
+        "titulo": "Relações internacionais ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "-GoyWyWEP8U",
+        "titulo": "Conflitos do século XXI e suas motivações​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "xyBjJIpCmGM",
+        "titulo": "Áreas de tensão pelo mundo ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "9X-n7srz8A0",
+        "titulo": "Oriente médio: posição estratégica e petróleo​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "AmC9LwmBUMI",
+        "titulo": "Fundamentalismos e extremismos no oriente médio ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "7hYHano5dFc",
+        "titulo": "Conflitos no Oriente Médio ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "d4esFSycuSM",
+        "titulo": "O capitalismo: conceitos e fase pré-capitalista ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "Kh2OnvcZ5kc",
+        "titulo": "O capitalismo industrial​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "2cjuIujL-j0",
+        "titulo": "O capitalismo financeiro monopolista ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "E1lL4bCyTZo",
+        "titulo": "O capitalismo informacional​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "WvXuVzduWSA",
+        "titulo": "Crises do capitalismo na globalização ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "6Q7vEtkJCXw",
+        "titulo": "Capitalismo x socialismo​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "tabLMflgUwo",
+        "titulo": "Origens do mundo bipolar: a ordem geopolítica da guerra fria ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "5sdRkUE4Nk4",
+        "titulo": "O Mundo bipolar: corrida espacial, armamentista e crise socialista​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "sZtNyXlEG7c",
+        "titulo": "A nova ordem mundial: unipolaridade e multipolaridade ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "wqRoZF9_J_g",
+        "titulo": "A globalização e seus fluxos ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "QiSndqQ_xYo",
+        "titulo": "A internacionalização da economia ​​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "6WGzskzr1NI",
+        "titulo": "O outro lado da globalização​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "FyfkzNRDx9g",
+        "titulo": "Economia e geopolítica: G8, G20 e BRICS ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "5UYrk5Kv0OA",
+        "titulo": "Declaração dos direitos humanos e a declaração do milênio ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "nRxSXBIQkPA",
+        "titulo": "Pobreza e fome no mundo globalizado ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "FezyS17O8S4",
+        "titulo": "Desigualdades e outros problemas no mundo não desenvolvido ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "iESfChe9MF4",
+        "titulo": "Desigualdade de gênero e etnia no mundo globalizado​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "HdAZ_toqBTY",
+        "titulo": "A América latina e os desafios do mundo contemporâneo​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "rkev7uy6jMo",
+        "titulo": "A África subsaariana e causas do subdesenvolvimento​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "BMS4-nQ0RDs",
+        "titulo": "Atividades primárias: a agropecuária​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "wHmmTvTMP7Y",
+        "titulo": "Economia agrária e sistemas agrários​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "QNNrk2S2Phk",
+        "titulo": "Os recursos minerais​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "1gT_tJCyMtc",
+        "titulo": "As fontes de energia​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "24pL2fsBP5c",
+        "titulo": "A indústria: tipos de indústria e fatores locacionais​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "kHwIZk8qJ0U",
+        "titulo": "Sistemas de produção industrial​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "pq53gT_LyGw",
+        "titulo": "As revoluções industriais​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "A1ne-7G3gAw",
+        "titulo": "Industrialização no Reino Unido e na França​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "HftGSAJNmrw",
+        "titulo": "Industrialização nos Estados Unidos​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "vmQ-c7E5Zak",
+        "titulo": "Industrialização no Japão e na Alemanha​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "hrrI_fcyDI0",
+        "titulo": "Industrialização russa: heranças do socialismo​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "ncpiMT_joek",
+        "titulo": "Industrialização chinesa: um país, dois sistemas​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "pV2ZYN4L7WM",
+        "titulo": "Industrialização na Índia e o contexto global​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "c0qo5nf00jY",
+        "titulo": "Novos países industrializados​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "DIFTWyqG9YI",
+        "titulo": "Os sistemas de transportes​ ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "lHtab8NsdEs",
+        "titulo": "As redes de comunicação e informação​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "OEXp3ynkpqQ",
+        "titulo": "A atividade turística no mundo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "J2BOiV5bSU0",
+        "titulo": "A Organização das Nações Unidas e seus mecanismos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "yLWoCHDRKf8",
+        "titulo": "A Organização Mundial do Comércio: histórico e desafios atuais​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "3nNGJEtMZoM",
+        "titulo": "Blocos econômicos e suas modalidades​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "DYKKOGbcTr8",
+        "titulo": "União Europeia​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "U9qagvuYbYQ",
+        "titulo": "O Mercosul e o Nafta​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "xL3BdDdEd8A",
+        "titulo": "Comunidade dos Estados Independentes​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "0n2iSk4C4cg",
+        "titulo": "Organismos financeiros internacionais​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "LzRKw0KyGUA",
+        "titulo": "As empresas transnacionais - Geografia - Ensino Médio"
+      },
+      {
+        "id": "I_llIySJ85s",
+        "titulo": "As organizações não governamentais e o seu papel internacional​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "z3MT5QcSZ2I",
+        "titulo": "Brasil: localização, extensão e pontos extremos​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "beSBmhASOOs",
+        "titulo": "Brasil: territorialidade; soberania e segurança nacional​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "9Y0Lj2_kN4s",
+        "titulo": "Fronteiras terrestres e marítimas brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "2JphVXrxNTk",
+        "titulo": "Expansão territorial brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Xc0yecNQ1g4",
+        "titulo": "A divisão regional brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "eWBk3Xjhg7I",
+        "titulo": "Classificações do relevo brasileiro ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "2DVnbdZ0qow",
+        "titulo": "Dinâmica interna e externa do relevo brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "qh_BKxe3oi0",
+        "titulo": "Estrutura geológica brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "-GrqM2y3rBQ",
+        "titulo": "Elementos e fatores climáticos brasileiros​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Jz-k4wwNdds",
+        "titulo": "Características climáticas brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "M-qYr4aOgs4",
+        "titulo": "Classificação climática brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "TO505l-mr4A",
+        "titulo": "Hidrografia brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "7jz4xB_lRPU",
+        "titulo": "Bacias hidrográficas brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "X68Oz1k3Xow",
+        "titulo": "Gestão dos recursos hídricos brasileiros​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Jw_vVHDcNSQ",
+        "titulo": "Formações vegetais brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "OIC3Xm5DEAU",
+        "titulo": "Domínios morfoclimáticos brasileiros: amazônia, cerrado e caatinga​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "0lgx-XuFmbQ",
+        "titulo": "Domínios morfoclimáticos: mares de morros, araucárias, pradarias e faixas transição - Geografia - EM"
+      },
+      {
+        "id": "JnrQjj-_-4g",
+        "titulo": "Biomas do Brasil ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "N6IMzylhkmA",
+        "titulo": "Histórico da política ambiental brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "Y8r0zFaa59Y",
+        "titulo": "Panorama demográfico do Brasil​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "tTWVnN5OMvE",
+        "titulo": "Evolução da estrutura etária brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "5YWuBTo7P9g",
+        "titulo": "Distribuição populacional no território brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "9Bm6SD28Rzw",
+        "titulo": "Condições de vida e desigualdade social brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "EbOqa4j6_Bc",
+        "titulo": "Migrações internas no Brasil: panorama histórico​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "N46g64mdBU0",
+        "titulo": "Histórico das migrações externas no Brasil ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "Gt3hkSupWKM",
+        "titulo": "Urbanização brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "YPrPxfB9omM",
+        "titulo": "Regiões metropolitanas brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "EYpp8T2zjWU",
+        "titulo": "Macrocefalia urbana e problemas sociais​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "y-67Z2KV2bQ",
+        "titulo": "Organização do espaço econômico brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "-OWnEYq5Fsw",
+        "titulo": "Histórico da industrialização brasileira ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "EyEycmpfi7U",
+        "titulo": "Distribuição da indústria brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "7fw3ZH8rUNs",
+        "titulo": "O espaço agropecuário brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "yWZOm4g5D_M",
+        "titulo": "Atividades e produtos agropecuários brasileiros​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "uZR-BlpPDMA",
+        "titulo": "O agronegócio ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "QMpbhPqIihk",
+        "titulo": "Fronteiras agropecuárias brasileiras​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "JR-qXYFeuDQ",
+        "titulo": "Estrutura fundiária brasileira e conflitos no campo​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "BXHw19XUe-M",
+        "titulo": "Recursos minerais brasileiros​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "6cVmzpG_iqM",
+        "titulo": "Matriz energética brasileira​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "9pvwdG0e2Nw",
+        "titulo": "Evolução do comércio exterior brasileiro​ - Geografia - Ensino Médio"
+      },
+      {
+        "id": "4AMy1yNGZj4",
+        "titulo": "Corredores de exportação - Geografia - Ensino Médio"
+      },
+      {
+        "id": "rziG29jYTX0",
+        "titulo": "Rede de transporte brasileiro ​- Geografia - Ensino Médio"
+      },
+      {
+        "id": "mo-hvcQeGrM",
+        "titulo": "Telecomunicações no Brasil ​- Geografia - Ensino Médio"
+      }
+    ]
+  },
+  "Sociologia": {
+    "cor": "rgb(255, 190, 49)",
+    "aulas": [
+      {
+        "id": "J2jbxyXdi-U",
+        "titulo": "Por que sociologia?​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "JyoilD42gjg",
+        "titulo": "Durkheim e o estudo da modernidade​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "3crNobfAb8s",
+        "titulo": "A teoria da modernidade em Max Weber​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "EMctYPGDSi4",
+        "titulo": "Marx e a crítica ao capital​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "PCHrgahQYJQ",
+        "titulo": "O espetáculo e a indústria cultural​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "387whyGmYdg",
+        "titulo": "Bourdieu e a teoria dos capitais​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "NJ4P1d-aBgs",
+        "titulo": "Bauman e a vida  líquida contemporânea​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "J2uUOUqfpyQ",
+        "titulo": "Introdução a análise sociológica no Brasil​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "M0pv3d7zX-I",
+        "titulo": "A democracia cultural em Gilberto Freyre ​- Sociologia - Ensino Médio"
+      },
+      {
+        "id": "U95KUP7mgno",
+        "titulo": "As raízes do Brasil em Sérgio Buarque de Holanda​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "ZQrJVOzNgLw",
+        "titulo": "Desconstruindo a democracia racial em Florestan Fernandes​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "3d3BFBaibds",
+        "titulo": "O povo brasileiro em Darcy Ribeiro​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "0Z5OjLhdZoc",
+        "titulo": "As expressões sociais do trabalho​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "Iw4h88BY3A4",
+        "titulo": "A Pobreza e a desigualdade social - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "qILchOAqqlY",
+        "titulo": "O que são estratificações sociais?​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "pMchZ3S7EI0",
+        "titulo": "Tolerar é o bastante?​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "CF-AFcwVGo4",
+        "titulo": "Cultura e suas diversidades​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "BkVUoOLpBNc",
+        "titulo": "Vamos falar sobre gênero?​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "COn81JcEbd8",
+        "titulo": "Os desafios do estado-nação no mundo contemporâneo​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "7ch02C-ITcY",
+        "titulo": "O que são direitos civis, políticos e sociais?​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "vSR5hPwLx4Q",
+        "titulo": "A teoria dos movimentos sociais​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "W53OCEksLsY",
+        "titulo": "Regimes políticos: entre democracias e autoritarismos​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "ZduOZL4SvNQ",
+        "titulo": "Política e o conceito de poder​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "U88AiZu8Y_U",
+        "titulo": "O mundo globalizado e seus paradoxos​ - Sociologia - Ensino Médio"
+      },
+      {
+        "id": "dgwdRbtBvgM",
+        "titulo": "Antropologia: alteridade e o convívio social​ - Sociologia - Ensino Médio"
+      }
+    ]
+  },
+  "Filosofia": {
+    "cor": "rgb(222, 0, 196)",
+    "aulas": [
+      {
+        "id": "gXaLBGQTkrw",
+        "titulo": "Origem da filosofia​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "Iaua3T8rK-Q",
+        "titulo": "Democracia ateniense​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "0V1Kun46_Qs",
+        "titulo": "Platão e o mundo das ideias​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "qCGre0mZIg0",
+        "titulo": "Aristóteles e a metafísica​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "appQOmYewVY",
+        "titulo": "Helenismo​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "95PNyg4v_fU",
+        "titulo": "Filosofia na idade média​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "ZH9Sgik6noc",
+        "titulo": "Maquiavel e a teoria política​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "-OdJueprsgU",
+        "titulo": "Etienne de La Boétie​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "noLczRNLWcs",
+        "titulo": "Racionalismo e empirismo​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "5Guk7xTuyb8",
+        "titulo": "Contratualismo​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "lP7VUDspN5o",
+        "titulo": "Edmund Burke​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "bdH9s2jVwU4",
+        "titulo": "Immanuel Kant​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "fdr9cuDJrZM",
+        "titulo": "Dialética​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "yyDhFZKkvgo",
+        "titulo": "Liberalismo inglês​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "6rsUAgzcjyM",
+        "titulo": "Nietzsche e o niilismo​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "FoYPsVnVgbo",
+        "titulo": "Pensamento conservador​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "dLiXNsRPuKI",
+        "titulo": "Rosa Luxemburgo​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "V4uMX_64Zs8",
+        "titulo": "Teoria crítica​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "PunYgkcerbg",
+        "titulo": "Antonio Gramsci​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "7qwlJRPF560",
+        "titulo": "Hannah Arendt​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "ysk56XJduLM",
+        "titulo": "Jean-Paul Sartre​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "V2klrd_POik",
+        "titulo": "Michel Foucault​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "4ocPQCmyNEg",
+        "titulo": "Jessé Souza​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "kyLlMeoXi7I",
+        "titulo": "Joseph-Achille Mbembe​ - Filosofia - Ensino Médio"
+      },
+      {
+        "id": "06IteYkeOmk",
+        "titulo": "Simone Beauvoir​ - Filosofia - Ensino Médio"
+      }
+    ]
+  }
+}

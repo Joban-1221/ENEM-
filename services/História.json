@@ -1,0 +1,295 @@
+{
+  "História": {
+    "cor": "rgb(137, 71, 0)",
+    "aulas": [
+      {
+        "id": "_4bgkEOEPH0",
+        "titulo": "Antiguidade oriental - História - Ensino Médio"
+      },
+      {
+        "id": "DED0adLtej0",
+        "titulo": "Grécia antiga - História - Ensino Médio"
+      },
+      {
+        "id": "Uz_AE5aLPAo",
+        "titulo": "Roma antiga - História - Ensino Médio"
+      },
+      {
+        "id": "aavmynZHkTo",
+        "titulo": "Idade Média: trevas? - História - Ensino Médio"
+      },
+      {
+        "id": "mys0TNPcZSw",
+        "titulo": "Feudalismo - História - Ensino Médio"
+      },
+      {
+        "id": "Ahuei_Cl5bY",
+        "titulo": "A crise do mundo medieval - História - Ensino Médio"
+      },
+      {
+        "id": "ASWVvAyLy74",
+        "titulo": "O Estado Moderno - História - Ensino Médio"
+      },
+      {
+        "id": "67k_fGYQ0p4",
+        "titulo": "Renascimento - História - Ensino Médio"
+      },
+      {
+        "id": "7G_n_8QGnG0",
+        "titulo": "Reformas religiosas - História - Ensino Médio"
+      },
+      {
+        "id": "LGGccUh5xng",
+        "titulo": "Expansão marítima - História - Ensino Médio"
+      },
+      {
+        "id": "zoWIzkfW2DY",
+        "titulo": "Povos indígenas - História - Ensino Médio"
+      },
+      {
+        "id": "i4ifMc-FUSU",
+        "titulo": "A  conquista da América - História - Ensino Médio"
+      },
+      {
+        "id": "nKkjmm5Hiwg",
+        "titulo": "Revolução inglesa - História - Ensino Médio"
+      },
+      {
+        "id": "Yq75DMurZj8",
+        "titulo": "Revolução industrial - História - Ensino Médio"
+      },
+      {
+        "id": "v4KnjVDiqhk",
+        "titulo": "Iluminismo - História - Ensino Médio"
+      },
+      {
+        "id": "lAM9sVE3zoA",
+        "titulo": "Revolução americana - História - Ensino Médio"
+      },
+      {
+        "id": "9FuMCplPhH0",
+        "titulo": "Revolução francesa - História - Ensino Médio"
+      },
+      {
+        "id": "iBrUWkOWzp8",
+        "titulo": "Era Napoleônica - História - Ensino Médio"
+      },
+      {
+        "id": "g_Erg6FYYnI",
+        "titulo": "Independência da América Latina - História - Ensino Médio"
+      },
+      {
+        "id": "HsKGZNVFV7M",
+        "titulo": "2ª Revolução Industrial - História - Ensino Médio"
+      },
+      {
+        "id": "Xqs0EtpAeoI",
+        "titulo": "Ideias políticas do século XIX - História - Ensino Médio"
+      },
+      {
+        "id": "nwXUPqzzDzU",
+        "titulo": "Socialismo: crítica ao capitalismo - História - Ensino Médio"
+      },
+      {
+        "id": "4CNMTReEak8",
+        "titulo": "Positivismo - História - Ensino Médio"
+      },
+      {
+        "id": "ejuWvLf8wcY",
+        "titulo": "Imperialismo - História - Ensino Médio"
+      },
+      {
+        "id": "5b19VuS0muQ",
+        "titulo": "Nacionalismo - História - Ensino Médio"
+      },
+      {
+        "id": "ZisfDCeeTZ4",
+        "titulo": "Primeira Guerra (1914-1918) - História - Ensino Médio"
+      },
+      {
+        "id": "lVE8E1R_W14",
+        "titulo": "Revolução Russa (1917) - História - Ensino Médio"
+      },
+      {
+        "id": "KbmbGoepd8s",
+        "titulo": "Crise no capitalismo (1929) - História - Ensino Médio"
+      },
+      {
+        "id": "Y8NQYHO816Q",
+        "titulo": "Nazifacismo - História - Ensino Médio"
+      },
+      {
+        "id": "nwTmnzhQ1rY",
+        "titulo": "2ª Guerra Mundial - História - Ensino Médio"
+      },
+      {
+        "id": "mlk3LQcbhgY",
+        "titulo": "Guerra Fria (1947-1991) - História - Ensino Médio"
+      },
+      {
+        "id": "7eHSKGKS4Xo",
+        "titulo": "América contemporânea - História - Ensino Médio"
+      },
+      {
+        "id": "4PhN6tmLKfo",
+        "titulo": "Conflitos da guerra fria - História - Ensino Médio"
+      },
+      {
+        "id": "aqS6x2PaOnA",
+        "titulo": "Descolonização da Ásia e África - História - Ensino Médio"
+      },
+      {
+        "id": "p41lRbShi3I",
+        "titulo": "Nova ordem mundial - História - Ensino Médio"
+      },
+      {
+        "id": "V1WO1Ml4MRE",
+        "titulo": "Correntes historiográficas - História - Ensino Médio"
+      },
+      {
+        "id": "oWqVL4GdEDU",
+        "titulo": "Pré-história e a dispersão da humanidade​ - História - Ensino Médio"
+      },
+      {
+        "id": "9KFRzN5PpsM",
+        "titulo": "A ciência histórica e seus documentos​ - História - Ensino Médio"
+      },
+      {
+        "id": "n3Dvth2zR5c",
+        "titulo": "África pré-colonial: diáspora e o multiculturalismo​ - História - Ensino Médio"
+      },
+      {
+        "id": "finwZla55Jk",
+        "titulo": "África e a expansão marítima europeia (XV XVI)​ - História - Ensino Médio"
+      },
+      {
+        "id": "r5kF0HUkuug",
+        "titulo": "Escravidão no Brasil​ - História - Ensino Médio"
+      },
+      {
+        "id": "yodHTH_gqes",
+        "titulo": "O tripé: trabalho escravo, monocultura de exportação e latifúndio​ - História - Ensino Médio"
+      },
+      {
+        "id": "qQ97upm1h3Y",
+        "titulo": "Resistência negra em perspectiva: luta por liberdade é a palavra de ordem​ - História - Ensino Médio"
+      },
+      {
+        "id": "Iv34i2LeG1s",
+        "titulo": "Racismo: uma perspectiva histórica - História - Ensino Médio"
+      },
+      {
+        "id": "gBhQtqdvF5M",
+        "titulo": "Jesuítas no Brasil: a catequização indígena x teorias racialistas​ - História - Ensino Médio"
+      },
+      {
+        "id": "0G_1GdQ92-0",
+        "titulo": "Brasil colônia: economia e sociedade​ - História - Ensino Médio"
+      },
+      {
+        "id": "vMzds62PmmU",
+        "titulo": "Brasil: politica administrativa - História - Ensino Médio"
+      },
+      {
+        "id": "1GTfemzcYtk",
+        "titulo": "O processo de independência política do Brasil​ - História - Ensino Médio"
+      },
+      {
+        "id": "RC-Vx1eYIVw",
+        "titulo": "Monarquia sufocada: poder moderador e constituição da mandioca - História - Ensino Médio"
+      },
+      {
+        "id": "qNafBtncApA",
+        "titulo": "Brasil regencial - História - Ensino Médio"
+      },
+      {
+        "id": "DQ4Mleb-DWs",
+        "titulo": "Brasil império II: politico e administrativo​ - História - Ensino Médio"
+      },
+      {
+        "id": "oM72e5UE39I",
+        "titulo": "O processo de abolição da escravatura ​- História - Ensino Médio"
+      },
+      {
+        "id": "JJZYQl2Q3RM",
+        "titulo": "Racismo estrutural na sociedade brasileira - História - Ensino Médio"
+      },
+      {
+        "id": "BFlQfeuBSVY",
+        "titulo": "A republica no Brasil: dos primeiros ideais a proclamação - História - Ensino Médio"
+      },
+      {
+        "id": "_l204ihRL8s",
+        "titulo": "A primeira republica no Brasil (1889-1930) – As Revoltas​ - História - Ensino Médio"
+      },
+      {
+        "id": "57A2qoCFEYY",
+        "titulo": "Primeira republica: conflitos e contestações - História - Ensino Médio"
+      },
+      {
+        "id": "1dRPqBRgd_w",
+        "titulo": "A Revolução de 30 até a constituinte​ - História - Ensino Médio"
+      },
+      {
+        "id": "c60FeGQh6QU",
+        "titulo": "Era Vargas e o estado novo​ - História - Ensino Médio"
+      },
+      {
+        "id": "5_KUXMOQ-Fg",
+        "titulo": "A democracia após estado novo e o “Novo Getúlio” - História - Ensino Médio"
+      },
+      {
+        "id": "sCr3H-RJH2w",
+        "titulo": "JK: 50 anos em 5​ - História - Ensino Médio"
+      },
+      {
+        "id": "AQ1EgHS4VUc",
+        "titulo": "De Jânio Quadros ao golpe de 1964 - História - Ensino Médio"
+      },
+      {
+        "id": "GqFiQthqDpU",
+        "titulo": "Ditadura civil e militar ​- História - Ensino Médio"
+      },
+      {
+        "id": "hCryfG0twn0",
+        "titulo": "A redemocratização e o Brasil de hoje - História - Ensino Médio"
+      },
+      {
+        "id": "Jq4lU1nzsTA",
+        "titulo": "Uma república liberal ​- História - Ensino Médio"
+      },
+      {
+        "id": "0BiBUGLpCvQ",
+        "titulo": "As desigualdades de gênero e as lutas feministas ​- História - Ensino Médio"
+      },
+      {
+        "id": "jSZgTqumxaY",
+        "titulo": "As desigualdades raciais e o movimento negro ​- História - Ensino Médio"
+      },
+      {
+        "id": "cLeRy3CGGp8",
+        "titulo": "\"O preço\" de ser diferente​ - História - Ensino Médio"
+      },
+      {
+        "id": "BXTwZGZzTvk",
+        "titulo": "Resistir para existir: a luta indígena no Brasil - História - Ensino Médio"
+      },
+      {
+        "id": "Mqlmpbi_l8c",
+        "titulo": "Revoluções no mundo e os reflexos no Brasil​ - História - Ensino Médio"
+      },
+      {
+        "id": "fYlh2nc2PA4",
+        "titulo": "Greves como resposta à desigualdade​ - História - Ensino Médio"
+      },
+      {
+        "id": "xT2wf0OUTkU",
+        "titulo": "Ideário liberal e pautas identitárias - História - Ensino Médio"
+      },
+      {
+        "id": "VvpW3R72KqM",
+        "titulo": "Lugar de fala e a necessidade de falarmos sobre isso - História - Ensino Médio"
+      }
+    ]
+  }
+}
