@@ -1,8 +1,9 @@
 import { useState } from "react";
-import { Pressable, StyleSheet, Text, TextInput, View } from "react-native";
+import { Pressable, StyleSheet, Text, TextInput, View, Image } from "react-native";
 import { Link, useRouter } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import { useAuth } from "@/contexts/AuthContext";
+import logo from "@/assets/imgs/enem-logo.png"
 
 export default function Register() {
   const router = useRouter();
@@ -28,7 +29,7 @@ export default function Register() {
     <View style={styles.screen}>
       <View style={styles.header}>
         <View style={styles.logo}>
-          <Ionicons name="person-add-outline" size={40} color="#025d90" />
+          <Image source={logo} style={{width: "100%", height: "100%"}}/>
         </View>
         <Text style={styles.title}>Criar conta</Text>
         <Text style={styles.subtitle}>Organize seus estudos em poucos segundos.</Text>
@@ -100,9 +101,9 @@ const styles = StyleSheet.create({
     marginBottom: 24,
   },
   logo: {
-    width: 78,
-    height: 78,
-    borderRadius: 39,
+    width: 100,
+    height: 100,
+    borderRadius: "50%",
     backgroundColor: "white",
     alignItems: "center",
     justifyContent: "center",

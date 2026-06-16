@@ -80,6 +80,9 @@ export default function Layout() {
       <Tabs.Screen name="questoes" options={{ href: null }} />
       <Tabs.Screen name="calendario" options={{ href: null }} />
       <Tabs.Screen name="informacoes" options={{ href: null }} />
+      <Tabs.Screen name="simulado" options={{ href: null }} />
+      <Tabs.Screen name="cronograma" options={{ href: null }} />
+      <Tabs.Screen name="programas" options={{ href: null }} />
     </Tabs>
   );
 }

@@ -1,33 +1,40 @@
 {
   "expo": {
-    "name": "enem",
+    "name": "Enem+",
     "slug": "enem",
     "version": "1.0.0",
     "scheme": "enem",
     "orientation": "portrait",
-    "icon": "./assets/icones/user.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/icones/user.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "assetBundlePatterns": ["**/*"],
-    "ios": {
-      "supportsTablet": true
-    },
+
+    "icon": "./assets/imgs/enem-logo.png",
+
     "android": {
+      "package": "br.com.jovanlouzeiro.enem",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/icones/user.png",
+        "foregroundImage": "./assets/imgs/enem-logo.png",
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/icones/user.png"
+
+    "ios": {
+      "bundleIdentifier": "br.com.jovanlouzeiro.enem",
+      "supportsTablet": true
     },
-    "plugins": [
-      "expo-font",
-      "expo-router"
-    ]
+
+    "web": {
+      "favicon": "./assets/imgs/enem-logo.png"
+    },
+
+    "splash": {
+      "image": "./assets/imgs/enem-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "515ff4a9-69d1-4328-a37d-d13f74bb2f25"
+      }
+    }
   }
 }

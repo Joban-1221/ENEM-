@@ -8,7 +8,7 @@ const shortcuts = [
     icon: "timer-outline",
     title: "Simulado",
     description: "Treine com tempo e veja seu resultado.",
-    route: "/questoes",
+    route: "/simulado",
   },
   {
     icon: "albums-outline",
@@ -20,13 +20,13 @@ const shortcuts = [
     icon: "calendar-outline",
     title: "Cronograma",
     description: "Datas importantes e próximos eventos.",
-    route: "/calendario",
+    route: "/cronograma",
   },
   {
     icon: "school-outline",
     title: "Programas",
     description: "SISU, FIES, PROUNI e dúvidas comuns.",
-    route: "/informacoes",
+    route: "/programas",
   },
 ];
 

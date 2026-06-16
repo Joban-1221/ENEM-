@@ -1,14 +1,15 @@
 import { useState } from "react";
-import { Pressable, StyleSheet, Text, TextInput, View } from "react-native";
+import { Pressable, StyleSheet, Text, TextInput, View, Image } from "react-native";
 import { Link, useRouter } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import { useAuth } from "@/contexts/AuthContext";
+import logo from "@/assets/imgs/enem-logo.png"
 
 export default function Login() {
   const router = useRouter();
   const { signIn } = useAuth();
-  const [email, setEmail] = useState("jovan.louzeiro@gmail.com");
-  const [password, setPassword] = useState("123456");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
   const [error, setError] = useState("");
 
   function handleLogin() {
@@ -27,7 +28,7 @@ export default function Login() {
     <View style={styles.screen}>
       <View style={styles.header}>
         <View style={styles.logo}>
-          <Ionicons name="school-outline" size={42} color="#025d90" />
+          <Image source={logo} style={{width: "100%", height: "100%"}}/>
         </View>
         <Text style={styles.title}>Entrar</Text>
         <Text style={styles.subtitle}>Continue sua preparação para o ENEM.</Text>
@@ -89,9 +90,9 @@ const styles = StyleSheet.create({
     marginBottom: 28,
   },
   logo: {
-    width: 82,
-    height: 82,
-    borderRadius: 41,
+    width: 100,
+    height: 100,
+    borderRadius: "50%",
     backgroundColor: "white",
     alignItems: "center",
     justifyContent: "center",

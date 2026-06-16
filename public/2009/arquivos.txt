@@ -1,0 +1,1547 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 4E97-FE83
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009
+
+15/06/2026  23:43    <DIR>          .
+15/06/2026  23:41    <DIR>          ..
+15/06/2026  23:43                 0 arquivos.txt
+15/06/2026  23:31            31.638 details.json
+15/06/2026  23:31    <DIR>          questions
+               2 arquivo(s)         31.638 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:43    <DIR>          ..
+15/06/2026  23:31    <DIR>          1
+15/06/2026  23:31    <DIR>          10
+15/06/2026  23:31    <DIR>          100
+15/06/2026  23:31    <DIR>          102
+15/06/2026  23:31    <DIR>          103
+15/06/2026  23:31    <DIR>          104
+15/06/2026  23:31    <DIR>          105
+15/06/2026  23:31    <DIR>          106
+15/06/2026  23:31    <DIR>          107
+15/06/2026  23:31    <DIR>          108
+15/06/2026  23:31    <DIR>          109
+15/06/2026  23:31    <DIR>          11
+15/06/2026  23:31    <DIR>          110
+15/06/2026  23:31    <DIR>          111
+15/06/2026  23:31    <DIR>          112
+15/06/2026  23:31    <DIR>          113
+15/06/2026  23:31    <DIR>          114
+15/06/2026  23:31    <DIR>          115
+15/06/2026  23:31    <DIR>          116
+15/06/2026  23:31    <DIR>          117
+15/06/2026  23:31    <DIR>          118
+15/06/2026  23:31    <DIR>          119
+15/06/2026  23:31    <DIR>          12
+15/06/2026  23:31    <DIR>          120
+15/06/2026  23:31    <DIR>          121
+15/06/2026  23:31    <DIR>          122
+15/06/2026  23:31    <DIR>          123
+15/06/2026  23:31    <DIR>          124
+15/06/2026  23:31    <DIR>          125
+15/06/2026  23:31    <DIR>          126
+15/06/2026  23:31    <DIR>          127
+15/06/2026  23:31    <DIR>          128
+15/06/2026  23:31    <DIR>          129
+15/06/2026  23:31    <DIR>          13
+15/06/2026  23:31    <DIR>          130
+15/06/2026  23:31    <DIR>          131
+15/06/2026  23:31    <DIR>          132
+15/06/2026  23:31    <DIR>          133
+15/06/2026  23:31    <DIR>          134
+15/06/2026  23:31    <DIR>          135
+15/06/2026  23:31    <DIR>          136
+15/06/2026  23:31    <DIR>          137
+15/06/2026  23:31    <DIR>          138
+15/06/2026  23:31    <DIR>          139
+15/06/2026  23:31    <DIR>          14
+15/06/2026  23:31    <DIR>          140
+15/06/2026  23:31    <DIR>          141
+15/06/2026  23:31    <DIR>          142
+15/06/2026  23:31    <DIR>          143
+15/06/2026  23:31    <DIR>          144
+15/06/2026  23:31    <DIR>          145
+15/06/2026  23:31    <DIR>          146
+15/06/2026  23:31    <DIR>          147
+15/06/2026  23:31    <DIR>          148
+15/06/2026  23:31    <DIR>          149
+15/06/2026  23:31    <DIR>          15
+15/06/2026  23:31    <DIR>          150
+15/06/2026  23:31    <DIR>          151
+15/06/2026  23:31    <DIR>          152
+15/06/2026  23:31    <DIR>          153
+15/06/2026  23:31    <DIR>          154
+15/06/2026  23:31    <DIR>          155
+15/06/2026  23:31    <DIR>          156
+15/06/2026  23:31    <DIR>          157
+15/06/2026  23:31    <DIR>          158
+15/06/2026  23:31    <DIR>          159
+15/06/2026  23:31    <DIR>          16
+15/06/2026  23:31    <DIR>          160
+15/06/2026  23:31    <DIR>          161
+15/06/2026  23:31    <DIR>          162
+15/06/2026  23:31    <DIR>          163
+15/06/2026  23:31    <DIR>          164
+15/06/2026  23:31    <DIR>          165
+15/06/2026  23:31    <DIR>          166
+15/06/2026  23:31    <DIR>          167
+15/06/2026  23:31    <DIR>          168
+15/06/2026  23:31    <DIR>          169
+15/06/2026  23:31    <DIR>          17
+15/06/2026  23:31    <DIR>          170
+15/06/2026  23:31    <DIR>          171
+15/06/2026  23:31    <DIR>          172
+15/06/2026  23:31    <DIR>          173
+15/06/2026  23:31    <DIR>          174
+15/06/2026  23:31    <DIR>          175
+15/06/2026  23:31    <DIR>          176
+15/06/2026  23:31    <DIR>          177
+15/06/2026  23:31    <DIR>          178
+15/06/2026  23:31    <DIR>          179
+15/06/2026  23:31    <DIR>          18
+15/06/2026  23:31    <DIR>          180
+15/06/2026  23:31    <DIR>          19
+15/06/2026  23:31    <DIR>          2
+15/06/2026  23:31    <DIR>          20
+15/06/2026  23:31    <DIR>          21
+15/06/2026  23:31    <DIR>          22
+15/06/2026  23:31    <DIR>          23
+15/06/2026  23:31    <DIR>          24
+15/06/2026  23:31    <DIR>          25
+15/06/2026  23:31    <DIR>          26
+15/06/2026  23:31    <DIR>          27
+15/06/2026  23:31    <DIR>          28
+15/06/2026  23:31    <DIR>          29
+15/06/2026  23:31    <DIR>          3
+15/06/2026  23:31    <DIR>          30
+15/06/2026  23:31    <DIR>          31
+15/06/2026  23:31    <DIR>          32
+15/06/2026  23:31    <DIR>          33
+15/06/2026  23:31    <DIR>          34
+15/06/2026  23:31    <DIR>          35
+15/06/2026  23:31    <DIR>          36
+15/06/2026  23:31    <DIR>          37
+15/06/2026  23:31    <DIR>          38
+15/06/2026  23:31    <DIR>          39
+15/06/2026  23:31    <DIR>          4
+15/06/2026  23:31    <DIR>          40
+15/06/2026  23:31    <DIR>          41
+15/06/2026  23:31    <DIR>          42
+15/06/2026  23:31    <DIR>          43
+15/06/2026  23:31    <DIR>          44
+15/06/2026  23:31    <DIR>          45
+15/06/2026  23:31    <DIR>          46
+15/06/2026  23:31    <DIR>          47
+15/06/2026  23:31    <DIR>          48
+15/06/2026  23:31    <DIR>          49
+15/06/2026  23:31    <DIR>          5
+15/06/2026  23:31    <DIR>          50
+15/06/2026  23:31    <DIR>          51
+15/06/2026  23:31    <DIR>          52
+15/06/2026  23:31    <DIR>          53
+15/06/2026  23:31    <DIR>          54
+15/06/2026  23:31    <DIR>          55
+15/06/2026  23:31    <DIR>          56
+15/06/2026  23:31    <DIR>          57
+15/06/2026  23:31    <DIR>          58
+15/06/2026  23:31    <DIR>          59
+15/06/2026  23:31    <DIR>          6
+15/06/2026  23:31    <DIR>          60
+15/06/2026  23:31    <DIR>          61
+15/06/2026  23:31    <DIR>          62
+15/06/2026  23:31    <DIR>          63
+15/06/2026  23:31    <DIR>          64
+15/06/2026  23:31    <DIR>          65
+15/06/2026  23:31    <DIR>          66
+15/06/2026  23:31    <DIR>          67
+15/06/2026  23:31    <DIR>          68
+15/06/2026  23:31    <DIR>          69
+15/06/2026  23:31    <DIR>          7
+15/06/2026  23:31    <DIR>          70
+15/06/2026  23:31    <DIR>          71
+15/06/2026  23:31    <DIR>          72
+15/06/2026  23:31    <DIR>          73
+15/06/2026  23:31    <DIR>          74
+15/06/2026  23:31    <DIR>          75
+15/06/2026  23:31    <DIR>          76
+15/06/2026  23:31    <DIR>          77
+15/06/2026  23:31    <DIR>          78
+15/06/2026  23:31    <DIR>          79
+15/06/2026  23:31    <DIR>          8
+15/06/2026  23:31    <DIR>          80
+15/06/2026  23:31    <DIR>          81
+15/06/2026  23:31    <DIR>          82
+15/06/2026  23:31    <DIR>          83
+15/06/2026  23:31    <DIR>          84
+15/06/2026  23:31    <DIR>          85
+15/06/2026  23:31    <DIR>          86
+15/06/2026  23:31    <DIR>          87
+15/06/2026  23:31    <DIR>          88
+15/06/2026  23:31    <DIR>          89
+15/06/2026  23:31    <DIR>          9
+15/06/2026  23:31    <DIR>          90
+15/06/2026  23:31    <DIR>          91
+15/06/2026  23:31    <DIR>          92
+15/06/2026  23:31    <DIR>          93
+15/06/2026  23:31    <DIR>          94
+15/06/2026  23:31    <DIR>          95
+15/06/2026  23:31    <DIR>          96
+15/06/2026  23:31    <DIR>          97
+15/06/2026  23:31    <DIR>          98
+15/06/2026  23:31    <DIR>          99
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\1
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.684 details.json
+               1 arquivo(s)          2.684 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\10
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.309 details.json
+               1 arquivo(s)          2.309 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\100
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            92.508 8d5cbf39-b768-437a-a494-eb718d3f64a5.jpg
+15/06/2026  23:31             1.671 details.json
+               2 arquivo(s)         94.179 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\102
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.121 details.json
+               1 arquivo(s)          3.121 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\103
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.002 details.json
+               1 arquivo(s)          2.002 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\104
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.208 details.json
+               1 arquivo(s)          2.208 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\105
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            55.919 d37499f0-6363-4d99-8d33-c682027d79d7.jpg
+15/06/2026  23:31             1.987 details.json
+               2 arquivo(s)         57.906 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\106
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.724 details.json
+               1 arquivo(s)          2.724 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\107
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.709 details.json
+               1 arquivo(s)          2.709 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\108
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.254 details.json
+               1 arquivo(s)          3.254 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\109
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            59.743 1422ce0e-d489-4fc4-af98-06be69f0d8e8.jpg
+15/06/2026  23:31             1.556 details.json
+               2 arquivo(s)         61.299 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\11
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.820 details.json
+               1 arquivo(s)          1.820 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\110
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.435 details.json
+               1 arquivo(s)          2.435 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\111
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.282 details.json
+               1 arquivo(s)          2.282 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\112
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            85.580 4d3d4611-5050-4e7e-8329-d76f2c17ca69.jpg
+15/06/2026  23:31             2.226 details.json
+               2 arquivo(s)         87.806 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\113
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.660 details.json
+               1 arquivo(s)          2.660 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\114
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            58.842 210b6d6d-83b0-4ea3-9e5e-f132e9192614.jpg
+15/06/2026  23:31             2.184 details.json
+               2 arquivo(s)         61.026 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\115
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.560 details.json
+               1 arquivo(s)          2.560 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\116
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.027 details.json
+               1 arquivo(s)          2.027 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\117
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.889 details.json
+               1 arquivo(s)          1.889 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\118
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.867 details.json
+               1 arquivo(s)          2.867 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\119
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.893 details.json
+               1 arquivo(s)          2.893 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\12
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             6.090 233eafdb-167e-4978-a815-54aad9e6bee2.jpg
+15/06/2026  23:31             8.974 63593c90-04b4-48ea-b9c5-1205f73bef95.jpg
+15/06/2026  23:31             1.993 details.json
+               3 arquivo(s)         17.057 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\120
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.866 details.json
+               1 arquivo(s)          2.866 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\121
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.389 details.json
+               1 arquivo(s)          2.389 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\122
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.447 details.json
+               1 arquivo(s)          2.447 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\123
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.422 details.json
+               1 arquivo(s)          3.422 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\124
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.737 details.json
+               1 arquivo(s)          1.737 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\125
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            47.990 5a4ecb2b-fa74-43e5-a8ad-89db87b4e9ba.jpg
+15/06/2026  23:31             2.019 details.json
+               2 arquivo(s)         50.009 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\126
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            84.607 b72a01dc-1bf6-4dea-96b7-31e38144d132.jpg
+15/06/2026  23:31             2.121 details.json
+               2 arquivo(s)         86.728 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\127
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            84.607 798e9623-046e-493b-8d10-455dffae35db.jpg
+15/06/2026  23:31             1.687 details.json
+               2 arquivo(s)         86.294 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\128
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.431 details.json
+               1 arquivo(s)          2.431 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\129
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.072 details.json
+               1 arquivo(s)          3.072 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\13
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.022 details.json
+               1 arquivo(s)          3.022 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\130
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.941 details.json
+               1 arquivo(s)          3.941 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\131
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.774 details.json
+               1 arquivo(s)          3.774 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\132
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.987 details.json
+               1 arquivo(s)          3.987 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\133
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.708 details.json
+               1 arquivo(s)          3.708 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\134
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.500 details.json
+               1 arquivo(s)          2.500 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\135
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.212 details.json
+               1 arquivo(s)          3.212 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\136
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            61.341 dcd1ac1c-61ef-4937-bc83-ee7b4a18f667.jpg
+15/06/2026  23:31             2.104 details.json
+               2 arquivo(s)         63.445 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\137
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            14.939 d56b6567-20da-46f3-92e0-42b14796b37b.jpg
+15/06/2026  23:31             1.605 details.json
+               2 arquivo(s)         16.544 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\138
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            40.674 2f19ef3b-7481-42c2-9c55-03664846dacc.jpg
+15/06/2026  23:31             2.229 details.json
+               2 arquivo(s)         42.903 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\139
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            40.674 ce6a3e69-a428-4ce0-9247-80452dcdca20.jpg
+15/06/2026  23:31             1.901 details.json
+               2 arquivo(s)         42.575 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\14
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            35.474 524ed514-1e24-42fe-9a5f-efebf0ce3c6d.png
+15/06/2026  23:31             1.784 details.json
+               2 arquivo(s)         37.258 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\140
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.843 details.json
+15/06/2026  23:31             5.705 ef5fc6bc-3de0-4ee7-ae4c-cdbca574c187.jpg
+               2 arquivo(s)          7.548 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\141
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.945 details.json
+               1 arquivo(s)          1.945 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\142
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            42.649 c56fbd08-b377-40bd-831c-b571ed7638fe.jpg
+15/06/2026  23:31             2.179 details.json
+               2 arquivo(s)         44.828 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\143
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            33.985 d9c2ead9-7b0d-4ba9-bf7d-53d4e3024558.jpg
+15/06/2026  23:31             1.557 details.json
+               2 arquivo(s)         35.542 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\144
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.795 details.json
+15/06/2026  23:31            14.658 e592d2d8-7aca-4cb8-8a1c-3d01b64706a6.jpg
+               2 arquivo(s)         16.453 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\145
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.388 details.json
+               1 arquivo(s)          1.388 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\146
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            15.072 6e823a1c-778f-4d1a-89e6-06619fba287a.jpg
+15/06/2026  23:31             1.992 details.json
+               2 arquivo(s)         17.064 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\147
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            29.225 2540b2c3-868a-4e6d-bf25-edf78475b995.jpg
+15/06/2026  23:31            32.855 ce96a139-05bf-4b25-a3fc-eab46adf80f1.jpg
+15/06/2026  23:31             1.986 details.json
+               3 arquivo(s)         64.066 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\148
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            42.147 052af6e6-63f3-43e2-be36-96d0f5a48ab4.jpg
+15/06/2026  23:31             1.531 details.json
+               2 arquivo(s)         43.678 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\149
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             4.206 34488218-cb6e-4ae1-ae7b-3e7e2986995d.jpg
+15/06/2026  23:31             4.074 704c275a-d2fb-4943-b7ea-9810d4855651.jpg
+15/06/2026  23:31            46.023 87fc20be-0d1a-4508-b804-bf58ba86e918.jpg
+15/06/2026  23:31             4.185 a0f7ce1f-2021-48b4-99b4-776289157eac.jpg
+15/06/2026  23:31             4.090 a2900f94-fbf3-410d-ad2f-41938a2ef6b4.jpg
+15/06/2026  23:31             3.998 b83410e7-99f3-47a1-bed5-01c4cffce0e6.jpg
+15/06/2026  23:31             1.863 details.json
+               7 arquivo(s)         68.439 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\15
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             9.879 a4e6a5bb-5a91-4e8a-86f2-b4775c56178f.jpg
+15/06/2026  23:31             1.308 details.json
+               2 arquivo(s)         11.187 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\150
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            33.666 345210ee-8d51-4c8d-b6ca-05541e682160.jpg
+15/06/2026  23:31             1.987 details.json
+               2 arquivo(s)         35.653 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\151
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.591 details.json
+               1 arquivo(s)          1.591 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\152
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.120 details.json
+               1 arquivo(s)          2.120 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\153
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            22.409 0aaaf8f3-e87d-435c-901f-40781e411de9.jpg
+15/06/2026  23:31             2.104 details.json
+               2 arquivo(s)         24.513 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\154
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.295 details.json
+               1 arquivo(s)          1.295 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\155
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.563 details.json
+               1 arquivo(s)          1.563 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\156
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.298 details.json
+               1 arquivo(s)          2.298 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\157
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.236 details.json
+               1 arquivo(s)          1.236 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\158
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.609 details.json
+15/06/2026  23:31            11.264 ee2af503-e5d1-45f8-b7f1-372e3cec5e11.jpg
+               2 arquivo(s)         12.873 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\159
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            19.283 09fc439a-a96c-466c-a8a7-0928313480ae.jpg
+15/06/2026  23:31             8.413 c49b9a82-ca97-42ec-89a8-0d08a9c8abd3.jpg
+15/06/2026  23:31             1.865 details.json
+               3 arquivo(s)         29.561 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\16
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            21.730 2c67a1f7-b788-445d-9a6c-ef9d499ff78b.png
+15/06/2026  23:31             1.842 details.json
+               2 arquivo(s)         23.572 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\160
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.782 details.json
+               1 arquivo(s)          1.782 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\161
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.941 details.json
+               1 arquivo(s)          1.941 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\162
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.553 details.json
+               1 arquivo(s)          1.553 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\163
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.683 details.json
+               1 arquivo(s)          1.683 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\164
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.747 details.json
+15/06/2026  23:31            14.143 fbf84d66-498d-4521-8b27-9a164c60237d.jpg
+               2 arquivo(s)         15.890 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\165
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.655 details.json
+               1 arquivo(s)          1.655 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\166
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.394 details.json
+15/06/2026  23:31            38.770 f22c3fd9-901b-449e-8864-b9cf7c0cc24a.jpg
+               2 arquivo(s)         41.164 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\167
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            48.585 2e45ce65-e1cb-4d1c-975d-1a4c2feade5f.jpg
+15/06/2026  23:31             1.558 details.json
+               2 arquivo(s)         50.143 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\168
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.478 details.json
+15/06/2026  23:31            33.194 f683544b-94d1-456c-bdfb-f2e964881776.jpg
+               2 arquivo(s)         34.672 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\169
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.966 details.json
+15/06/2026  23:31            19.216 ff2b8876-8f76-444b-b4d9-15556da637ec.jpg
+               2 arquivo(s)         21.182 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\17
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.008 details.json
+               1 arquivo(s)          2.008 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\170
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.793 details.json
+               1 arquivo(s)          1.793 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\171
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.939 details.json
+               1 arquivo(s)          1.939 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\172
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            66.473 5f549378-e9d4-4d17-9950-19a0f32f95b7.jpg
+15/06/2026  23:31             2.572 details.json
+               2 arquivo(s)         69.045 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\173
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.867 details.json
+15/06/2026  23:31             9.165 e9b7219c-4c2a-459d-a1ce-d4e7a3ec2c25.jpg
+               2 arquivo(s)         11.032 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\174
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             8.215 29dd5a77-8236-4be7-bdf2-fe2a3bfc482c.jpg
+15/06/2026  23:31             1.522 details.json
+               2 arquivo(s)          9.737 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\175
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.733 details.json
+               1 arquivo(s)          1.733 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\176
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.266 details.json
+               1 arquivo(s)          2.266 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\177
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.224 details.json
+               1 arquivo(s)          2.224 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\178
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.064 details.json
+               1 arquivo(s)          2.064 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\179
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.876 details.json
+               1 arquivo(s)          2.876 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\18
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            16.794 984c1d41-ccbd-4532-b8aa-b39dfefb0649.png
+15/06/2026  23:31             1.927 details.json
+               2 arquivo(s)         18.721 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\180
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.686 details.json
+               1 arquivo(s)          1.686 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\19
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            69.103 9747c953-2a43-411f-b7ee-49a4e4fd6429.png
+15/06/2026  23:31            12.343 ce14eccd-b5dd-4dde-a5a6-2e163d72fec9.png
+15/06/2026  23:31             1.810 details.json
+               3 arquivo(s)         83.256 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\2
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           451.462 7af3247b-4580-4b52-8d5a-b64887db9b0e.png
+15/06/2026  23:31             1.656 details.json
+               2 arquivo(s)        453.118 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\20
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            70.378 a5b76cbb-b0e8-42a4-ba0f-ca81b7abdcb7.png
+15/06/2026  23:31             1.732 details.json
+               2 arquivo(s)         72.110 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\21
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            10.968 482b95e7-e9a6-4631-bdb6-52d196282473.png
+15/06/2026  23:31            11.935 6a5e3a17-5062-4a35-bc1a-267da70919e3.png
+15/06/2026  23:31            10.506 7a052a7f-b258-4365-8370-16a8757a233a.png
+15/06/2026  23:31            13.711 9d7cdc06-4397-4fc8-8e79-5a7933931cce.png
+15/06/2026  23:31            10.869 a7fa1fd3-06fa-488f-8389-b8dd42eef74e.png
+15/06/2026  23:31             1.676 details.json
+               6 arquivo(s)         59.665 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\22
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           382.800 5109eb3c-8a36-48f7-a9e5-b71fcc02ec6d.png
+15/06/2026  23:31             3.139 details.json
+               2 arquivo(s)        385.939 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\23
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.839 details.json
+               1 arquivo(s)          2.839 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\24
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            30.871 53ebbcea-15f9-494b-9426-72808957e3f9.jpg
+15/06/2026  23:31             2.168 details.json
+               2 arquivo(s)         33.039 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\25
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           191.966 404c9597-0e69-4df3-b423-1e332c80add4.jpg
+15/06/2026  23:31             2.114 details.json
+               2 arquivo(s)        194.080 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\26
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.923 details.json
+               1 arquivo(s)          1.923 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\27
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           100.876 8a0ca647-a136-470c-b4b1-f7cd0de48513.png
+15/06/2026  23:31             2.119 details.json
+               2 arquivo(s)        102.995 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\28
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           131.432 d003c721-13f1-4ef4-8cca-6b37a1312ee3.png
+15/06/2026  23:31             3.026 details.json
+               2 arquivo(s)        134.458 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\29
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            82.719 8b64e737-d832-4707-9ffe-9eb28b3f7b1c.jpg
+15/06/2026  23:31             1.635 details.json
+               2 arquivo(s)         84.354 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\3
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.077 details.json
+               1 arquivo(s)          2.077 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\30
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.051 details.json
+               1 arquivo(s)          2.051 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\31
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.227 details.json
+               1 arquivo(s)          2.227 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\32
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            91.764 2f78c8cf-ff4d-40a1-ad8a-fd513f7001c3.png
+15/06/2026  23:31             1.759 details.json
+               2 arquivo(s)         93.523 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\33
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           194.909 a2e94298-0c01-4a34-9c5e-938a893089c7.png
+15/06/2026  23:31             2.597 details.json
+               2 arquivo(s)        197.506 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\34
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.670 details.json
+               1 arquivo(s)          2.670 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\35
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            64.121 9d8b484b-e10a-414e-9a44-bd803c5169f6.png
+15/06/2026  23:31             1.649 details.json
+               2 arquivo(s)         65.770 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\36
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             6.558 14126a76-2d70-4112-bcd2-8f71e7a35eb6.jpg
+15/06/2026  23:31             7.050 7a0856d3-7bbb-4c7e-8ca2-fb1ba38e004a.jpg
+15/06/2026  23:31             5.207 7eaa6df0-91be-4cc0-aa1d-84d854129628.jpg
+15/06/2026  23:31             7.150 a17be85c-ff54-499f-92ff-3a224fe7928d.jpg
+15/06/2026  23:31             5.852 d5883437-d621-4f4e-8d6d-7f2d7e4bdb42.jpg
+15/06/2026  23:31             2.243 details.json
+               6 arquivo(s)         34.060 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\37
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.362 details.json
+               1 arquivo(s)          2.362 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\38
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.943 details.json
+               1 arquivo(s)          1.943 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\39
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             8.663 6991cb0b-0677-4966-9b10-126fa676fe93.png
+15/06/2026  23:31             2.418 details.json
+               2 arquivo(s)         11.081 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\4
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.784 details.json
+               1 arquivo(s)          1.784 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\40
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.211 details.json
+               1 arquivo(s)          2.211 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\41
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.771 details.json
+               1 arquivo(s)          2.771 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\42
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.736 details.json
+               1 arquivo(s)          2.736 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\43
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.841 details.json
+15/06/2026  23:31            29.314 fc15f9d3-d27d-4451-86aa-2d9576a0e88f.jpg
+               2 arquivo(s)         31.155 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\44
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.662 details.json
+               1 arquivo(s)          1.662 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\45
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            11.271 391df735-013e-414c-a12f-3d626c8855ce.png
+15/06/2026  23:31             1.372 details.json
+               2 arquivo(s)         12.643 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\46
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.095 details.json
+               1 arquivo(s)          2.095 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\47
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.645 details.json
+               1 arquivo(s)          1.645 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\48
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.023 details.json
+               1 arquivo(s)          2.023 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\49
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.909 details.json
+               1 arquivo(s)          1.909 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\5
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.412 details.json
+               1 arquivo(s)          2.412 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\50
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.604 details.json
+               1 arquivo(s)          1.604 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\51
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.927 details.json
+               1 arquivo(s)          1.927 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\52
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.652 details.json
+               1 arquivo(s)          1.652 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\53
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.693 details.json
+               1 arquivo(s)          2.693 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\54
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.231 details.json
+               1 arquivo(s)          2.231 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\55
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.176 details.json
+               1 arquivo(s)          2.176 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\56
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.654 details.json
+               1 arquivo(s)          1.654 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\57
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.894 details.json
+               1 arquivo(s)          1.894 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\58
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.375 details.json
+               1 arquivo(s)          2.375 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\59
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.270 details.json
+               1 arquivo(s)          2.270 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\6
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.794 details.json
+               1 arquivo(s)          1.794 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\60
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.928 details.json
+               1 arquivo(s)          1.928 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\61
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.908 details.json
+               1 arquivo(s)          1.908 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\62
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.011 details.json
+               1 arquivo(s)          2.011 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\63
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.157 details.json
+               1 arquivo(s)          2.157 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\64
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.282 details.json
+               1 arquivo(s)          3.282 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\65
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.119 details.json
+               1 arquivo(s)          2.119 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\66
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.796 details.json
+               1 arquivo(s)          2.796 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\67
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.220 details.json
+               1 arquivo(s)          2.220 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\68
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.726 details.json
+               1 arquivo(s)          1.726 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\69
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.094 details.json
+               1 arquivo(s)          3.094 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\7
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.011 details.json
+               1 arquivo(s)          2.011 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\70
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             3.293 details.json
+               1 arquivo(s)          3.293 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\71
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.393 details.json
+               1 arquivo(s)          2.393 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\72
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.991 details.json
+               1 arquivo(s)          2.991 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\73
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            38.100 c8b4cebd-dcd5-4090-b0ea-049c96a392c7.jpg
+15/06/2026  23:31             2.392 details.json
+               2 arquivo(s)         40.492 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\74
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.385 details.json
+               1 arquivo(s)          2.385 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\75
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.600 details.json
+               1 arquivo(s)          2.600 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\76
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             1.707 details.json
+               1 arquivo(s)          1.707 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\77
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            30.764 0148040b-fcc5-4e8c-a19f-4c41b9041a27.jpg
+15/06/2026  23:31             2.395 details.json
+               2 arquivo(s)         33.159 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\78
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            30.696 85294de7-2d92-41fd-95eb-d3fd892e6e81.jpg
+15/06/2026  23:31             2.222 details.json
+               2 arquivo(s)         32.918 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\79
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.457 details.json
+               1 arquivo(s)          2.457 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\8
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.275 details.json
+               1 arquivo(s)          2.275 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\80
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.132 details.json
+               1 arquivo(s)          2.132 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\81
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.140 details.json
+               1 arquivo(s)          2.140 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\82
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.091 details.json
+               1 arquivo(s)          2.091 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\83
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            52.767 ad2f947f-ee8f-4f33-b73f-6eeeaf728bb1.jpg
+15/06/2026  23:31             1.822 details.json
+               2 arquivo(s)         54.589 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\84
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           313.529 15a16039-43b9-4779-9660-b66387929694.png
+15/06/2026  23:31             1.822 details.json
+               2 arquivo(s)        315.351 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\85
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            12.598 305b509e-5820-4232-89d8-536efd654cf2.jpg
+15/06/2026  23:31            17.972 6d794016-888f-44d1-9b5a-f6bf5d55fde2.jpg
+15/06/2026  23:31            14.294 9cb975ad-f621-4113-b7fe-06e2d59edfb3.jpg
+15/06/2026  23:31            18.840 b7e91166-ecad-47dc-9e60-f849a04b6c5a.jpg
+15/06/2026  23:31             1.610 details.json
+15/06/2026  23:31            12.287 fc415de4-03a9-4fcd-a402-932ab09d25a9.jpg
+               6 arquivo(s)         77.601 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\86
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            24.074 04d790cc-7221-4d93-a0a7-ea323350509a.jpg
+15/06/2026  23:31            44.416 1dec6a28-9c85-4f2d-a6ca-58d1bd4ead05.jpg
+15/06/2026  23:31             1.862 details.json
+               3 arquivo(s)         70.352 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\87
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            69.520 951db800-9e06-49b2-b3ab-3589923ae034.jpg
+15/06/2026  23:31             2.261 details.json
+               2 arquivo(s)         71.781 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\88
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.083 details.json
+               1 arquivo(s)          2.083 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\89
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.340 details.json
+               1 arquivo(s)          2.340 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\9
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.440 details.json
+               1 arquivo(s)          2.440 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\90
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.524 details.json
+               1 arquivo(s)          2.524 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\91
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            40.105 078717dc-8445-4d06-90a1-d72677e77765.png
+15/06/2026  23:31            34.339 151cb81f-9bf4-4bea-ae04-790125cf0fb1.png
+15/06/2026  23:31            21.296 408d83bd-5a49-47b1-8c27-c93f89ce9848.png
+15/06/2026  23:31            47.702 621bd155-ee7a-44c6-8caa-5c762e4aba9a.png
+15/06/2026  23:31             2.005 details.json
+15/06/2026  23:31            37.335 e9829610-cf70-4c43-b687-43081954d260.png
+               6 arquivo(s)        182.782 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\92
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.051 details.json
+               1 arquivo(s)          2.051 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\93
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           262.372 78a6b697-0241-4008-8983-636d150e26a1.png
+15/06/2026  23:31             1.885 details.json
+               2 arquivo(s)        264.257 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\94
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31           163.334 282c49bb-1204-48bd-94f0-655923c3210e.png
+15/06/2026  23:31           160.505 c2791052-0250-4108-b050-c836866cc800.png
+15/06/2026  23:31             2.686 details.json
+               3 arquivo(s)        326.525 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\95
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.565 details.json
+               1 arquivo(s)          2.565 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\96
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            66.319 05bce341-8926-454e-8c24-49814582373d.jpg
+15/06/2026  23:31             1.554 details.json
+               2 arquivo(s)         67.873 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\97
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31            66.319 21bc16d2-a579-454e-ade1-28f57b52d15d.jpg
+15/06/2026  23:31             1.568 details.json
+               2 arquivo(s)         67.887 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\98
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.268 details.json
+               1 arquivo(s)          2.268 bytes
+
+ Pasta de C:\Users\jovan\DocumentosOFF\enem\public\2009\questions\99
+
+15/06/2026  23:31    <DIR>          .
+15/06/2026  23:31    <DIR>          ..
+15/06/2026  23:31             2.292 details.json
+               1 arquivo(s)          2.292 bytes
+
+     Total de Arquivos na Lista:
+             275 arquivo(s)      5.455.029 bytes
+             542 pasta(s)   254.929.559.552 bytes dispon°veis
